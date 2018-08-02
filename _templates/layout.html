@@ -1,0 +1,64 @@
+{# Import the theme's layout. #}
+{% extends "!layout.html" %}
+
+
+{% block footer %}
+    <footer class="footer">
+        <div class="container">
+            <p class="pull-right">
+                <a href="#">Back to top</a>
+                {% if theme_source_link_position == "footer" %}
+                    <br/>
+                    {% include "sourcelink.html" %}
+                {% endif %}
+            </p>
+            <p class="text-center">
+            {%- if show_copyright %}
+                &copy; Copyright {{ copyright }}.
+            {%- endif %}
+            {%- if show_sphinx %}
+                {% trans sphinx_version=sphinx_version|e %}Created using <a
+                    href="http://sphinx-doc.org/">Sphinx</a> {{ sphinx_version }}.{%
+                endtrans %}
+            {%- endif %}
+            </p>
+        </div>
+    </footer>
+{% endblock %}
+
+
+{%- block htmltitle %}
+    {% if pagename == "index" %}
+        <title>{{ title|striptags|e }}</title>
+    {% else %}
+        {{ super() }}
+    {% endif %}
+{%- endblock %}
+
+
+{% block content %}
+    {{ navBar() }}
+    {% if pagename == "index" %}
+        <div class="container-fluid banner"
+             style="background-image: radial-gradient(#00000099, #00000011), url({{ banner_background }}); background-position: center;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-sm-2">
+                    </div>
+                    <div class="col-lg-6 col-sm-8">
+                        <img class="banner-logo" src="{{ banner_logo }}">
+                    </div>
+                    <div class="col-lg-3 col-sm-2">
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    <div class="container">
+        <div class="content">
+            {% block body %}
+                {{ body }}
+            {% endblock %}
+        </div>
+    </div>
+{% endblock %}
