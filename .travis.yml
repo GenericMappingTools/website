@@ -1,0 +1,43 @@
+# Configuration file for TravisCI
+
+language: python
+
+python: "3.6"
+
+os: linux
+
+# Use the container builds so we don't need sudo priviledges
+sudo: false
+
+# Only build pushes to the master branch
+branches:
+    only:
+        - master
+
+# Define environment variables common to all builds
+env:
+    global:
+        # Encrypted variables
+        # Doctr deploy key for GenericMappingTools/website
+        - secure: "FuuA9P8w/RyzQ3usgZ/drFWo1ayXlsWCYlFmhtjfnQXhhTujuaVLZK3d9ygB/H/i7+phH2L8qKiIjGCDe54tW1h/L64jy69S1ZPGvguxOmOwv+HPj4aK1NgEj8std1mK/vhowqNiOVc6aWXaD3TUDNpgvpqeMlKXnJxus/cZUEOCUL19pPVT6CWxnQ5tnxqMsroabdv55j2e8ODGn6obUuFtcBAzEodmLh+J78CgEXkk9odVQWrQRwUfoWCBX0pC6yxQwpGeQ4ARY3IDweJhoj616RNNda4l7AZ30V7Jt9HNCwgDY2nIIA7r9CAHNYc5+n+REALGMh+tE3/WVVyinqehfYxwYSS0dt3snS7DyfUpFW4oaRHgkvhfSUyDPNm2dU/iSOLYRTgB7yRe1u8ZWrMiKRHjAlUANJcPiUyBpacSh+eTPP808HS8D0LylAiom5kF5KgrJpVXyQnL0dCEyFxxzoKTKs9LnLRhQhmMeGhqsm5vM6Kw4C6IMAxDQRInphZakCqI4E8CbNgtG/bz5SF/Te6+Hu2uXqkgvEMex/T2T53quU0e9UHjTxVyT9LPvlECkzB4EmGG83mD+Hqjl/9Gn42EgsDeKuhWk2OenIidpC+LmqfnR1kuy4Bn2aKWVtj/r+w0iAQXdYeS71lAL0JpnVCnaHiieC7IPu3Mc/I="
+
+# Setup the build environment
+install:
+    # Install the requirements
+    - pip install -r requirements.txt
+
+# Build the documentation HTML
+script:
+    - make all
+
+# Deploy the built HTML to Github pages
+deploy:
+    - provider: script
+      script: doctr deploy --built-docs _build/html .
+      skip_cleanup: true
+      on:
+          branch: master
+
+# Don't send out emails every time a build fails
+notifications:
+    email: false

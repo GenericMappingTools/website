@@ -7,3 +7,4 @@ dependencies:
     - pip
     - sphinx
     - sphinx_bootstrap_theme
+    - doctr
