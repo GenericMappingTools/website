@@ -32,7 +32,7 @@ html_short_title = "GMT"
 html_logo = '_static/logo.png'
 html_favicon = '_static/favicon.png'
 html_static_path = ['_static']
-html_extra_path = ['.nojekyll']
+html_extra_path = ['.nojekyll', 'team.html']
 html_use_smartypants = True
 html_sidebars = {}
 # If true, links to the reST sources are added to the pages.
