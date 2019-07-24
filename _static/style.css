@@ -12,12 +12,14 @@ body {
 
 .footer {
     margin-top: 150px;
-    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 45px;
     /* To stick the footer to the bottom of the page */
     position: absolute;
     bottom: 0;
     /* Set the fixed height of the footer here */
     min-height: 110px;
+    background-color: #c3c3c3;
 }
 
 h1 {
@@ -37,5 +39,5 @@ h1 {
 }
 
 .navbar-default {
-    background-color: #444444;
+    background-color: #32589f;
 }

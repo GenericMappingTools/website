@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-import sys
-import os
 import datetime
 import sphinx_bootstrap_theme
 
@@ -16,8 +14,7 @@ pygments_style = 'default'
 templates_path = ['_templates']
 exclude_patterns = ['_build']
 source_suffix = '.rst'
-# The encoding of source files.
-#source_encoding = 'utf-8-sig'
+source_encoding = 'utf-8'
 master_doc = 'index'
 
 # General information about the project
@@ -50,6 +47,7 @@ html_theme_options = {
     'navbar_title': '',
     'navbar_site_name': "Site",
     'navbar_links': [
+        ('About', "about/", False),
         ('<i class="fa fa-github fa-lg" title="Github Organization"></i>',
          "https://github.com/GenericMappingTools", True),
     ],
@@ -84,6 +82,7 @@ html_context = {
     "banner_logo": "_static/logo.png",
     "banner_background": "_static/banner.jpg",
 }
+
 
 # Load the custom CSS files (needs sphinx >= 1.6 for this to work)
 def setup(app):
