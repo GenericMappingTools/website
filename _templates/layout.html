@@ -2,7 +2,42 @@
 {% extends "!layout.html" %}
 
 
+{% block extrahead %}
+
+    {{ super() }}
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="{{ url }}/_static/gmt-logo.jpg">
+    <meta name="twitter:title" content="Generic Mapping Tools">
+    <meta name="twitter:description" content="The swiss army knife of geoscience">
+
+    <meta property="og:title" content="Generic Mapping Tools">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ url }}">
+    <meta property="og:site_name" content="Generic Mapping Tools">
+    <meta property="og:image" content="{{ url }}/_static/gmt-logo.jpg">
+    <meta property="og:description" content="The swiss army knife of geoscience">
+
+    <!-- Include Google Fonts CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+
+    <!-- Google Analytics tracking code -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+            Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-38125837-8', 'auto', {'storage': 'none'});
+      ga('set', 'anonymizeIp', true);
+      ga('send', 'pageview');
+    </script>
+{% endblock %}
+
+
 {% block footer %}
+
     <footer class="footer">
         <div class="container">
             <p class="text-center">
@@ -17,8 +52,8 @@
             </p>
         </div>
     </footer>
-{% endblock %}
 
+{% endblock %}
 
 {%- block htmltitle %}
     {% if pagename == "index" %}
@@ -31,17 +66,12 @@
 
 {% block content %}
     {{ navBar() }}
-    {{ pagename }}
     {% if pagename == "index" %}
-        {% set div_class="container-fluid" %}
+        {% set container_type = "container-fluid" %}
     {% else %}
-        {% set div_class="container" %}
+        {% set container_type = "container" %}
     {% endif %}
-    <div class="{{ div_class }}">
-        <div class="content">
-            {% block body %}
-                {{ body }}
-            {% endblock %}
-        </div>
+    <div class="{{ container_type }}">
+        {{ body }}
     </div>
 {% endblock %}
