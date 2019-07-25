@@ -74,6 +74,14 @@ blockquote {
     margin-right: auto;
 }
 
+.front-block video {
+    width: 70%;
+    /* Center the image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .front-block-dark {
     background-color: #efefef;
 }
@@ -116,6 +124,14 @@ blockquote {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.carousel-control.right {
+    background-image: none;
+}
+
+.carousel-control.left {
+    background-image: none;
 }
 
 @media (min-width:1200px) {

@@ -43,11 +43,11 @@
                   <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc3">GMT 6.0.0 Release Candidate 3</a>
                </li>
                <li>
-                  2019-07-03
+                  2019-07-03:
                   <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc2">GMT 6.0.0 Release Candidate 2</a>
                </li>
                <li>
-                  2019-02-19
+                  2019-02-19:
                   <a href="https://github.com/GenericMappingTools/gmt/releases/tag/5.4.5">GMT 5.4.5</a>
                </li>
                </ul>
@@ -83,7 +83,7 @@
 
             </div>
             <div class="col-sm-5 col-sm-pull-7">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Brasilien_topo.jpg">
+                <img src="_static/figures/lithospheric-age.png">
             </div>
         </div>
    </div>
@@ -91,6 +91,24 @@
    <div class="container-fluid front-block front-block-dark">
         <div class="row">
             <div class="col-sm-7 front-block-text">
+
+            <h2>C, MATLAB, Julia, Python</h2>
+
+            Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+
+            </div>
+            <div class="col-sm-4">
+                <img src="_static/languages.svg">
+            </div>
+        </div>
+   </div>
+
+   <div class="container-fluid front-block front-block-light">
+        <div class="row">
+            <div class="col-sm-7 col-sm-push-5 front-block-text">
 
             <h2>Publication quality figures and animations</h2>
 
@@ -100,26 +118,45 @@
             bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 
             </div>
-            <div class="col-sm-4">
-                <img src="https://docs.generic-mapping-tools.org/latest/_images/anim_08.gif">
-            </div>
-        </div>
-   </div>
-
-   <div class="container-fluid front-block front-block-light">
-        <div class="row">
-            <div class="col-sm-7 col-sm-push-5 front-block-text">
-
-            <h2>Bash, C, MATLAB, Julia, Python</h2>
-
-            Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-
-            </div>
             <div class="col-sm-5 col-sm-pull-7">
-                <img src="https://docs.generic-mapping-tools.org/latest/_images/example_49.png">
+               <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="2500">
+                 <ol class="carousel-indicators">
+                   <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                   <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                   <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                   <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+                 </ol>
+                 <div class="carousel-inner" role="listbox">
+                   <div class="item active">
+                     <img src="_static/figures/example_28.png">
+                     <div class="carousel-caption">
+                     </div>
+                   </div>
+                   <div class="item">
+                     <img src="_static/figures/example_07.png">
+                     <div class="carousel-caption">
+                     </div>
+                   </div>
+                   <div class="item">
+                     <img src="_static/figures/example_09.png">
+                     <div class="carousel-caption">
+                     </div>
+                   </div>
+                   <div class="item">
+                     <img src="_static/figures/example_20.png">
+                     <div class="carousel-caption">
+                     </div>
+                   </div>
+                 </div>
+                 <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                   <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                   <span class="sr-only">Previous</span>
+                 </a>
+                 <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                   <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                   <span class="sr-only">Next</span>
+                 </a>
+               </div>
             </div>
         </div>
    </div>
