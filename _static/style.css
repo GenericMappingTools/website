@@ -19,7 +19,6 @@ a {
 }
 
 h1 {
-    /*margin-top: 150px;*/
     margin-bottom: 40px;
     line-height: 70px;
     text-align: center;
@@ -42,6 +41,37 @@ blockquote {
     color: #666666;
 }
 
+.slogan {
+    font-style: italic;
+    color: #777;
+    font-size: 1.2em;
+    margin: 50px 0px;
+    text-align: center;
+}
+
+.slogan > footer {
+    text-align: right;
+}
+
+.front-block {
+    padding: 100px 70px;
+}
+
+.front-block img {
+    width: 90%;
+    /* Center the image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.front-block-1 {
+    background-color: #efefef;
+}
+
+.front-block-2 {
+}
+
 .footer {
     font-size: 0.9em;
     background-color: #dddddd;
@@ -60,11 +90,6 @@ blockquote {
     .container {
         width:970px;
     }
-}
-
-/* To prevent Academicons from messing with the spacing */
-.fa-li {
-    top: 0 !important;
 }
 
 

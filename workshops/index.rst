@@ -4,12 +4,12 @@ Workshops
 =========
 
 The GMT team and other volunteers teach user and developer workshops in various places.
-Here is a list of :ref:`past <past_workshops>` and :ref:`future <future_workshops>`
-locations.
+Here is a list of past and future locations.
+
+* :ref:`Upcoming <future_workshops>`
+* :ref:`Past <past_workshops>`
 
 Attending a workshop is the best way to get started using and *developing* GMT!
-
-----
 
 .. _future_workshops:
 
@@ -33,7 +33,6 @@ contributor. This workshop will provide a hands-on experience: we will guide
 you through setting up your computer, building GMT, writing documentation, and
 using git and GitHub to work on GMT development in a friendly and collaborative
 environment.
-
 
 
 

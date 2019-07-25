@@ -66,12 +66,11 @@
 
 {% block content %}
     {{ navBar() }}
-    {% if pagename == "index" %}
-        {% set container_type = "container-fluid" %}
-    {% else %}
-        {% set container_type = "container" %}
+    {% if pagename != "index" %}
+    <div class="container">
     {% endif %}
-    <div class="{{ container_type }}">
         {{ body }}
+    {% if pagename != "index" %}
     </div>
+    {% endif %}
 {% endblock %}

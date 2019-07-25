@@ -59,6 +59,7 @@ html_theme_options = {
     "navbar_links": [
         ("Home", "/", True),
         ("About", "about/", True),
+        ("Download", "download/", True),
         ("Workshops", "workshops/", True),
         ("Documentation", "https://docs.generic-mapping-tools.org", True),
     ],
