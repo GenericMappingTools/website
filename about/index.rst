@@ -10,24 +10,59 @@ artificially illuminated surfaces and 3D perspective views. It supports many map
 projections and transformations and includes supporting data such as coastlines, rivers,
 and political boundaries and optionally country polygons.
 
-Development on GitHub and we have a CoC.
-See how to contribute.
-
 
 Council
 -------
 
-List the current and previous council members.
+As of August 2016, GMT development and maintenance is being guided by a GMT Steering
+Committee, lead by Chair David Sandwell (Scripps) and members Louise Kellogg (UC Davis),
+Dave Caress (MBARI), Steve Diggs (Scripps), Dan Bassett (GNS Science, New Zealand), and
+Khalid Soofi (ConocoPhillips).
+
 
 Support
 -------
 
-Thank NSF and SOEST and list NSF grants.
+GMT could not have been designed without the generous support of several people:
+
+* The founders (Wessel and Smith) gratefully acknowledge A. B. Watts and the late W. F.
+  Haxby for supporting their efforts on the original version 1.0 while they were their
+  graduate students at Lamont-Doherty Earth Observatory.
+* Doug Shearer and Roger Davis patiently answered many questions over e-mail.
+* The subroutine ``gauss`` was written and supplied by Bill Menke.
+
+Further development was made possible by grants and fellowships:
+
+* National Science Foundation grants
+  `EAR-1829371 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829371>`__,
+  `OCE1029874 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1029874>`__,
+  `OCE-0452126 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0452126>`__,
+  `OCE-0082552 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0082552>`__,
+  `OCE-9529431 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=9529431>`__,
+  and
+  `EAR-9302272 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=9302272>`__.
+* Versions 2.0–2.1 would not have been possible without the support from the HIGP/SOEST
+  Post-Doctoral Fellowship program to Paul Wessel.
+* Walter H. F. Smith gratefully acknowledges the generous support of the C. H. and I. M.
+  Green Foundation for Earth Sciences at the Institute of Geophysics and Planetary
+  Physics, Scripps Institution of Oceanography, University of California at San Diego.
 
 History
 -------
 
-A bit about the history of GMT (with link to Paul's talk). Take some text from the
-manual.
+The GMT system was initiated in late 1987 at Lamont-Doherty Earth Observatory, Columbia
+University by graduate students Paul Wessel and Walter H. F. Smith.  Version 1 was
+officially introduced to Lamont scientists in July 1988.  GMT 1 migrated by word of
+mouth (and tape) to other institutions in the United States, UK, Japan, and France and
+attracted a small following.  Paul took a Post-doctoral position at SOEST in December
+1989 and continued the GMT development. Version 2.0 was released with an article in EOS,
+October 1991, and quickly spread worldwide. Version 3.0 in 1993 which was released with
+another article in EOS on August 15, 1995.  A major upgrade to GMT 4.0 took place in Oct
+2004. Finally, in 2013 we released the new GMT 5 series and we have updated this
+tutorial to reflect the changes in style and syntax.  However, GMT 5 is generally
+backwards compatible with GMT 4 syntax. GMT is used by tens of thousands of users
+worldwide in a broad range of disciplines.
+
+
 
 .. _PostScript: https://en.wikipedia.org/wiki/PostScript

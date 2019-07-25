@@ -10,7 +10,7 @@ body {
     font-size: 1.8em;
     line-height: 1.8em;
     /* Margin bottom by footer height with a little room to accomodate small screens */
-    margin-bottom: 350px;
+    margin-bottom: 400px;
     scroll-behavior: smooth;
 }
 
@@ -64,6 +64,10 @@ blockquote {
 
 .front-block-text {
     margin-bottom: 40px;
+}
+
+.front-block-text li {
+    margin-bottom: 15px;
 }
 
 .front-block img {

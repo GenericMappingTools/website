@@ -34,6 +34,7 @@ html_theme_options = {
         ("Home", "/", True),
         ("About", "about/", True),
         ("Download", "download/", True),
+        ("Citing", "cite/", True),
         ("Documentation", "documentation/", True),
         ("Ecosystem", "projects/", True),
         ("Workshops", "workshops/", True),

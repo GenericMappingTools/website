@@ -26,10 +26,14 @@
 
                <ul>
                <li>
-                  Something about the GMT 6 paper
+                  Release candidates for GMT 6.0.0 are now available!
+                  See the <a href="/download">Download</a> page.
                </li>
                <li>
-                  New grant approved for doing this and that
+                  🎊 NSF-EAR grant
+                  <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829371">number 1829371</a>
+                  awarded to fund development
+                  of the new "modern mode" in GMT 6 and more!
                </li>
                </ul>
 
@@ -92,24 +96,6 @@
         <div class="row">
             <div class="col-sm-7 front-block-text">
 
-            <h2>C, MATLAB, Julia, Python</h2>
-
-            Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-
-            </div>
-            <div class="col-sm-4">
-                <img src="_static/languages.svg">
-            </div>
-        </div>
-   </div>
-
-   <div class="container-fluid front-block front-block-light">
-        <div class="row">
-            <div class="col-sm-7 col-sm-push-5 front-block-text">
-
             <h2>Publication quality figures and animations</h2>
 
             Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
@@ -118,7 +104,7 @@
             bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 
             </div>
-            <div class="col-sm-5 col-sm-pull-7">
+            <div class="col-sm-5">
                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="2500">
                  <ol class="carousel-indicators">
                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -161,12 +147,31 @@
         </div>
    </div>
 
+   <div class="container-fluid front-block front-block-light">
+        <div class="row">
+            <div class="col-sm-7 col-sm-push-5 front-block-text">
+
+            <h2>C, MATLAB, Julia, Python</h2>
+
+            Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+
+            </div>
+            <div class="col-sm-5 col-sm-pull-7">
+                <img src="_static/languages.svg">
+            </div>
+        </div>
+   </div>
+
 
 .. toctree::
    :hidden:
 
    about/index.rst
    download/index.rst
+   cite/index.rst
    projects/index.rst
    workshops/index.rst
    documentation/index.rst
