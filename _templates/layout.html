@@ -38,20 +38,44 @@
 
 {% block footer %}
 
-    <footer class="footer">
-        <div class="container">
-            <p class="text-center">
-            {%- if show_copyright %}
+<footer class="footer">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-8">
+            <p>
                 &copy; Copyright {{ copyright }}.
-            {%- endif %}
-            {%- if show_sphinx %}
-                {% trans sphinx_version=sphinx_version|e %}Created using <a
-                    href="http://sphinx-doc.org/">Sphinx</a> {{ sphinx_version }}.{%
-                endtrans %}
-            {%- endif %}
             </p>
+            <p>
+                {% trans sphinx_version=sphinx_version|e %}
+                    Created using
+                    <a href="http://sphinx-doc.org/">Sphinx</a> {{ sphinx_version }}
+                {% endtrans %}
+                from source code at
+                <a href="https://github.com/GenericMappingTools/website/"></a>.
+                {% trans last_updated=last_updated|e %}
+                    Last updated on {{ last_updated }}.
+                {% endtrans %}
+            </p>
+            <p>
+                GMT is supported by the
+                <a href="https://www.soest.hawaii.edu">School of Ocean and Earth Science and Technology</a>
+                of the University of Hawai'i at Mānoa and grants from the
+                <a href"https://www.nsf.gov">National Science Foundation</a>.
+            </p>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-xs-6">
+                        <img src="/_static/soest-logo.png">
+                    </div>
+                    <div class="col-xs-6">
+                        <img src="/_static/nsf-logo.png">
+                    </div>
+                </div>
+            </div>
         </div>
-    </footer>
+    </div>
+</footer>
 
 {% endblock %}
 

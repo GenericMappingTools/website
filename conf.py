@@ -21,33 +21,7 @@ html_static_path = ["_static"]
 html_extra_path = [".nojekyll"]
 html_use_smartypants = True
 pygments_style = "default"
-add_function_parentheses = False
 html_add_permalinks = ""
-# Custom sidebar templates, maps document names to template names.
-html_sidebars = {}
-# Additional templates that should be rendered to pages, maps page names to
-# template names.
-# html_additional_pages = {}
-# If false, no module index is generated.
-# html_domain_indices = True
-# If false, no index is generated.
-# html_use_index = True
-# If true, the index is split into individual pages for each letter.
-# html_split_index = False
-# If true, links to the reST sources are added to the pages.
-html_show_sourcelink = True
-# If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
-html_show_sphinx = True
-# If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
-html_show_copyright = True
-# If true, an OpenSearch description file will be output, and all pages will
-# contain a <link> tag referring to it.  The value of this option must be the
-# base URL from which the finished HTML is served.
-# html_use_opensearch = ''
-# This is the file name suffix for HTML files (e.g. ".xhtml").
-# html_file_suffix = None
-# Output file base name for HTML help builder.
-# htmlhelp_basename = ""
 
 # Theme config
 html_theme = "bootstrap"
@@ -60,8 +34,9 @@ html_theme_options = {
         ("Home", "/", True),
         ("About", "about/", True),
         ("Download", "download/", True),
+        ("Documentation", "documentation/", True),
+        ("Ecosystem", "projects/", True),
         ("Workshops", "workshops/", True),
-        ("Documentation", "https://docs.generic-mapping-tools.org", True),
     ],
     # Render the next and previous page links in navbar. (Default: true)
     "navbar_sidebarrel": False,
@@ -103,6 +78,8 @@ html_context = {
         ),
     ],
     "url": "https://www.generic-mapping-tools.org/website",
+    "last_updated": str(datetime.date.today()),
+    "repository": "GenericMappingTools/website",
 }
 
 

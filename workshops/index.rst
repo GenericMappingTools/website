@@ -9,7 +9,7 @@ Here is a list of past and future locations.
 * :ref:`Upcoming <future_workshops>`
 * :ref:`Past <past_workshops>`
 
-Attending a workshop is the best way to get started using and *developing* GMT!
+Attending a workshop is the best way to get started **using and developing** GMT!
 
 .. _future_workshops:
 
@@ -25,18 +25,18 @@ Upcoming Workshops
 * **Where:** AGU 2019 Fall Meeting | Moscone Convention Center, San Francisco, CA, USA
 * **Repository:** TBD
 
-We will teach you how to join the GMT developer community and make
-contributions to the project EVEN IF YOU CAN’T CODE. If you can read and write
-in English, have ideas for new features, write GMT scripts, or code in C (or
-Matlab, Julia, Python), then you have what it takes to become a GMT
-contributor. This workshop will provide a hands-on experience: we will guide
-you through setting up your computer, building GMT, writing documentation, and
+We will teach you how to join the GMT developer community and make contributions to the
+project EVEN IF YOU CAN’T CODE. This workshop will provide hands-on experience: we will
+guide you through setting up your computer, building GMT, writing documentation, and
 using git and GitHub to work on GMT development in a friendly and collaborative
 environment.
 
 
 
-----
+.. raw:: html
+
+   <hr style="margin: 80px 0px;">
+
 
 .. _past_workshops:
 
@@ -55,5 +55,4 @@ Past Workshops
 This 2-day course will cover the use of Generic Mapping Tools (GMT) in geodesy using
 UNIX shell scripting. Lectures and exercises will be given to teach the basic
 conventions of using GMT, such as plotting grids, images, and vector data (points,
-lines, polygons). Labs will include both processing and mapping of various data sets
-relevant to geodesy.
+lines, polygons).

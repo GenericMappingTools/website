@@ -28,11 +28,12 @@ h1 {
 
 h2 {
     margin-top: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     font-size: 1.7em;
 }
 
 h3 {
+    margin-top: 30px;
     margin-bottom: 20px;
     font-size: 1.2em;
 }
@@ -45,7 +46,7 @@ blockquote {
     font-style: italic;
     color: #777;
     font-size: 1.2em;
-    margin: 50px 0px;
+    margin: 80px 0px;
     text-align: center;
 }
 
@@ -54,7 +55,15 @@ blockquote {
 }
 
 .front-block {
-    padding: 100px 70px;
+    padding: 100px 50px;
+}
+
+.front-block h2 {
+    margin: 0px  0px 30px 0px;
+}
+
+.front-block-text {
+    margin-bottom: 40px;
 }
 
 .front-block img {
@@ -65,11 +74,27 @@ blockquote {
     margin-right: auto;
 }
 
-.front-block-1 {
+.front-block-dark {
     background-color: #efefef;
 }
 
-.front-block-2 {
+.front-block-light {
+}
+
+.front-updates h2 {
+    text-align: center;
+}
+
+.front-updates p {
+    text-align: right;
+}
+
+.pagination > li > a {
+    background-color: #0079b5;
+}
+
+.pagination > li > a:hover {
+    background-color: #006495;
 }
 
 .footer {
@@ -77,8 +102,7 @@ blockquote {
     background-color: #dddddd;
     color: #333333;
     margin-top: 50px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px 70px;
     /* To stick the footer to the bottom of the page */
     position: absolute;
     bottom: 0;
@@ -86,9 +110,20 @@ blockquote {
     min-height: 90px;
 }
 
+.footer img {
+    width: 60%;
+    /* Center the image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 @media (min-width:1200px) {
     .container {
         width:970px;
+    }
+    .front-block {
+        padding: 100px 100px;
     }
 }
 
