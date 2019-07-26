@@ -10,7 +10,7 @@ body {
     font-size: 1.8em;
     line-height: 1.8em;
     /* Margin bottom by footer height with a little room to accomodate small screens */
-    margin-bottom: 400px;
+    margin-bottom: 600px;
     scroll-behavior: smooth;
 }
 
@@ -54,8 +54,12 @@ blockquote {
     text-align: right;
 }
 
+.front-logo {
+    margin: 20px 0px 100px 0px;
+}
+
 .front-block {
-    padding: 100px 50px;
+    padding: 100px 15px;
 }
 
 .front-block h2 {
@@ -78,16 +82,9 @@ blockquote {
     margin-right: auto;
 }
 
-.front-block video {
-    width: 70%;
-    /* Center the image */
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .front-block-dark {
-    background-color: #efefef;
+    background-color: #f0f0f0;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.2) inset;
 }
 
 .front-block-light {
@@ -113,13 +110,12 @@ blockquote {
     font-size: 0.9em;
     background-color: #dddddd;
     color: #333333;
-    margin-top: 50px;
-    padding: 40px 70px;
+    padding: 40px 0px;
     /* To stick the footer to the bottom of the page */
     position: absolute;
     bottom: 0;
     /* Set the fixed height of the footer here */
-    min-height: 90px;
+    min-height: 180px;
 }
 
 .footer img {
@@ -144,6 +140,15 @@ blockquote {
     }
     .front-block {
         padding: 100px 100px;
+    }
+    .footer {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+@media (min-width:767px) {
+    body {
+        margin-bottom: 400px;
     }
 }
 

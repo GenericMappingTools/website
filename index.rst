@@ -8,11 +8,7 @@
             <div class="col-lg-2 col-sm-2 col-xs-0">
             </div>
             <div class="col-lg-8 col-sm-8 col-xs-12">
-                <img src="_static/gmt-logo.png">
-                <blockquote class="slogan">
-                   <p>The Swiss Army knife of Geoscience</p>
-                   <footer>A user with bloody fingers</footer>
-                </blockquote>
+                <img class="front-logo" src="_static/gmt-logo.png">
             </div>
             <div class="col-lg-2 col-sm-2 col-xs-0">
             </div>
@@ -111,10 +107,11 @@
                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
                    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+                   <li data-target="#carousel-example-generic" data-slide-to="5"></li>
                  </ol>
                  <div class="carousel-inner" role="listbox">
                    <div class="item active">
-                     <img src="_static/figures/example_28.png">
+                     <img src="_static/figures/example_49.png">
                      <div class="carousel-caption">
                      </div>
                    </div>
@@ -130,6 +127,11 @@
                    </div>
                    <div class="item">
                      <img src="_static/figures/example_20.png">
+                     <div class="carousel-caption">
+                     </div>
+                   </div>
+                   <div class="item">
+                     <img src="_static/figures/example_29.png">
                      <div class="carousel-caption">
                      </div>
                    </div>
