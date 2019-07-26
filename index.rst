@@ -26,7 +26,7 @@
                   See the <a href="/download">Download</a> page.
                </li>
                <li>
-                   NSF-EAR grant
+                  NSF-EAR grant
                   <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829371">number 1829371</a>
                   awarded to fund development
                   of the new "modern mode" in GMT 6 and more!
