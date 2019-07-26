@@ -1,4 +1,4 @@
-.. title:: Generic Mapping Tools
+.. title:: The Generic Mapping Tools
 
 
 .. raw:: html

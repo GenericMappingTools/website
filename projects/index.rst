@@ -5,19 +5,6 @@ The GMT ecosystem
 
 A bit about main GMT, the external interfaces, and derived projects (GMTSAR, MB-System).
 
-.. raw:: html
-
-   <nav aria-label="Page navigation" class="text-center">
-     <ul class="pagination">
-       <li><a href="#core">Core GMT</a></li>
-       <li><a href="#gmtsar">GMTSAR</a></li>
-       <li><a href="#mbsystem">MB-System</a></li>
-       <li><a href="#matlab">GMTMex</a></li>
-       <li><a href="#julia">GMT.jl</a></li>
-       <li><a href="#python">PyGMT</a></li>
-     </ul>
-   </nav>
-
 
 .. _core:
 
