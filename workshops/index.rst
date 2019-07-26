@@ -43,7 +43,7 @@ environment.
 Past Workshops
 --------------
 
-2019-02-22 | GMT for Geodesy at Scripps
+2019-07-22 | GMT for Geodesy at Scripps
 +++++++++++++++++++++++++++++++++++++++
 
 * **Title:** The Generic Mapping Tools for Geodesy
