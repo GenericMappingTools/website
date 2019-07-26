@@ -11,10 +11,10 @@ A bit about main GMT, the external interfaces, and derived projects (GMTSAR, MB-
 Core GMT
 --------
 
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+The core GMT API library lies at the center of GMT. It powers the command-line modules
+typically scripted in shell languages (bash, csh, etc).  It can also be linked with
+a user's custom C or C++ program to extend GMT into discipline-specific processing or
+plotting for applications not currently supported by the core GMT package.
 
 .. raw:: html
 
@@ -32,10 +32,9 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 GMTMex
 ------
 
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+The GMT/MATLAB toolbox allows users of MATLAB and Octave to write scripts in those
+environments that calls the GMT modules directly.  Users can pass and retrieve data
+from and to their environment and benefit from the best of both worlds.
 
 .. raw:: html
 

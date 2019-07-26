@@ -15,9 +15,8 @@ Council
 -------
 
 As of August 2016, GMT development and maintenance is being guided by a GMT Steering
-Committee, lead by Chair David Sandwell (Scripps) and members Louise Kellogg (UC Davis),
-Dave Caress (MBARI), Steve Diggs (Scripps), Dan Bassett (GNS Science, New Zealand), and
-Khalid Soofi (ConocoPhillips).
+Committee, lead by Chair David Sandwell (Scripps) and members Dave Caress (MBARI),
+Steve Diggs (Scripps), Dan Bassett (GNS Science, New Zealand), and Khalid Soofi (ConocoPhillips).
 
 
 Support

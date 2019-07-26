@@ -26,7 +26,7 @@
                   See the <a href="/download">Download</a> page.
                </li>
                <li>
-                  🎊 NSF-EAR grant
+                   NSF-EAR grant
                   <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829371">number 1829371</a>
                   awarded to fund development
                   of the new "modern mode" in GMT 6 and more!
@@ -74,12 +74,12 @@
         <div class="row">
             <div class="col-sm-7 col-sm-push-5 front-block-text">
 
-            <h2>A toolbox for Earth and Planetary Science</h2>
+            <h2>A toolbox for Earth, Ocean, and Planetary Science</h2>
 
-            Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+            GMT is widely used across the Earth, Ocean, and Planetary sciences. A diverse community
+	    use GMT to process data, generate publication-quality illustrations, automate workflows,
+	    and make animations.  Scientific journals, posters at meetings, and Wikipedia pages display
+	    illustrations made by GMT.
 
             </div>
             <div class="col-sm-5 col-sm-pull-7">
@@ -94,10 +94,9 @@
 
             <h2>Publication quality figures and animations</h2>
 
-            Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+            Whether Cartesian, geographic, or time-series, GMT can process your data. GMT enables
+	    you to explore new ways to analyze data and to build custom displays for drafts, publications,
+	    or final presentations.  GMT allows unlimited customization via scripting in several languages.
 
             </div>
             <div class="col-sm-5">
@@ -155,10 +154,10 @@
 
             <h2>C, MATLAB, Julia, Python</h2>
 
-            Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+            GMT has been used from UNIX and Windows command lines for decades.  More recently, GMT
+	    has been rebuilt as an Application Programming Interface (API) and can now be accessed
+	    via wrapper libraries from MATLAB/Octave, Julia, and Python, as well from custom programs
+	    written in C or C++.
 
             </div>
             <div class="col-sm-5 col-sm-pull-7">
