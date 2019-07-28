@@ -55,10 +55,8 @@ from and to their environment and benefit from the best of both worlds.
 GMT.jl
 ++++++
 
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+The GMT.jl wrapper is intended not only to access to GMT from within the Julia language
+but also to provide a more modern interface to the GMT modules.
 
 .. raw:: html
 
