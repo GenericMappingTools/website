@@ -62,6 +62,15 @@ tutorial to reflect the changes in style and syntax.  However, GMT 5 is generall
 backwards compatible with GMT 4 syntax. GMT is used by tens of thousands of users
 worldwide in a broad range of disciplines.
 
+For more detail on the history of GMT, you can watch this recorded talk by Paul Wessel
+on the 20th anniversary of the first release
+(`original version <https://doi.org/10.5446/19869>`__):
+
+.. raw:: html
+
+   <div class="embed-responsive embed-responsive-16by9">
+      <iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/19869" frameborder="0" allowfullscreen></iframe>
+   </div>
 
 
 .. _PostScript: https://en.wikipedia.org/wiki/PostScript
