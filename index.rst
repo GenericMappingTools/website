@@ -31,6 +31,10 @@
                   awarded to fund development
                   of the new "modern mode" in GMT 6 and more!
                </li>
+               <li>
+               Paul and Leo were <a href="http://www.dontpanicgeocast.com/?p=638">interviewed on the <em>Don't Panic
+               Geocast</em></a>.
+               </li>
                </ul>
 
             </div>
