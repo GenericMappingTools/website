@@ -55,7 +55,7 @@ from and to their environment and benefit from the best of both worlds.
 GMT.jl
 ++++++
 
-The GMT.jl wrapper is intended not only to access to GMT from within the Julia language
+The GMT.jl wrapper is intended not only to access GMT from within the Julia language
 but also to provide a more modern interface to the GMT modules by fully expanding the compact
 syntax into long options names.
 
