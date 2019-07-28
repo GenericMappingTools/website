@@ -27,10 +27,13 @@ plotting for applications not currently supported by the core GMT package.
       </li>
    </ul>
 
+GMT interfaces
+--------------
+
 .. _matlab:
 
 GMTMex
-------
+++++++
 
 The GMT/MATLAB toolbox allows users of MATLAB and Octave to write scripts in those
 environments that calls the GMT modules directly.  Users can pass and retrieve data
@@ -50,7 +53,7 @@ from and to their environment and benefit from the best of both worlds.
 .. _julia:
 
 GMT.jl
-------
+++++++
 
 Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
@@ -71,12 +74,11 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 .. _python:
 
 PyGMT
------
++++++
 
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+A Python library for accessing GMT's plotting and data processing capabilities from a
+simplified, object-oriented interface that is compatible with the
+`Jupyter notebook <https://jupyter.org/>`__.
 
 .. raw:: html
 
@@ -89,15 +91,18 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
       </li>
    </ul>
 
+
+Software relying on GMT
+-----------------------
+
 .. _gmtsar:
 
 GMTSAR
-------
+++++++
 
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+An open source (GNU General Public License) InSAR processing system based on GMT and
+designed for users familiar with Generic Mapping Tools (GMT). The code is written in C
+and will compile on any computer where GMT and NETCDF are installed.
 
 .. raw:: html
 
@@ -113,12 +118,10 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 .. _mbsystem:
 
 MB-System
----------
++++++++++
 
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+An open source software package for the processing and display of bathymetry and
+backscatter imagery data derived from multibeam, interferometry, and sidescan sonars.
 
 .. raw:: html
 
