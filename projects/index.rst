@@ -39,7 +39,7 @@ from and to their environment and benefit from the best of both worlds.
 
    <ul class="fa-ul">
       <li><i class="fa-li fa fa-book fa-fw"></i>
-         <a href="http://gmt.soest.hawaii.edu/projects/gmt-MATLAB-octave-api/wiki">Documentation</a>
+         <a href="https://github.com/GenericMappingTools/gmtmex/wiki">Documentation</a>
       </li>
       <li><i class="fa-li fab fa-github fa-fw"></i>
          <a href="https://github.com/GenericMappingTools/gmtmex">GenericMappingTools/gmtmex</a>
