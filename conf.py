@@ -78,7 +78,7 @@ html_context = {
             "https://gitter.im/GenericMappingTools/Lobby",
         ),
     ],
-    "url": "https://www.generic-mapping-tools.org/website",
+    "url": "https://www.generic-mapping-tools.org",
     "last_updated": str(datetime.date.today()),
     "repository": "GenericMappingTools/website",
 }
