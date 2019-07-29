@@ -27,8 +27,8 @@ The articles on GMT are:
 Some GMT modules are based on algorithms we have developed and published separately,
 such as:
 
-* Kim, S.*S., and P. Wessel, Directional median filtering for
-  regional*residual separation of bathymetry, *Geochem. Geophys.
+* Kim, S.-S., and P. Wessel, Directional median filtering for
+  regional-residual separation of bathymetry, *Geochem. Geophys.
   Geosyst.*, 9, Q03005, 2008. `doi:10.1029/2007GC001850 <http://dx.doi.org/10.1029/2007GC001850>`_.
   [``dimfilter``]
 * Luis, J. F. and J. M. Miranda, Reevaluation of magnetic chrons in the
@@ -42,10 +42,10 @@ such as:
 * Wessel, P., Tools for analyzing intersecting tracks: The x2sys
   package, *Computers & Geosciences*, 36, 348–354, 2010. `doi:10.1016/j.cageo.2009.05.009 <http://dx.doi.org/10.1016/j.cageo.2009.05.009>`_.
   [**x2sys** supplement]
-* Wessel, P., A General*purpose Green's function*based interpolator,
+* Wessel, P., A General-purpose Green's function-based interpolator,
   *Computers & Geosciences*, 35, 1247–1254, 2009. `doi:10.1016/j.cageo.2008.08.012 <http://dx.doi.org/10.1016/j.cageo.2008.08.012>`_.
   [``greenspline``]
 * Wessel, P. and J. M. Becker, Interpolation using a generalized
   Green's function for a spherical surface spline in tension, *Geophys.
-  J. Int.*, 174, 21–28, 2008. `doi:10.1111/j.1365*246X.2008.03829.x <http://dx.doi.org/10.1111/j.1365*246X.2008.03829.x>`_.
+  J. Int.*, 174, 21–28, 2008. `doi:10.1111/j.1365-246X.2008.03829.x <http://dx.doi.org/10.1111/j.1365-246X.2008.03829.x>`_.
   [``greenspline``]
