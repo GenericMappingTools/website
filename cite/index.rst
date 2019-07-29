@@ -32,7 +32,7 @@ such as:
   Geosyst.*, 9, Q03005, 2008. `doi:10.1029/2007GC001850 <http://dx.doi.org/10.1029/2007GC001850>`_.
   [``dimfilter``]
 * Luis, J. F. and J. M. Miranda, Reevaluation of magnetic chrons in the
-  North Atlantic between 35ºN and 47ºN: Implications for the formation of the
+  North Atlantic between 35°N and 47°N: Implications for the formation of the
   Azores Triple Junction and associated plateau,
   *J. Geophys. Res.*, 113, B10105, 2008. `doi:10.1029/2007JB005573 <http://dx.doi.org/10.1029/2007JB005573>`_.
   [``grdredpol``, **potential** supplement]
