@@ -6,8 +6,6 @@ The GMT ecosystem
 A bit about main GMT, the external interfaces, and derived projects (GMTSAR, MB-System).
 
 
-.. _core:
-
 Core GMT
 --------
 
@@ -30,8 +28,6 @@ plotting for applications not currently supported by the core GMT package.
 GMT interfaces
 --------------
 
-.. _matlab:
-
 GMTMex
 ++++++
 
@@ -43,14 +39,13 @@ from and to their environment and benefit from the best of both worlds.
 
    <ul class="fa-ul">
       <li><i class="fa-li fa fa-book fa-fw"></i>
-         <a href="gmt.soest.hawaii.edu/projects/gmt-MATLAB-octave-api/wiki">Documentation</a>
+         <a href="http://gmt.soest.hawaii.edu/projects/gmt-MATLAB-octave-api/wiki">Documentation</a>
       </li>
       <li><i class="fa-li fab fa-github fa-fw"></i>
          <a href="https://github.com/GenericMappingTools/gmtmex">GenericMappingTools/gmtmex</a>
       </li>
    </ul>
 
-.. _julia:
 
 GMT.jl
 ++++++
@@ -69,8 +64,6 @@ syntax into long options names.
          <a href="https://github.com/GenericMappingTools/GMT.jl">GenericMappingTools/GMT.jl</a>
       </li>
    </ul>
-
-.. _python:
 
 PyGMT
 +++++
@@ -94,8 +87,6 @@ simplified, object-oriented interface that is compatible with the
 Software relying on GMT
 -----------------------
 
-.. _gmtsar:
-
 GMTSAR
 ++++++
 
@@ -113,8 +104,6 @@ and will compile on any computer where GMT and NETCDF are installed.
          <a href="https://github.com/dsandwell/gmtsar">dsandwell/gmtsar</a>
       </li>
    </ul>
-
-.. _mbsystem:
 
 MB-System
 +++++++++
