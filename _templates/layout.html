@@ -8,13 +8,13 @@
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:image" content="{{ url }}/_static/gmt-logo.jpg">
-    <meta name="twitter:title" content="Generic Mapping Tools">
+    <meta name="twitter:title" content="{{ title|striptags|e }}">
     <meta name="twitter:description" content="The swiss army knife of geoscience">
 
-    <meta property="og:title" content="Generic Mapping Tools">
+    <meta property="og:title" content="{{ title|striptags|e }}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ url }}">
-    <meta property="og:site_name" content="Generic Mapping Tools">
+    <meta property="og:site_name" content="{{ title|striptags|e }}">
     <meta property="og:image" content="{{ url }}/_static/gmt-logo.jpg">
     <meta property="og:description" content="The swiss army knife of geoscience">
 
