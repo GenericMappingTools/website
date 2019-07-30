@@ -57,8 +57,7 @@ attracted a small following.  Paul took a Post-doctoral position at SOEST in Dec
 1989 and continued the GMT development. Version 2.0 was released with an article in EOS,
 October 1991, and quickly spread worldwide. Version 3.0 in 1993 which was released with
 another article in EOS on August 15, 1995.  A major upgrade to GMT 4.0 took place in Oct
-2004. Finally, in 2013 we released the new GMT 5 series and we have updated this
-tutorial to reflect the changes in style and syntax.  However, GMT 5 is generally
+2004. Finally, in 2013 we released the new GMT 5 series, which are generally
 backwards compatible with GMT 4 syntax. GMT is used by tens of thousands of users
 worldwide in a broad range of disciplines.
 
