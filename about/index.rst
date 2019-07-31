@@ -66,6 +66,9 @@ More detail on the history of GMT:
 * Listen to this interview of Paul Wessel and Leonardo Uieda on the *Don't Panic
   Geocast* episode
   `"You are headed to a warm and sunny place" <http://www.dontpanicgeocast.com/?p=638>`__.
+* Walter Smith was also interview by *Don't Panic* on episode
+  `"Take the toaster apart" <https://www.dontpanicgeocast.com/?p=742>`__ where he talks
+  about the early history of GMT and other topics.
 * Watch this recorded talk by Paul Wessel on the 20th anniversary of the first release (`original version <https://doi.org/10.5446/19869>`__):
 
 .. raw:: html
