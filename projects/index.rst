@@ -101,7 +101,7 @@ and will compile on any computer where GMT and NETCDF are installed.
          <a href="https://topex.ucsd.edu/gmtsar/">Documentation</a>
       </li>
       <li><i class="fa-li fab fa-github fa-fw"></i>
-         <a href="https://github.com/dsandwell/gmtsar">dsandwell/gmtsar</a>
+         <a href="https://github.com/gmtsar/gmtsar">dsandwell/gmtsar</a>
       </li>
    </ul>
 
