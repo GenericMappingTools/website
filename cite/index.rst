@@ -9,6 +9,11 @@ illustrations obtained using GMT. **When in doubt, please cite the latest paper.
 
 The articles on GMT are:
 
+* **GMT 6**:
+  Wessel, P., Luis, J., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2019).
+  The Generic Mapping Tools Version 6. Geochemistry, Geophysics, Geosystems, 20.
+  https://doi.org/10.1029/2019GC008515
+
 * **GMT 5**:
   Wessel, P., W. H. F. Smith, R. Scharroo, J. Luis, and F. Wobbe,
   Generic Mapping Tools: Improved Version Released, *EOS Trans. AGU*, 94(45),
