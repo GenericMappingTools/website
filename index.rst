@@ -22,6 +22,8 @@
 
                <ul>
                <li>
+                  The <a href="https://doi.org/10.1029/2019GC008515">paper for GMT 6</a> is now available on <i>Geochemistry, Geophysics, Geosystems</i>.
+               <li>
                   Release candidates for GMT 6.0.0 are now available!
                   See the <a href="/download">Download</a> page.
                </li>
