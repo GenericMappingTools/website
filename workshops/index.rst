@@ -31,7 +31,20 @@ guide you through setting up your computer, building GMT, writing documentation,
 using git and GitHub to work on GMT development in a friendly and collaborative
 environment.
 
+2019-11-12 | PyGMT Workshop at FOSS4G Oceania 2019
+++++++++++++++++++++++++++++++++++++++++++++++++++
 
+* **Title:** PyGMT for geoscientists - A PyData compatible package for analyzing and plotting time-series and gridded data
+* **Instructors:** Wei Ji Leong
+* **When:** Tuesday Nov 12, 13:30 - 17:00 (NZDT)
+* **Where:** Rutherford House 205, Pipitea Campus, Victoria University of Wellington, Wellington, New Zealand
+* **Website:** https://2019.foss4g-oceania.org/schedule/2019-11-12?sessionId=SPGUQV
+* **Repository:** TBD
+
+This hands-on workshop covers the use of PyGMT to analyze geospatial data and produce
+publication quality figures and animations in an interactive Jupyter lab environment.
+There will also be a free Community Day code sprint on 2019-11-15 where everyone is
+invited to join and contribute into making PyGMT even better!
 
 .. raw:: html
 
