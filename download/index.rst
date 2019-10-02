@@ -23,6 +23,7 @@ IRIS, Washington, US                                            ftp://ftp.iris.w
 IAG-USP, U. of Sao Paulo, BRAZIL                                ftp://ftp.iag.usp.br/pub/gmt
 TENET, Tertiary Education & Research Networks, SOUTH AFRICA     ftp://gmt.mirror.ac.za/gmt
 Univ. of Sci. & Tech. of China, Hefei, CHINA                    http://mirrors.ustc.edu.cn/gmt
+Tokai U, Shizuoka, JAPAN                                        http://www.scc.u-tokai.ac.jp/gmt
 =============================================================== =============================================================
 
 See the `install guide`_ for instructions and to make sure you have all required
