@@ -23,6 +23,7 @@ Upcoming Workshops
 * **Instructors:** Paul Wessel, Joaquim Luis, Leonardo Uieda, Dongdong Tian, Xiaohua Xu
 * **When:** TBD
 * **Where:** AGU 2019 Fall Meeting | Moscone Convention Center, San Francisco, CA, USA
+* **Website:** https://www.agu.org/Events/SCIWS4-Generic-Mapping-Tools
 * **Repository:** TBD
 
 We will teach you how to join the GMT developer community and make contributions to the
