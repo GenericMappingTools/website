@@ -21,7 +21,7 @@ Upcoming Workshops
 
 * **Title:** Become a Generic Mapping Tools Contributor Even If You Can't Code
 * **Instructors:** Paul Wessel, Joaquim Luis, Leonardo Uieda, Dongdong Tian, Xiaohua Xu
-* **When:** TBD
+* **When:**  Sunday, 08 December 2019 08:00 am -12:20 pm (PST)
 * **Where:** AGU 2019 Fall Meeting | Moscone Convention Center, San Francisco, CA, USA
 * **Website:** https://www.agu.org/Events/SCIWS4-Generic-Mapping-Tools
 * **Repository:** TBD
