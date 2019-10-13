@@ -16,7 +16,7 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
-2019-12-XX | GMT Developer Workshop at AGU2019
+2019-12-08 | GMT Developer Workshop at AGU2019
 ++++++++++++++++++++++++++++++++++++++++++++++
 
 * **Title:** Become a Generic Mapping Tools Contributor Even If You Can't Code
