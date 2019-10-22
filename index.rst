@@ -43,16 +43,16 @@
 
                <ul>
                <li>
+                  2019-10-23:
+                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc5">GMT 6.0.0 Release Candidate 5</a>
+               </li>
+               <li>
                   2019-09-06:
                   <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc4">GMT 6.0.0 Release Candidate 4</a>
                </li>
                <li>
                   2019-07-15:
                   <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc3">GMT 6.0.0 Release Candidate 3</a>
-               </li>
-               <li>
-                  2019-07-03:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc2">GMT 6.0.0 Release Candidate 2</a>
                </li>
                <li>
                   2019-02-19:
