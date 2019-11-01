@@ -73,9 +73,9 @@ html_context = {
             "https://github.com/GenericMappingTools",
         ),
         (
-            '<i class="fab fa-gitter fa-lg"></i>',
-            "Gitter chat",
-            "https://gitter.im/GenericMappingTools/Lobby",
+            '<i class="fab fa-discourse fa-lg"></i>',
+            "Forum",
+            "https://forum.generic-mapping-tools.org/",
         ),
     ],
     "url": "https://www.generic-mapping-tools.org",

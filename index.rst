@@ -87,10 +87,19 @@
 
             <h2>A toolbox for Earth, Ocean, and Planetary Science</h2>
 
-            GMT is widely used across the Earth, Ocean, and Planetary sciences. A diverse community
-	    use GMT to process data, generate publication-quality illustrations, automate workflows,
-	    and make animations.  Scientific journals, posters at meetings, and Wikipedia pages display
-	    illustrations made by GMT.
+            <p>
+            GMT is widely used across the Earth, Ocean, and Planetary sciences. A
+            diverse community use GMT to process data, generate publication-quality
+            illustrations, automate workflows, and make animations.  Scientific
+            journals, posters at meetings, and Wikipedia pages display illustrations
+            made by GMT.
+            </p>
+            <p>
+            <strong>Want to get involved?</strong>
+            Join the <a href="https://forum.generic-mapping-tools.org/" target="_blank">
+            <i class="fab fa-discourse"></i> GMT Community Forum</a> to ask questions, get help,
+            and connect with other users and developers.
+            </p>
 
             </div>
             <div class="col-sm-5 col-sm-pull-7">
@@ -105,9 +114,21 @@
 
             <h2>Publication quality figures and animations</h2>
 
-            Whether Cartesian, geographic, or time-series, GMT can process your data. GMT enables
-	    you to explore new ways to analyze data and to build custom displays for drafts, publications,
-	    or final presentations.  GMT allows unlimited customization via scripting in several languages.
+            <p>
+            Whether Cartesian, geographic, or time-series, GMT can process your data.
+            GMT enables you to explore new ways to analyze data and to build custom
+            displays for drafts, publications, or final presentations.  GMT allows
+            unlimited customization via scripting in several languages.
+            </p>
+            <p>
+            Visit our <a href="/documentation"> Documentation</a> page to find out all
+            that GMT can do for you.
+            </p>
+            <p>
+            <strong>Used GMT in your research?</strong> Please
+            consider <a href="cite">citing GMT</a> so we can justify the continued
+            development efforts.
+            </p>
 
             </div>
             <div class="col-sm-5">
@@ -183,10 +204,22 @@
 
             <h2>C, MATLAB, Julia, Python</h2>
 
-            GMT has been used from UNIX and Windows command lines for decades.  More recently, GMT
-	    has been rebuilt as an Application Programming Interface (API) and can now be accessed
-	    via wrapper libraries from MATLAB/Octave, Julia, and Python, as well from custom programs
-	    written in C or C++.
+            <p>
+            GMT has been used from UNIX and Windows command lines for decades.  More
+            recently, GMT has been rebuilt as an Application Programming Interface (API)
+            and can now be accessed via wrapper libraries from MATLAB/Octave, Julia, and
+            Python, as well from custom programs written in C or C++.
+            </p>
+            <p>
+            See all the projects the team is working on in the
+            <a href="/projects">Ecosystem</a> page.
+            </p>
+            <p>
+            <strong>Want to see the code?</strong> All development happens through
+            GitHub in our
+            <a href="https://github.com/GenericMappingTools" target="_blank"><i class="fab fa-github"></i>
+            GenericMappingTools account</a>.
+            </p>
 
             </div>
             <div class="col-sm-5 col-sm-pull-7">
