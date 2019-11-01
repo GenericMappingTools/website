@@ -214,7 +214,7 @@
             <p>
             <strong>Want to see the code?</strong> All development happens through
             GitHub in our
-            <a href="https://github.com/GenericMappingTools"><i class="fab fa-github"></i>
+            <a href="https://github.com/GenericMappingTools" target="_blank"><i class="fab fa-github"></i>
             GenericMappingTools account</a>.
             </p>
 

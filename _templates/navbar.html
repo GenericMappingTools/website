@@ -6,7 +6,7 @@
                     <li><a href="{{ pathto(*link[1:]) }}"><strong>{{ link[0] }}</strong></a></li>
                 {%- endfor %}
                 {%- for link in social_links %}
-                    <li><a href="{{ link[2] }}" title="{{ link[1] }}">{{ link[0] }}</a></li>
+                    <li><a href="{{ link[2] }}" title="{{ link[1] }}" target="_blank">{{ link[0] }}</a></li>
                 {%- endfor %}
             </ul>
         {% endif %}
