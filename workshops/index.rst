@@ -40,7 +40,7 @@ environment.
 * **When:** Tuesday Nov 12, 13:30 - 17:00 (NZDT)
 * **Where:** Rutherford House 205, Pipitea Campus, Victoria University of Wellington, Wellington, New Zealand
 * **Website:** https://2019.foss4g-oceania.org/schedule/2019-11-12?sessionId=SPGUQV
-* **Repository:** TBD
+* **Repository:** https://github.com/GenericMappingTools/foss4g2019oceania
 
 This hands-on workshop covers the use of PyGMT to analyze geospatial data and produce
 publication quality figures and animations in an interactive Jupyter lab environment.
