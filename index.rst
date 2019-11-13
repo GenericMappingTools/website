@@ -33,10 +33,6 @@
                   The <a href="https://doi.org/10.1029/2019GC008515">paper for GMT 6</a> is now available on <i>Geochemistry, Geophysics, Geosystems</i>.
                </li>
                <li>
-                  Release candidates for GMT 6.0.0 are now available!
-                  See the <a href="/download">Download</a> page.
-               </li>
-               <li>
                   NSF-EAR grant
                   <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829371">number 1829371</a>
                   awarded to fund development
