@@ -22,7 +22,16 @@
 
                <ul>
                <li>
+                  Paul Wessel is the recipient of the 2020 European Geosciences Union
+                  <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a>
+                  for his work on GMT.
+                  Read more about it in the
+                  <a href="https://www.soest.hawaii.edu/soestwp/announce/news/paul-wessel-honored-for-distinguished-research/">SOEST announcement</a>
+                  and <a href="https://www.egu.eu/news/545/egu-announces-2020-awards-and-medals/">EGU 2020 awards recipients list</a>.
+               </li>
+               <li>
                   The <a href="https://doi.org/10.1029/2019GC008515">paper for GMT 6</a> is now available on <i>Geochemistry, Geophysics, Geosystems</i>.
+               </li>
                <li>
                   Release candidates for GMT 6.0.0 are now available!
                   See the <a href="/download">Download</a> page.
