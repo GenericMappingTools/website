@@ -80,7 +80,6 @@
 
                <ul>
                <li>AGU2019: <a href="https://www.agu.org/Events/SCIWS4-Generic-Mapping-Tools">Become a GMT contributor even if you can't code!</a></li>
-               <li>FOSS4G Oceania 2019: <a href="https://2019.foss4g-oceania.org/schedule/2019-11-12?sessionId=SPGUQV">PyGMT for geoscientists - A PyData compatible package for analyzing and plotting time-series and gridded data</a></li>
                </ul>
 
                <p>

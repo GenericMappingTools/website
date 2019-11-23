@@ -32,6 +32,17 @@ guide you through setting up your computer, building GMT, writing documentation,
 using git and GitHub to work on GMT development in a friendly and collaborative
 environment.
 
+
+.. raw:: html
+
+   <hr style="margin: 80px 0px;">
+
+
+.. _past_workshops:
+
+Past Workshops
+--------------
+
 2019-11-12 | PyGMT Workshop at FOSS4G Oceania 2019
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -46,16 +57,6 @@ This hands-on workshop covers the use of PyGMT to analyze geospatial data and pr
 publication quality figures and animations in an interactive Jupyter lab environment.
 There will also be a free Community Day code sprint on 2019-11-15 where everyone is
 invited to join and contribute into making PyGMT even better!
-
-.. raw:: html
-
-   <hr style="margin: 80px 0px;">
-
-
-.. _past_workshops:
-
-Past Workshops
---------------
 
 2019-07-22 | GMT for Geodesy at Scripps
 +++++++++++++++++++++++++++++++++++++++
