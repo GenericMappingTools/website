@@ -77,6 +77,11 @@ html_context = {
             "Forum",
             "https://forum.generic-mapping-tools.org/",
         ),
+        (
+            '<i class="fab fa-youtube fa-lg"></i>',
+            "YouTube",
+            "https://www.youtube.com/channel/UCo1drOh0OZPcB7S8TmIyf8Q",
+        ),
     ],
     "url": "https://www.generic-mapping-tools.org",
     "last_updated": str(datetime.date.today()),
