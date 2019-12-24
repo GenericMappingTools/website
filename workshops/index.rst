@@ -16,23 +16,6 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
-2019-12-08 | GMT Developer Workshop at AGU2019
-++++++++++++++++++++++++++++++++++++++++++++++
-
-* **Title:** Become a Generic Mapping Tools Contributor Even If You Can't Code
-* **Instructors:** Paul Wessel, Joaquim Luis, Leonardo Uieda, Dongdong Tian, Xiaohua Xu
-* **When:**  Sunday, 08 December 2019 08:00 am -12:20 pm (PST)
-* **Where:** AGU 2019 Fall Meeting | Moscone Convention Center, San Francisco, CA, USA
-* **Website:** https://www.agu.org/Events/SCIWS4-Generic-Mapping-Tools
-* **Repository:** TBD
-
-We will teach you how to join the GMT developer community and make contributions to the
-project EVEN IF YOU CAN’T CODE. This workshop will provide hands-on experience: we will
-guide you through setting up your computer, building GMT, writing documentation, and
-using git and GitHub to work on GMT development in a friendly and collaborative
-environment.
-
-
 .. raw:: html
 
    <hr style="margin: 80px 0px;">
@@ -42,6 +25,21 @@ environment.
 
 Past Workshops
 --------------
+
+2019-12-08 | GMT Developer Workshop at AGU2019
+++++++++++++++++++++++++++++++++++++++++++++++
+
+* **Title:** Become a Generic Mapping Tools Contributor Even If You Can't Code
+* **Instructors:** Paul Wessel, Joaquim Luis, Leonardo Uieda, Dongdong Tian, Xiaohua Xu
+* **When:**  Sunday, 08 December 2019 08:00 am -12:20 pm (PST)
+* **Where:** AGU 2019 Fall Meeting | Moscone Convention Center, San Francisco, CA, USA
+* **Website:** https://www.agu.org/Events/SCIWS4-Generic-Mapping-Tools
+
+We will teach you how to join the GMT developer community and make contributions to the
+project EVEN IF YOU CAN’T CODE. This workshop will provide hands-on experience: we will
+guide you through setting up your computer, building GMT, writing documentation, and
+using git and GitHub to work on GMT development in a friendly and collaborative
+environment.
 
 2019-11-12 | PyGMT Workshop at FOSS4G Oceania 2019
 ++++++++++++++++++++++++++++++++++++++++++++++++++

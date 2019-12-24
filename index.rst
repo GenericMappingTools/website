@@ -78,10 +78,6 @@
             <div class="col-sm-4 front-block-text">
                <h2>Upcoming workshops</h2>
 
-               <ul>
-               <li>AGU2019: <a href="https://www.agu.org/Events/SCIWS4-Generic-Mapping-Tools">Become a GMT contributor even if you can't code!</a></li>
-               </ul>
-
                <p>
                <a href="/workshops#future_workshops">more »</a>
                </p>
