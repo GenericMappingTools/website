@@ -16,6 +16,20 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
+2020-XX-XX | GMT for Geodesy at Scripps
++++++++++++++++++++++++++++++++++++++++
+
+* **Title:** The Generic Mapping Tools for Geodesy
+* **Instructors:** TBD
+* **When:** TDB
+* **Where:** TBD
+* **Repository:** TBD
+
+This course will cover the use of Generic Mapping Tools (GMT) in geodesy using
+UNIX shell scripting. Lectures and exercises will be given to teach the basic
+conventions of using GMT, such as plotting grids, images, and vector data (points,
+lines, polygons).
+
 .. raw:: html
 
    <hr style="margin: 80px 0px;">
