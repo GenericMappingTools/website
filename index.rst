@@ -96,7 +96,9 @@
             <h2>A toolbox for Earth, Ocean, and Planetary Science</h2>
 
             <p>
-            GMT is widely used across the Earth, Ocean, and Planetary sciences. A
+            GMT is free, open source software licensed under
+            <a href="https://www.gnu.org/licenses/lgpl-3.0.html" target="_blank">LGPL</a>
+            and widely used across the Earth, Ocean, and Planetary sciences. A
             diverse community use GMT to process data, generate publication-quality
             illustrations, automate workflows, and make animations.  Scientific
             journals, posters at meetings, and Wikipedia pages display illustrations
