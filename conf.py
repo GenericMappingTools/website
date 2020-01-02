@@ -10,7 +10,7 @@ master_doc = "index"
 # General information about the project
 year = datetime.date.today().year
 project = "The Generic Mapping Tools"
-copyright = "{:d}, The GMT Developers".format(year)
+copyright = "2019 - {:d}, The GMT Developers".format(year)
 version = ""
 
 html_title = project
