@@ -21,14 +21,14 @@ Upcoming Workshops
 
 * **Title:** The Generic Mapping Tools for Geodesy
 * **Instructors:** TBD
-* **When:** TDB
-* **Where:** TBD
+* **When:** July 20-21 (Monday-Tuesday), 2020. 9:00 am - 5:00 pm
+* **Where:** Scripps Institution of Oceanography, La Jolla, CA, USA
 * **Repository:** TBD
 
 This course will cover the use of Generic Mapping Tools (GMT) in geodesy using
 UNIX shell scripting. Lectures and exercises will be given to teach the basic
 conventions of using GMT, such as plotting grids, images, and vector data (points,
-lines, polygons).
+lines, polygons), and making animations.
 
 .. raw:: html
 
