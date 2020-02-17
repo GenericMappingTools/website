@@ -16,8 +16,8 @@ from `GitHub <https://github.com/GenericMappingTools/gmt/releases>`__:
 Support Data
 ------------
 
-* `GSHHG 2.3.7 <https://github.com/GenericMappingTools/gmt-gshhg/releases/download/2.3.7/gshhg-gmt-2.3.7.tar.gz>`__: The Global Self-consistent, Hierarchical, High-resolution Geography Database
-* `DCW 1.1.4 <https://github.com/GenericMappingTools/gmt-dcw/releases/download/1.1.4/dcw-gmt-1.1.4.tar.gz>`__: The Digital Chart of the World Data
+* `GSHHG 2.3.7 <https://github.com/GenericMappingTools/gshhg-gmt/releases/download/2.3.7/gshhg-gmt-2.3.7.tar.gz>`__: The Global Self-consistent, Hierarchical, High-resolution Geography Database
+* `DCW 1.1.4 <https://github.com/GenericMappingTools/dcw-gmt/releases/download/1.1.4/dcw-gmt-1.1.4.tar.gz>`__: The Digital Chart of the World Data
 
 Mirrors
 -------
