@@ -68,14 +68,14 @@ html_theme_options = {
 html_context = {
     "social_links": [
         (
+            '<strong>Forum</strong>',
+            "Forum",
+            "https://forum.generic-mapping-tools.org/",
+        ),
+        (
             '<i class="fab fa-github fa-lg"></i>',
             "GitHub",
             "https://github.com/GenericMappingTools",
-        ),
-        (
-            '<i class="fab fa-discourse fa-lg"></i>',
-            "Forum",
-            "https://forum.generic-mapping-tools.org/",
         ),
         (
             '<i class="fab fa-youtube fa-lg"></i>',
