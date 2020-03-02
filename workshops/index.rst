@@ -16,7 +16,25 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
-2020-XX-XX | GMT for Geodesy at Scripps
+2020-06-21 | Making Maps and Movies
++++++++++++++++++++++++++++++++++++
+
+* **Title:** Making Maps and Movies with the Generic Mapping Tools (GMT)
+* **Instructors:** Paul Wessel, TBD
+* **When:** June 21 (Sunday), 2020. 8:30 am - 5:00 pm
+* **Where:** University of Hawaii at Manoa, HI, USA
+* **Repository:** TBD
+* **URL:** https://goldschmidt.info/2020/eventTypeView?type=354#event2018000175
+
+The Generic Mapping Tools (GMT) is widely used in the geosciences to make graphs, maps and animations.
+This one-day workshop introduces participants to GMT 6 modern mode and how data manipulation and
+plotting of points, lines, polygons, text, and grids are accomplished via GMT scripting. We will run
+GMT scripts from the command line in a bash terminal under Linux, macOS, or Windows; familiarity with
+a UNIX shell will be helpful but not required. We will also introduce participants to the making of
+basic animations using GMT. No prior experience with GMT is required. Attendees must bring laptops
+with pre-installed software to the workshop – instructions will be provided before the conference.
+
+2020-07-20 | GMT for Geodesy at Scripps
 +++++++++++++++++++++++++++++++++++++++
 
 * **Title:** The Generic Mapping Tools for Geodesy
