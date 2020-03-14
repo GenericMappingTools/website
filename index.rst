@@ -79,7 +79,7 @@
                <h2>Upcoming workshops</h2>
 
                <ul>
-               <li><strong>2020</strong>: The Generic Mapping Tools for Geodesy.</li>
+               <li><strong>2020</strong>: Making Maps and Movies.</li>
                </ul>
 
                <p>
