@@ -22,11 +22,13 @@
 
                <ul>
                <li>
+                  The first official release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.1.0">PyGMT v0.1.0</a> now is available.
+               <li>
                   NSF-EAR grant
                   <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602">number 1948602</a>
                   awarded to fund efforts to make GMT truly sustainable by its community.
                </li>
-              <li>
+               <li>
                   Paul Wessel is the recipient of the 2020 European Geosciences Union
                   <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a>
                   for his work on GMT.
