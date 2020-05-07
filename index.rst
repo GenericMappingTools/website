@@ -22,13 +22,16 @@
 
                <ul>
                <li>
+                  2020-05-03:
                   The first official release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.1.0">PyGMT v0.1.0</a> now is available.
                <li>
+                  2020-03-30:
                   NSF-EAR grant
                   <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602">number 1948602</a>
                   awarded to fund efforts to make GMT truly sustainable by its community.
                </li>
                <li>
+                  2019-11-04:
                   Paul Wessel is the recipient of the 2020 European Geosciences Union
                   <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a>
                   for his work on GMT.
@@ -37,19 +40,14 @@
                   and <a href="https://www.egu.eu/news/545/egu-announces-2020-awards-and-medals/">EGU 2020 awards recipients list</a>.
                </li>
                <li>
+                  2019-11-01:
                   The <a href="https://doi.org/10.1029/2019GC008515">paper for GMT 6</a> is now available on <i>Geochemistry, Geophysics, Geosystems</i>.
                </li>
-               <li>
-                  NSF-EAR grant
-                  <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829371">number 1829371</a>
-                  awarded to fund development
-                  of the new "modern mode" in GMT 6 and more!
-               </li>
-               <li>
-               Paul and Leo were <a href="http://www.dontpanicgeocast.com/?p=638">interviewed on the <em>Don't Panic
-               Geocast</em></a>.
-               </li>
                </ul>
+
+               <p>
+               <a href="/news">more »</a>
+               </p>
 
             </div>
             <div class="col-sm-4 front-block-text">
@@ -255,3 +253,4 @@
    projects/index.rst
    workshops/index.rst
    documentation/index.rst
+   news/index.rst
