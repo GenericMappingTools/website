@@ -16,8 +16,8 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
-2020-06-21 | Making Maps and Movies
-+++++++++++++++++++++++++++++++++++
+2020-06-21 | Making Maps and Movies [CANCELLED]
++++++++++++++++++++++++++++++++++++++++++++++++
 
 * **Title:** Making Maps and Movies with the Generic Mapping Tools (GMT)
 * **Instructors:** Paul Wessel, TBD
