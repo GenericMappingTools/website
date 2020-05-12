@@ -86,7 +86,7 @@
                <h2>Upcoming workshops</h2>
 
                <ul>
-               <li><strong>2020</strong>: Making Maps and Movies.</li>
+               <li><strong>2020</strong>: Making Maps and Movies [CANCELLED].</li>
                </ul>
 
                <p>
