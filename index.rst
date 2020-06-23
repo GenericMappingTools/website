@@ -24,8 +24,10 @@
                <li>
                   2020-06-23:
                   <b>GMT postdoctoral position</b> available at SOEST, U of Hawaii at Mānoa.
-                  Click to <a href="https://docs.google.com/document/d/15-ksiUotquaNYVnnpy8NKIWNU8pGPduf8__jZLSvGQE/edit?usp=sharing"> view ad details</a> or
-                  <a href="https://hcmweb.rcuh.com/psc/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?FOCUS=Applicant&">apply online now</a>!
+                  Click to
+                  <a target="_blank" href="https://docs.google.com/document/d/15-ksiUotquaNYVnnpy8NKIWNU8pGPduf8__jZLSvGQE/edit?usp=sharing"> view ad details</a>
+                  or
+                  <a target="_blank" href="https://hcmweb.rcuh.com/psc/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?FOCUS=Applicant&">apply online now</a>!
                </li>
                <li>
                   2020-05-03:
