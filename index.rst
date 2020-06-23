@@ -22,6 +22,12 @@
 
                <ul>
                <li>
+                  2020-06-23:
+                  <b>GMT postdoctoral position</b> available at SOEST, U of Hawaii at Mānoa.
+                  Click to <a href="LINK TO GOOGLE DOCS HERE"> view ad details</a> or
+                  <a href="https://hcmweb.rcuh.com/psc/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?FOCUS=Applicant&">apply online now</a>!
+               </li>
+               <li>
                   2020-05-03:
                   The first official release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.1.0">PyGMT v0.1.0</a> now is available.
                <li>
