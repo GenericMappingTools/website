@@ -49,7 +49,7 @@
                </li>
                <li>
                   2019-11-01:
-                  The <a href="https://doi.org/10.1029/2019GC008515">paper for GMT 6</a> is now available on <i>Geochemistry, Geophysics, Geosystems</i>.
+                  The <a href="https://doi.org/10.1029/2019GC008515">paper for GMT 6</a> is Open Access and available on <i>Geochemistry, Geophysics, Geosystems</i>.
                </li>
                </ul>
 
