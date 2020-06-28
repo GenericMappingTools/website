@@ -16,6 +16,30 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
+2020-07-20 | GMT for Geodesy UNAVCO
++++++++++++++++++++++++++++++++++++
+
+* **Title:** The Generic Mapping Tools for Geodesy
+* **Instructors:** Paul Wessel, Joaquim Luis, Leo Uieda, Dongdong Tian, Eric Xu
+* **When:** July 20-21 (Monday-Tuesday), 2020, online
+* **Where:** Via zoom only
+* **Repository:** TBD
+
+This course will cover the use of Generic Mapping Tools (GMT) in geodesy using
+UNIX shell scripting. Lectures and exercises will be given to teach the basic
+conventions of using GMT, such as plotting grids, images, and vector data (points,
+lines, polygons), and making animations.
+
+.. raw:: html
+
+   <hr style="margin: 80px 0px;">
+
+
+.. _past_workshops:
+
+Past Workshops
+--------------
+
 2020-06-21 | Making Maps and Movies [CANCELLED]
 +++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -33,30 +57,6 @@ GMT scripts from the command line in a bash terminal under Linux, macOS, or Wind
 a UNIX shell will be helpful but not required. We will also introduce participants to the making of
 basic animations using GMT. No prior experience with GMT is required. Attendees must bring laptops
 with pre-installed software to the workshop – instructions will be provided before the conference.
-
-2020-07-20 | GMT for Geodesy at Scripps
-+++++++++++++++++++++++++++++++++++++++
-
-* **Title:** The Generic Mapping Tools for Geodesy
-* **Instructors:** TBD
-* **When:** July 20-21 (Monday-Tuesday), 2020. 9:00 am - 5:00 pm
-* **Where:** Scripps Institution of Oceanography, La Jolla, CA, USA
-* **Repository:** TBD
-
-This course will cover the use of Generic Mapping Tools (GMT) in geodesy using
-UNIX shell scripting. Lectures and exercises will be given to teach the basic
-conventions of using GMT, such as plotting grids, images, and vector data (points,
-lines, polygons), and making animations.
-
-.. raw:: html
-
-   <hr style="margin: 80px 0px;">
-
-
-.. _past_workshops:
-
-Past Workshops
---------------
 
 2019-12-08 | GMT Developer Workshop at AGU2019
 ++++++++++++++++++++++++++++++++++++++++++++++

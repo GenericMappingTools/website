@@ -92,7 +92,7 @@
                <h2>Upcoming workshops</h2>
 
                <ul>
-               <li><strong>2020</strong>: Making Maps and Movies [CANCELLED].</li>
+               <li><strong>2020</strong>: GMT for Geodesy [UNAVCO/online].</li>
                </ul>
 
                <p>
