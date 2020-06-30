@@ -38,7 +38,7 @@
             </p>
 
             </div>
-            <div class="col-sm-5 col-sm-pull-7">
+           <div class="col-sm-5 col-sm-pull-7">
                 <img src="_static/figures/lithospheric-age.png">
             </div>
         </div>
