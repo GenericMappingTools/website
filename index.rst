@@ -15,94 +15,7 @@
         </div>
     </div>
 
-   <div class="container-fluid front-block front-block-dark front-updates">
-        <div class="row">
-            <div class="col-sm-4 front-block-text">
-               <h2>News</h2>
-
-               <ul>
-               <li>
-                  2020-06-23:
-                  <b>GMT postdoctoral position</b> available at SOEST, U of Hawaii at Mānoa.
-                  Click to
-                  <a target="_blank" href="https://docs.google.com/document/d/15-ksiUotquaNYVnnpy8NKIWNU8pGPduf8__jZLSvGQE/edit?usp=sharing"> view ad details</a>
-                  or
-                  <a target="_blank" href="https://hcmweb.rcuh.com/psp/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=220288&PostingSeq=1">apply online now</a>!
-               </li>
-               <li>
-                  2020-05-03:
-                  The first official release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.1.0">PyGMT v0.1.0</a> now is available.
-               <li>
-                  2020-03-30:
-                  NSF-EAR grant
-                  <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602">number 1948602</a>
-                  awarded to fund efforts to make GMT truly sustainable by its community.
-               </li>
-               <li>
-                  2019-11-04:
-                  Paul Wessel is the recipient of the 2020 European Geosciences Union
-                  <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a>
-                  for his work on GMT.
-                  Read more about it in the
-                  <a href="https://www.soest.hawaii.edu/soestwp/announce/news/paul-wessel-honored-for-distinguished-research/">SOEST announcement</a>
-                  and <a href="https://www.egu.eu/news/545/egu-announces-2020-awards-and-medals/">EGU 2020 awards recipients list</a>.
-               </li>
-               <li>
-                  2019-11-01:
-                  The <a href="https://doi.org/10.1029/2019GC008515">paper for GMT 6</a> is Open Access and available on <i>Geochemistry, Geophysics, Geosystems</i>.
-               </li>
-               </ul>
-
-               <p>
-               <a href="/news">more »</a>
-               </p>
-
-            </div>
-            <div class="col-sm-4 front-block-text">
-               <h2>Latest releases</h2>
-
-               <ul>
-               <li>
-                  2019-11-01:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0">GMT 6.0.0</a>
-               </li>
-               <li>
-                  2019-10-23:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc5">GMT 6.0.0 Release Candidate 5</a>
-               </li>
-               <li>
-                  2019-09-06:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc4">GMT 6.0.0 Release Candidate 4</a>
-               </li>
-               <li>
-                  2019-07-15:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc3">GMT 6.0.0 Release Candidate 3</a>
-               </li>
-               <li>
-                  2019-02-19:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/5.4.5">GMT 5.4.5</a>
-               </li>
-               </ul>
-
-               <p>
-               <a href="/download">more »</a>
-               </p>
-            </div>
-            <div class="col-sm-4 front-block-text">
-               <h2>Upcoming workshops</h2>
-
-               <ul>
-               <li><strong>2020</strong>: GMT for Geodesy [UNAVCO/online].</li>
-               </ul>
-
-               <p>
-               <a href="/workshops#future-workshops">more »</a>
-               </p>
-            </div>
-        </div>
-   </div>
-
-   <div class="container-fluid front-block front-block-light">
+   <div class="container-fluid front-block front-block-dark">
         <div class="row">
             <div class="col-sm-7 col-sm-push-5 front-block-text">
 
@@ -131,7 +44,7 @@
         </div>
    </div>
 
-   <div class="container-fluid front-block front-block-dark">
+   <div class="container-fluid front-block front-block-light">
         <div class="row">
             <div class="col-sm-7 front-block-text">
 
@@ -221,7 +134,7 @@
         </div>
    </div>
 
-   <div class="container-fluid front-block front-block-light">
+   <div class="container-fluid front-block front-block-dark">
         <div class="row">
             <div class="col-sm-7 col-sm-push-5 front-block-text">
 
@@ -247,6 +160,93 @@
             </div>
             <div class="col-sm-5 col-sm-pull-7">
                 <img src="_static/languages.svg">
+            </div>
+        </div>
+   </div>
+
+   <div class="container-fluid front-block front-block-light front-updates">
+        <div class="row">
+            <div class="col-sm-4 front-block-text">
+               <h2>News</h2>
+
+               <ul>
+               <li>
+                  2020-06-23:
+                  <b>GMT postdoctoral position</b> available at SOEST, U of Hawaii at Mānoa.
+                  Click to
+                  <a target="_blank" href="https://docs.google.com/document/d/15-ksiUotquaNYVnnpy8NKIWNU8pGPduf8__jZLSvGQE/edit?usp=sharing"> view ad details</a>
+                  or
+                  <a target="_blank" href="https://hcmweb.rcuh.com/psp/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=220288&PostingSeq=1">apply online now</a>!
+               </li>
+               <li>
+                  2020-05-03:
+                  The first official release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.1.0">PyGMT v0.1.0</a> now is available.
+               <li>
+                  2020-03-30:
+                  NSF-EAR grant
+                  <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602">number 1948602</a>
+                  awarded to fund efforts to make GMT truly sustainable by its community.
+               </li>
+               <li>
+                  2019-11-04:
+                  Paul Wessel is the recipient of the 2020 European Geosciences Union
+                  <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a>
+                  for his work on GMT.
+                  Read more about it in the
+                  <a href="https://www.soest.hawaii.edu/soestwp/announce/news/paul-wessel-honored-for-distinguished-research/">SOEST announcement</a>
+                  and <a href="https://www.egu.eu/news/545/egu-announces-2020-awards-and-medals/">EGU 2020 awards recipients list</a>.
+               </li>
+               <li>
+                  2019-11-01:
+                  The <a href="https://doi.org/10.1029/2019GC008515">paper for GMT 6</a> is Open Access and available on <i>Geochemistry, Geophysics, Geosystems</i>.
+               </li>
+               </ul>
+
+               <p>
+               <a href="/news">more »</a>
+               </p>
+
+            </div>
+            <div class="col-sm-4 front-block-text">
+               <h2>Latest releases</h2>
+
+               <ul>
+               <li>
+                  2019-11-01:
+                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0">GMT 6.0.0</a>
+               </li>
+               <li>
+                  2019-10-23:
+                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc5">GMT 6.0.0 Release Candidate 5</a>
+               </li>
+               <li>
+                  2019-09-06:
+                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc4">GMT 6.0.0 Release Candidate 4</a>
+               </li>
+               <li>
+                  2019-07-15:
+                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc3">GMT 6.0.0 Release Candidate 3</a>
+               </li>
+               <li>
+                  2019-02-19:
+                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/5.4.5">GMT 5.4.5</a>
+               </li>
+               </ul>
+
+               <p>
+               <a href="/download">more »</a>
+               </p>
+            </div>
+            <div class="col-sm-4 front-block-text">
+               <h2>Upcoming workshops</h2>
+
+               <ul>
+               <li><strong>2020</strong>: GMT for Geodesy [UNAVCO/online].</li>
+               </ul>
+
+               <p>
+               <a href="/workshops#future-workshops">more »</a>
+               </p>
             </div>
         </div>
    </div>
