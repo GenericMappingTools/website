@@ -22,18 +22,19 @@
             <h2>A toolbox for Earth, Ocean, and Planetary Science</h2>
 
             <p>
-            GMT is free, open source software licensed under
-            <a href="https://www.gnu.org/licenses/lgpl-3.0.html" target="_blank">LGPL</a>
-            and widely used across the Earth, Ocean, and Planetary sciences. A
-            diverse community use GMT to process data, generate publication-quality
-            illustrations, automate workflows, and make animations.  Scientific
-            journals, posters at meetings, and Wikipedia pages display illustrations
-            made by GMT.
+            The Generic Mapping Tools (GMT) are widely used across the Earth, 
+            Ocean, and Planetary sciences and beyond. A diverse community uses 
+            GMT to process data, generate publication-quality illustrations, 
+            automate workflows, and make animations. Scientific journals, 
+            posters at meetings, Wikipedia pages, and many more publications 
+            display illustrations made by GMT. And the best part: it is free, 
+            open source software licensed under the 
+            <a href="https://www.gnu.org/licenses/lgpl-3.0.html" target="_blank">LGPL</a>.
             </p>
             <p>
-            <strong>Want to get involved?</strong>
-            Join the <a href="https://forum.generic-mapping-tools.org/" target="_blank">
-            <i class="fab fa-discourse"></i> GMT Community Forum</a> to ask questions, get help,
+            <strong>Got questions?</strong>
+            Join the friendly <a href="https://forum.generic-mapping-tools.org/" target="_blank">
+            <i class="fab fa-discourse"></i> GMT Community Forum</a> to get help
             and connect with other users and developers.
             </p>
 
