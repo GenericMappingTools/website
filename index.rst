@@ -22,13 +22,13 @@
             <h2>A toolbox for Earth, Ocean, and Planetary Science</h2>
 
             <p>
-            The Generic Mapping Tools (GMT) are widely used across the Earth, 
-            Ocean, and Planetary sciences and beyond. A diverse community uses 
-            GMT to process data, generate publication-quality illustrations, 
-            automate workflows, and make animations. Scientific journals, 
-            posters at meetings, Wikipedia pages, and many more publications 
-            display illustrations made by GMT. And the best part: it is free, 
-            open source software licensed under the 
+            The Generic Mapping Tools (GMT) are widely used across the Earth,
+            Ocean, and Planetary sciences and beyond. A diverse community uses
+            GMT to process data, generate publication-quality illustrations,
+            automate workflows, and make animations. Scientific journals,
+            posters at meetings, Wikipedia pages, and many more publications
+            display illustrations made by GMT. And the best part: it is free,
+            open source software licensed under the
             <a href="https://www.gnu.org/licenses/lgpl-3.0.html" target="_blank">LGPL</a>.
             </p>
             <p>
@@ -212,6 +212,10 @@
                <h2>Latest releases</h2>
 
                <ul>
+               <li>
+                  2020-07-04:
+                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.1.0">GMT 6.1.0</a>
+               </li>
                <li>
                   2019-11-01:
                   <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0">GMT 6.0.0</a>
