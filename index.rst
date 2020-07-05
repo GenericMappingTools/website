@@ -174,7 +174,7 @@
                <li>
                   2020-07-04:
                   GMT 6.1.0 has been released.  See  <a href="https://forum.generic-mapping-tools.org/t/gmt-6-1-0-has-been-released/619">the announcement</a> for details.
-               <li>
+               </li>
                <li>
                   2020-06-23:
                   <b>GMT postdoctoral position</b> available at SOEST, U of Hawaii at Mānoa.
