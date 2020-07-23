@@ -1,0 +1,39 @@
+name: build-html
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Build the website
+        run: make all
+
+      - name: Push to genericmappingtools.github.io
+        if: success() && github.event_name == 'push'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: GenericMappingTools/genericmappingtools.github.io
+          publish_branch: master
+          publish_dir: ./_build/html
+          # Only keep the latest commit to avoid bloating the repository
+          force_orphan: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
