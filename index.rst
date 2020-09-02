@@ -172,6 +172,10 @@
 
                <ul>
                <li>
+                  2020-09-02:
+                  GMT 6.1.1 has been released.  See  <a href="https://forum.generic-mapping-tools.org/t/gmt-6-1-1-has-been-released/839">the announcement</a> for details.
+               </li>
+               <li>
                   2020-07-04:
                   GMT 6.1.0 has been released.  See  <a href="https://forum.generic-mapping-tools.org/t/gmt-6-1-0-has-been-released/619">the announcement</a> for details.
                </li>
@@ -248,10 +252,6 @@
             </div>
             <div class="col-sm-4 front-block-text">
                <h2>Upcoming workshops</h2>
-
-               <ul>
-               <li><strong>2020</strong>: GMT for Geodesy [UNAVCO/online].</li>
-               </ul>
 
                <p>
                <a href="/workshops#future-workshops">more »</a>
