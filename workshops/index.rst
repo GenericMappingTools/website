@@ -13,12 +13,14 @@ Attending a workshop is the best way to get started **using and developing** GMT
 
 .. _future_workshops:
 
+Upcoming Workshops
+------------------
+
+
 .. raw:: html
 
    <hr style="margin: 80px 0px;">
 
-Upcoming Workshops
-------------------
 
 .. _past_workshops:
 
