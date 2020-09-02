@@ -16,6 +16,11 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
+.. _past_workshops:
+
+Past Workshops
+--------------
+
 2020-07-20 | GMT for Geodesy UNAVCO
 +++++++++++++++++++++++++++++++++++
 
@@ -23,7 +28,7 @@ Upcoming Workshops
 * **Instructors:** Paul Wessel, Joaquim Luis, Leo Uieda, Dongdong Tian, Eric Xu
 * **When:** July 20-21 (Monday-Tuesday), 2020, online
 * **Where:** Via zoom only
-* **Repository:** TBD
+* **Repository:** https://github.com/GenericMappingTools/2020-unavco-course
 
 This course will cover the use of Generic Mapping Tools (GMT) in geodesy using
 UNIX shell scripting. Lectures and exercises will be given to teach the basic
@@ -34,11 +39,6 @@ lines, polygons), and making animations.
 
    <hr style="margin: 80px 0px;">
 
-
-.. _past_workshops:
-
-Past Workshops
---------------
 
 2020-06-21 | Making Maps and Movies [CANCELLED]
 +++++++++++++++++++++++++++++++++++++++++++++++
