@@ -193,7 +193,7 @@
                </li>
                <li>
                   2020-05-03:
-                  The first official release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.1.0">PyGMT v0.1.0</a> now is available.
+                  The first official release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.1.0">PyGMT v0.1.0</a> is now available.
                </li>
                <li>
                   2020-03-30:
