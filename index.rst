@@ -172,6 +172,10 @@
 
                <ul>
                <li>
+                  2020-09-12:
+                  The second minor release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.2.0">PyGMT v0.2.0</a> now is available.
+               </li>
+               <li>
                   2020-09-02:
                   GMT 6.1.1 has been released.  See  <a href="https://forum.generic-mapping-tools.org/t/gmt-6-1-1-has-been-released/839">the announcement</a> for details.
                </li>
@@ -190,6 +194,7 @@
                <li>
                   2020-05-03:
                   The first official release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.1.0">PyGMT v0.1.0</a> now is available.
+               </li>
                <li>
                   2020-03-30:
                   NSF-EAR grant
