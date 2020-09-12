@@ -221,24 +221,16 @@
 
                <ul>
                <li>
+                  2020-09-02:
+                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.1.1">GMT 6.1.1</a>
+               </li>
+               <li>
                   2020-07-04:
                   <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.1.0">GMT 6.1.0</a>
                </li>
                <li>
                   2019-11-01:
                   <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0">GMT 6.0.0</a>
-               </li>
-               <li>
-                  2019-10-23:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc5">GMT 6.0.0 Release Candidate 5</a>
-               </li>
-               <li>
-                  2019-09-06:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc4">GMT 6.0.0 Release Candidate 4</a>
-               </li>
-               <li>
-                  2019-07-15:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0rc3">GMT 6.0.0 Release Candidate 3</a>
                </li>
                <li>
                   2019-02-19:
