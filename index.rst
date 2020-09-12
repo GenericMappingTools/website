@@ -173,7 +173,7 @@
                <ul>
                <li>
                   2020-09-12:
-                  The second minor release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.2.0">PyGMT v0.2.0</a> now is available.
+                  The second minor release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.2.0">PyGMT v0.2.0</a> is now available.
                </li>
                <li>
                   2020-09-02:
