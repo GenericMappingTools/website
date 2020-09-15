@@ -68,6 +68,11 @@ html_theme_options = {
 html_context = {
     "social_links": [
         (
+            '<strong>Try Online!</strong>',
+            "Try Online",
+            "https://github.com/GenericMappingTools/try-gmt",
+        ),
+        (
             '<strong>Forum</strong>',
             "Forum",
             "https://forum.generic-mapping-tools.org/",
