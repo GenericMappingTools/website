@@ -96,5 +96,5 @@ html_context = {
 
 # Load the custom CSS files (needs sphinx >= 1.6 for this to work)
 def setup(app):
-    app.add_stylesheet("style.css")
-    app.add_stylesheet("fontawesome/css/all.css")
+    app.add_css_file("style.css")
+    app.add_css_file("fontawesome/css/all.css")
