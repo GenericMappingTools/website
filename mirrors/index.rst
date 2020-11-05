@@ -52,7 +52,7 @@ Becomming a GMT mirror
 ----------------------
 
 You can help out the GMT community by running a mirror of
-the GMT FTP site (~XX GB) and/or the GMT data server (~XX GB).
+the GMT FTP site (~20 GB) and/or the GMT data server (~60 GB).
 
 To mirror the GMT FTP site, you can use `lftp <https://lftp.yar.ru/>`_::
 
