@@ -263,6 +263,7 @@
 
    about/index.rst
    download/index.rst
+   mirrors/index.rst
    cite/index.rst
    projects/index.rst
    workshops/index.rst
