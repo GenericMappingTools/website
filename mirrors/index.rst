@@ -46,3 +46,25 @@ Name              Address                                                       
 
 .. |Europe_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Feurope.generic-mapping-tools.org
                           :alt: Europea Mirror Status
+
+
+Becomming a GMT mirror
+----------------------
+
+You can help out the GMT community by running a mirror of
+the GMT FTP site (~20 GB) and/or the GMT data server (~60 GB).
+
+To mirror the GMT FTP site, you can use `lftp <https://lftp.yar.ru/>`_::
+
+    lftp -e "mirror --delete --parallel=8 gmt gmt; bye" ftp.soest.hawaii.edu
+
+To mirror the GMT data server, you can use the **rsync** command::
+
+    rsync -av --delete rsync://oceania.generic-mapping-tools.org/gmtdata /your/local/gmtdata
+
+You must run the above command periodically (e.g., daily) to keep files in the
+mirror up to date. This can be done via `cron jobs <https://en.wikipedia.org/wiki/Cron>`_.
+
+We're glad to offer help if you enconter problems when setting up the mirror.
+Once you have gotten the mirror running, please `let us know <https://forum.generic-mapping-tools.org/>`_
+so that we can add your mirror to the list.
