@@ -34,9 +34,15 @@ to the mirror that is closest to you to minimize transmission times.
 
 .. cssclass:: table-bordered
 
-================= =============================================================
-Name              Address
-================= =============================================================
-**Oceania**       https://oceania.generic-mapping-tools.org
-**Europe**        http://europe.generic-mapping-tools.org
-================= =============================================================
+================= ============================================================= ========================
+Name              Address                                                       Mirror Status
+================= ============================================================= ========================
+**Oceania**       https://oceania.generic-mapping-tools.org                     |Oceania_mirror_status|
+**Europe**        http://europe.generic-mapping-tools.org                       |Europe_mirror_status|
+================= ============================================================= ========================
+
+.. |Oceania_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Foceania.generic-mapping-tools.org
+                           :alt: Oceania Mirror Status
+
+.. |Europe_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Feurope.generic-mapping-tools.org
+                          :alt: Europea Mirror Status
