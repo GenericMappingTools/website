@@ -12,14 +12,13 @@ Run:
 
 Pushing changes to
 [GenericMappingTools/website](https://github.com/GenericMappingTools/website)
-triggers a build on [TravisCI](https://travis-ci.org/GenericMappingTools/website).
+triggers a [GitHub Actions workflow](.github/workflows/build.yml).
 When changes are pushed to the `master` branch (directly or by merging a Pull
 Request), Github Actions will push the compiled site to the
 [GenericMappingTools/genericmappingtools.github.io](https://github.com/GenericMappingTools/genericmappingtools.github.io)
 repository.
 Github serves this repository under
 [http://genericmappingtools.github.io](http://genericmappingtools.github.io/).
-See `.github/workflows/build.yml`.
 
 ## License
 
