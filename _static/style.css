@@ -38,6 +38,10 @@ h3 {
     font-size: 1.2em;
 }
 
+td {
+    text-align: left;
+}
+
 blockquote {
     color: #666666;
 }
