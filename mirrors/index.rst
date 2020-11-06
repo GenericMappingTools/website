@@ -27,9 +27,9 @@ Tokai U, Shizuoka, JAPAN                                        http://www.scc.u
 Data Server Mirrors
 -------------------
 
-The GMT data server stores frequently used data sets (e.g., Earth Releif Data).
+The GMT data server stores frequently used data sets (e.g., Earth Relief Data).
 Here is a list of the known active mirrors of the GMT remote data server.
-Changing the GMT setting `GMT_DATA_SERVER <https://docs.generic-mapping-tools.org/latest/gmt.conf.html#term-GMT_DATA_SERVER>`_
+Change the GMT setting `GMT_DATA_SERVER <https://docs.generic-mapping-tools.org/latest/gmt.conf.html#term-GMT_DATA_SERVER>`_
 to the mirror that is closest to you to minimize transmission times.
 
 .. cssclass:: table-bordered
@@ -48,8 +48,8 @@ Name              Address                                                       
                           :alt: Europea Mirror Status
 
 
-Becomming a GMT mirror
-----------------------
+Becoming a GMT mirror
+---------------------
 
 You can help out the GMT community by running a mirror of
 the GMT FTP site (~20 GB) and/or the GMT data server (~60 GB).
