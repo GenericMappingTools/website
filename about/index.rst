@@ -33,6 +33,7 @@ GMT could not have been designed without the generous support of several people:
 Further development was made possible by grants and fellowships:
 
 * National Science Foundation grants
+  `EAR-1948602 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602>`__,
   `EAR-1829371 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829371>`__,
   `OCE1029874 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1029874>`__,
   `OCE-0452126 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0452126>`__,
@@ -58,7 +59,8 @@ attracted a small following.  Paul took a Post-doctoral position at SOEST in Dec
 October 1991, and quickly spread worldwide. Version 3.0 in 1993 which was released with
 another article in EOS on August 15, 1995.  A major upgrade to GMT 4.0 took place in Oct
 2004. Finally, in 2013 we released the new GMT 5 series, which are generally
-backwards compatible with GMT 4 syntax. GMT is used by tens of thousands of users
+backwards compatible with GMT 4 syntax. Another major upgrade took place in 2019 with
+the release of GMT 6 and modern mode.  GMT is used by tens of thousands of users
 worldwide in a broad range of disciplines.
 
 More detail on the history of GMT:
