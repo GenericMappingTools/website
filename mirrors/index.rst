@@ -68,9 +68,10 @@ To mirror the GMT data server, you can use the **rsync** command::
 
     rsync -av --delete rsync://oceania.generic-mapping-tools.org/gmtdata /your/local/gmtdata
 
-You must run the above command periodically (e.g., daily) to keep files in the
-mirror up to date. This can be done via `cron jobs <https://en.wikipedia.org/wiki/Cron>`_.
+You must run the above commands periodically (e.g., daily) to keep files in the
+mirrors up to date. This can be done via `cron jobs <https://en.wikipedia.org/wiki/Cron>`_.
 
-We're glad to offer help if you enconter problems when setting up the mirror.
+We are glad to offer help if you encounter problems when setting up the mirror.
 Once you have gotten the mirror running, please `let us know <https://forum.generic-mapping-tools.org/>`_
-so that we can add your mirror to the list.
+so that we can add your mirror to the list. **Note**: We reserve the right to decide which mirrors
+will receive a forward from the generic-mapping-tools domain.
