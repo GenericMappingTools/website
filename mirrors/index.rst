@@ -37,13 +37,13 @@ We thank the hosting institutions for mirroring the GMT data distribution so tha
 
 .. cssclass:: table-bordered
 
-================= ============================================================= ========================
-Name              Address                                                       Mirror Status
-================= ============================================================= ========================
-**Oceania**       https://oceania.generic-mapping-tools.org                     |Oceania_mirror_status|
-**Europe**        http://europe.generic-mapping-tools.org                       |Europe_mirror_status|
-**China**         http://china.generic-mapping-tools.org                        |China_mirror_status|
-================= ============================================================= ========================
+==================== ============================================================= ========================
+Name                 Address                                                       Mirror Status
+==================== ============================================================= ========================
+**Oceania** [Master] https://oceania.generic-mapping-tools.org                     |Oceania_mirror_status|
+**Europe**           http://europe.generic-mapping-tools.org                       |Europe_mirror_status|
+**China**            http://china.generic-mapping-tools.org                        |China_mirror_status|
+==================== ============================================================= ========================
 
 .. |Oceania_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Foceania.generic-mapping-tools.org
                            :alt: Oceania Mirror Status
