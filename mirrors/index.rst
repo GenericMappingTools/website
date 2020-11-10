@@ -36,7 +36,7 @@ to the mirror that is closest to you to minimize transmission times.
 We thank the hosting institutions for mirroring the GMT data distribution so that users can have a faster download wherever they are located.
 
 
-.. cssclass:: table-bordered
+.. cssclass:: table-bordered table-mirrors
 
 .. list-table::
    :widths: 20 50 25 5

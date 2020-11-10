@@ -192,3 +192,8 @@ blockquote {
     padding-right: 12px;
     padding-left: 12px;
 }
+
+/* Table for the mirrors */
+.table-mirrors tbody tr:first-child td {
+    background-color: #B8F369;
+}
