@@ -19,7 +19,7 @@ SOEST, U. of Hawaii, US                                         ftp://ftp.soest.
 Lab for Satellite Altimetry, NOAA, US                           ftp://ftp.star.nesdis.noaa.gov/pub/sod/lsa/gmt
 IRIS, Washington, US                                            ftp://ftp.iris.washington.edu/pub/gmt
 IAG-USP, U. of Sao Paulo, BRAZIL                                ftp://ftp.iag.usp.br/pub/gmt
-TENET, Tertiary Education & Research Networks, SOUTH AFRICA     ftp://gmt.mirror.ac.za/gmt
+TENET, Tertiary Education & Research Networks, SOUTH AFRICA     ftp://gmt.mirror.ac.za
 Univ. of Sci. & Tech. of China, Hefei, CHINA                    http://mirrors.ustc.edu.cn/gmt
 Tokai U, Shizuoka, JAPAN                                        http://www.scc.u-tokai.ac.jp/gmt
 =============================================================== =============================================================
@@ -37,13 +37,15 @@ We thank the hosting institutions for mirroring the GMT data distribution so tha
 
 .. cssclass:: table-bordered
 
-==================== ============================================================= ========================
-Name                 Address                                                       Mirror Status
-==================== ============================================================= ========================
-**Oceania** [Master] https://oceania.generic-mapping-tools.org                     |Oceania_mirror_status|
-**Europe**           http://europe.generic-mapping-tools.org                       |Europe_mirror_status|
-**China**            http://china.generic-mapping-tools.org                        |China_mirror_status|
-==================== ============================================================= ========================
+==================== ============================================== ============================================= ========================
+Name                 Address                                        Host                                          Status
+==================== ============================================== ============================================= ========================
+**Oceania** [Master] https://oceania.generic-mapping-tools.org      SOEST, U of Hawaii, USA                       |Oceania_mirror_status|
+-------------------- ---------------------------------------------- --------------------------------------------- ------------------------
+**Europe**           http://europe.generic-mapping-tools.org        U of Algarve, Portugal                        |Europe_mirror_status|
+**China**            http://china.generic-mapping-tools.org         U of Sci. & Tech. of China, China              |China_mirror_status|
+**South Africa**     https://south-africa.generic-mapping-tools.org TENET, Tertiary Education & Research Networks |SAfrica_mirror_status|
+==================== ============================================== ============================================= ========================
 
 .. |Oceania_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Foceania.generic-mapping-tools.org
                            :alt: Oceania Mirror Status
@@ -53,6 +55,9 @@ Name                 Address                                                    
 
 .. |China_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fchina.generic-mapping-tools.org
                           :alt: China Mirror Status
+
+.. |SAfrica_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Fsouth-africa.generic-mapping-tools.org
+                          :alt: South Africa Mirror Status
 
 Becoming a GMT mirror
 ---------------------
