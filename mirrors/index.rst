@@ -35,29 +35,33 @@ Change the GMT setting `GMT_DATA_SERVER <https://docs.generic-mapping-tools.org/
 to the mirror that is closest to you to minimize transmission times.
 We thank the hosting institutions for mirroring the GMT data distribution so that users can have a faster download wherever they are located.
 
+
 .. cssclass:: table-bordered
 
-==================== ============================================== ============================================= ========================
-Name                 Address                                        Host                                          Status
-==================== ============================================== ============================================= ========================
-**Oceania** [Master] https://oceania.generic-mapping-tools.org      SOEST, U of Hawaii, USA                       |Oceania_mirror_status|
--------------------- ---------------------------------------------- --------------------------------------------- ------------------------
-**Europe**           http://europe.generic-mapping-tools.org        U of Algarve, Portugal                        |Europe_mirror_status|
-**China**            http://china.generic-mapping-tools.org         U of Sci. & Tech. of China, China              |China_mirror_status|
-**South Africa**     https://south-africa.generic-mapping-tools.org TENET, Tertiary Education & Research Networks |SAfrica_mirror_status|
-==================== ============================================== ============================================= ========================
+.. list-table::
+   :widths: 20 50 25 5
+   :header-rows: 1
 
-.. |Oceania_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Foceania.generic-mapping-tools.org
-                           :alt: Oceania Mirror Status
-
-.. |Europe_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Feurope.generic-mapping-tools.org
-                          :alt: Europe Mirror Status
-
-.. |China_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fchina.generic-mapping-tools.org
-                          :alt: China Mirror Status
-
-.. |SAfrica_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Fsouth-africa.generic-mapping-tools.org
-                          :alt: South Africa Mirror Status
+   * - Name
+     - Address
+     - Host
+     - Status
+   * - **Oceania** [Master]
+     - https://oceania.generic-mapping-tools.org
+     - SOEST, U of Hawaii, USA
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Foceania.generic-mapping-tools.org
+   * - **Europe**
+     - http://europe.generic-mapping-tools.org
+     - U of Algarve, Portugal
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Feurope.generic-mapping-tools.org
+   * - **China**
+     - http://china.generic-mapping-tools.org
+     - U of Sci. & Tech. of China, China
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fchina.generic-mapping-tools.org
+   * - **South Africa**
+     - https://south-africa.generic-mapping-tools.org
+     - TENET, Tertiary Education & Research Networks
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Fsouth-africa.generic-mapping-tools.org
 
 Becoming a GMT mirror
 ---------------------
