@@ -43,7 +43,7 @@ Name                 Address                                        Host        
 **Oceania** [Master] https://oceania.generic-mapping-tools.org      SOEST, U of Hawaii, USA                       |Oceania_mirror_status|
 -------------------- ---------------------------------------------- --------------------------------------------- ------------------------
 **Europe**           http://europe.generic-mapping-tools.org        U of Algarve, Portugal                        |Europe_mirror_status|
-**China**            https://china.generic-mapping-tools.org        U of Science & Tecnology, China               |China_mirror_status|
+**China**            http://china.generic-mapping-tools.org         U of Science & Tecnology, China               |China_mirror_status|
 **South Africa**     https://south-africa.generic-mapping-tools.org TENET, Tertiary Education & Research Networks |SAfrica_mirror_status|
 ==================== ============================================== ============================================= ========================
 
@@ -53,7 +53,7 @@ Name                 Address                                        Host        
 .. |Europe_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Feurope.generic-mapping-tools.org
                           :alt: Europe Mirror Status
 
-.. |China_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Fchina.generic-mapping-tools.org
+.. |China_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fchina.generic-mapping-tools.org
                           :alt: China Mirror Status
 
 .. |SAfrica_mirror_status| image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Fsouth-africa.generic-mapping-tools.org
