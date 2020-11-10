@@ -6,7 +6,7 @@ Download
 Releases
 --------
 
-GMT is available on Windows, macOS and Linux. Source and binary packages are provided
+GMT is available on Windows, macOS, Linux and FreeBSD. Source and binary packages are provided
 from `GitHub <https://github.com/GenericMappingTools/gmt/releases>`__:
 
 * `GMT 6.1.1 <https://github.com/GenericMappingTools/gmt/releases/tag/6.1.1>`__ (**recommended**)
