@@ -43,7 +43,7 @@ Name                 Address                                        Host        
 **Oceania** [Master] https://oceania.generic-mapping-tools.org      SOEST, U of Hawaii, USA                       |Oceania_mirror_status|
 -------------------- ---------------------------------------------- --------------------------------------------- ------------------------
 **Europe**           http://europe.generic-mapping-tools.org        U of Algarve, Portugal                        |Europe_mirror_status|
-**China**            http://china.generic-mapping-tools.org         U of Science & Technology, China              |China_mirror_status|
+**China**            http://china.generic-mapping-tools.org         U of Sci. & Tech. of China, China              |China_mirror_status|
 **South Africa**     https://south-africa.generic-mapping-tools.org TENET, Tertiary Education & Research Networks |SAfrica_mirror_status|
 ==================== ============================================== ============================================= ========================
 
