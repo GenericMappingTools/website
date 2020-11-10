@@ -38,7 +38,7 @@ We thank the hosting institutions for mirroring the GMT data distribution so tha
 .. cssclass:: table-bordered
 
 ==================== ============================================== ============================================= ========================
-Name                 Address                                        Host                                          Mirror Status
+Name                 Address                                        Host                                          Status
 ==================== ============================================== ============================================= ========================
 **Oceania** [Master] https://oceania.generic-mapping-tools.org      SOEST, U of Hawaii, USA                       |Oceania_mirror_status|
 -------------------- ---------------------------------------------- --------------------------------------------- ------------------------
