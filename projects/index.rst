@@ -92,7 +92,7 @@ GMTSAR
 
 An open source (GNU General Public License) InSAR processing system based on GMT and
 designed for users familiar with Generic Mapping Tools (GMT). The code is written in C
-and will compile on any computer where GMT and NETCDF are installed.
+and will compile on any computer where GMT and NetCDF are installed.
 
 .. raw:: html
 

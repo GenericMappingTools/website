@@ -19,7 +19,7 @@ help:
 	@echo "  linkcheck  check all external links for integrity"
 
 clean:
-	rm -rf $(BUILDDIR)/html/*
+	rm -rf $(BUILDDIR)/html
 	rm -rf $(BUILDDIR)/doctrees
 	rm -rf $(BUILDDIR)/linkcheck
 
