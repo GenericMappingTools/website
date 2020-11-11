@@ -60,7 +60,7 @@ We thank the hosting institutions for mirroring the GMT data distribution so tha
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fchina.generic-mapping-tools.org
    * - **South Africa**
      - http://south-africa.generic-mapping-tools.org
-     - TENET, Tertiary Education & Research Networks
+     - TENET, Tertiary Education & Research Networks, South Africa
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fsouth-africa.generic-mapping-tools.org
 
 Becoming a GMT mirror
