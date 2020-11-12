@@ -50,14 +50,14 @@ We thank the hosting institutions for mirroring the GMT data distribution so tha
      - https://oceania.generic-mapping-tools.org
      - SOEST, U of Hawaii, USA
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Foceania.generic-mapping-tools.org/gmt_data_server.txt
-   * - **Europe**
-     - http://europe.generic-mapping-tools.org
-     - U of Algarve, Portugal
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Feurope.generic-mapping-tools.org/gmt_data_server.txt
    * - **China**
      - http://china.generic-mapping-tools.org
      - U of Sci. & Tech. of China, China
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fchina.generic-mapping-tools.org/gmt_data_server.txt
+   * - **Europe**
+     - http://europe.generic-mapping-tools.org
+     - U of Algarve, Portugal
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Feurope.generic-mapping-tools.org/gmt_data_server.txt
    * - **Singapore**
      - http://singapore.generic-mapping-tools.org
      - National University of Singapore, Singapore
