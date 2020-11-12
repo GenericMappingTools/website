@@ -58,7 +58,11 @@ We thank the hosting institutions for mirroring the GMT data distribution so tha
      - http://china.generic-mapping-tools.org
      - U of Sci. & Tech. of China, China
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fchina.generic-mapping-tools.org
-   * - **South Africa**
+   * - **Singapore**
+     - http://singapore.generic-mapping-tools.org
+     - National University of Singapore, Singapore
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fsingapore.generic-mapping-tools.org
+  * - **South Africa**
      - http://south-africa.generic-mapping-tools.org
      - TENET, Tertiary Education & Research Networks, South Africa
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fsouth-africa.generic-mapping-tools.org
