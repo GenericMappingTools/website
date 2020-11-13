@@ -16,6 +16,7 @@ Try the site that is closest to you to minimize transmission times.
 Site                                                            Address
 =============================================================== =============================================================
 SOEST, U. of Hawaii, US                                         ftp://ftp.soest.hawaii.edu/gmt
+EarthByte Group, Sydney U, Australia                            https://www.earthbyte.org/webdav/gmt_mirror/gmt
 Lab for Satellite Altimetry, NOAA, US                           ftp://ftp.star.nesdis.noaa.gov/pub/sod/lsa/gmt
 IRIS, Washington, US                                            ftp://ftp.iris.washington.edu/pub/gmt
 IAG-USP, U. of Sao Paulo, BRAZIL                                ftp://ftp.iag.usp.br/pub/gmt
@@ -50,6 +51,10 @@ We thank the hosting institutions for mirroring the GMT data distribution so tha
      - https://oceania.generic-mapping-tools.org
      - SOEST, U of Hawaii, USA
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Foceania.generic-mapping-tools.org/gmt_data_server.txt
+   * - **Australia**
+     - http://australia.generic-mapping-tools.org
+     - EarthByte Group, Sydney U, Australia
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Faustralia.generic-mapping-tools.org/gmt_data_server.txt
    * - **China**
      - http://china.generic-mapping-tools.org
      - U of Sci. & Tech. of China, China
