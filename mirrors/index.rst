@@ -19,7 +19,7 @@ SOEST, U. of Hawaii, US                                         ftp://ftp.soest.
 EarthByte Group, Sydney U, Australia                            https://www.earthbyte.org/webdav/gmt_mirror/gmt
 Lab for Satellite Altimetry, NOAA, US                           ftp://ftp.star.nesdis.noaa.gov/pub/sod/lsa/gmt
 IRIS, Washington, US                                            ftp://ftp.iris.washington.edu/pub/gmt
-IAG-USP, U. of Sao Paulo, BRAZIL                                ftp://ftp.iag.usp.br/pub/gmt
+IAG-USP, U. of Sao Paulo, BRAZIL                                https://generic-mapping-tools.iag.usp.br/gmt
 TENET, Tertiary Education & Research Networks, SOUTH AFRICA     ftp://gmt.mirror.ac.za
 Univ. of Sci. & Tech. of China, Hefei, CHINA                    http://mirrors.ustc.edu.cn/gmt
 Tokai U, Shizuoka, JAPAN                                        http://www.scc.u-tokai.ac.jp/gmt
@@ -51,6 +51,10 @@ We thank the hosting institutions for mirroring the GMT data distribution so tha
      - https://oceania.generic-mapping-tools.org
      - SOEST, U of Hawaii, USA
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Foceania.generic-mapping-tools.org/gmt_data_server.txt
+   * - **Brasil**
+     - http://brasil.generic-mapping-tools.org
+     - IAG-USP, U of Sao Paulo, Brazil
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fbrasil.generic-mapping-tools.org/gmt_data_server.txt
    * - **Australia**
      - http://australia.generic-mapping-tools.org
      - EarthByte Group, Sydney U, Australia
@@ -59,10 +63,14 @@ We thank the hosting institutions for mirroring the GMT data distribution so tha
      - http://china.generic-mapping-tools.org
      - U of Sci. & Tech. of China, China
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fchina.generic-mapping-tools.org/gmt_data_server.txt
-   * - **Europe**
-     - http://europe.generic-mapping-tools.org
+   * - **NOAA** [US East Coast]
+     - http://noaa.generic-mapping-tools.org
+     - Lab for Satellite Altimetry, NOAA, USA
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fnoaa.generic-mapping-tools.org/gmt_data_server.txt
+   * - **Portugal**
+     - http://portugal.generic-mapping-tools.org
      - U of Algarve, Portugal
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Feurope.generic-mapping-tools.org/gmt_data_server.txt
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fportugal.generic-mapping-tools.org/gmt_data_server.txt
    * - **Singapore**
      - http://singapore.generic-mapping-tools.org
      - National U of Singapore, Singapore
