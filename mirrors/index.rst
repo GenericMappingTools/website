@@ -63,14 +63,14 @@ We thank the hosting institutions for mirroring the GMT data distribution so tha
      - http://china.generic-mapping-tools.org
      - U of Sci. & Tech. of China, China
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fchina.generic-mapping-tools.org/gmt_data_server.txt
-   * - **Europe**
-     - http://europe.generic-mapping-tools.org
-     - U of Algarve, Portugal
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Feurope.generic-mapping-tools.org/gmt_data_server.txt
    * - **NOAA** [US East Coast]
      - http://noaa.generic-mapping-tools.org
      - Lab for Satellite Altimetry, NOAA, USA
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fnoaa.generic-mapping-tools.org/gmt_data_server.txt
+   * - **Portugal**
+     - http://portugal.generic-mapping-tools.org
+     - U of Algarve, Portugal
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fportugal.generic-mapping-tools.org/gmt_data_server.txt
    * - **Singapore**
      - http://singapore.generic-mapping-tools.org
      - National U of Singapore, Singapore
