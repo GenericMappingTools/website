@@ -3,6 +3,9 @@
 Mirrors
 =======
 
+**We thank the hosting institutions for mirroring the GMT FTP and data server
+so that users can have a faster download wherever they are located.**
+
 FTP Mirrors
 -----------
 
@@ -10,7 +13,7 @@ The GMT FTP site hosts tarballs of GMT releases and its support data.
 Here is a list of the known active mirrors of the GMT FTP site.
 Try the site that is closest to you to minimize transmission times.
 
-.. cssclass:: table-bordered
+.. cssclass:: table-bordered table-mirrors
 
 =============================================================== =============================================================
 Site                                                            Address
@@ -25,7 +28,6 @@ Univ. of Sci. & Tech. of China, Hefei, China                    http://mirrors.u
 Tokai U, Shizuoka, Japan                                        http://www.scc.u-tokai.ac.jp/gmt
 =============================================================== =============================================================
 
-Many thanks to these institutions for serving as GMT FTP mirrors for such a long time!
 
 Data Server Mirrors
 -------------------
@@ -34,8 +36,6 @@ The GMT data server stores frequently used data sets (e.g., Earth Relief Data).
 Here is a list of the known active mirrors of the GMT remote data server.
 Change the GMT setting `GMT_DATA_SERVER <https://docs.generic-mapping-tools.org/latest/gmt.conf.html#term-GMT_DATA_SERVER>`_
 to the mirror that is closest to you to minimize transmission times.
-We thank the hosting institutions for mirroring the GMT data distribution so that users can have a faster download wherever they are located.
-
 
 .. cssclass:: table-bordered table-mirrors
 
