@@ -36,6 +36,7 @@ The GMT data server stores frequently used data sets (e.g., Earth Relief Data).
 Here is a list of the known active mirrors of the GMT remote data server.
 Change the GMT setting `GMT_DATA_SERVER <https://docs.generic-mapping-tools.org/latest/gmt.conf.html#term-GMT_DATA_SERVER>`_
 to the mirror that is closest to you to minimize transmission times.
+(Please `report to us <https://github.com/GenericMappingTools/gmtserver-admin/issues>`_ if any mirrors are offline.)
 
 .. cssclass:: table-bordered table-mirrors
 
