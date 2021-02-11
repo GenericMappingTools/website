@@ -34,8 +34,11 @@ Further development was made possible by grants and fellowships:
 
 * National Science Foundation grants
   `EAR-1948602 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602>`__,
+  `OCE-1841660 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1841660>`__,
   `EAR-1829371 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829371>`__,
-  `OCE1029874 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1029874>`__,
+  `OCE-1558403 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1558403>`__,
+  `EAR-1347184 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1347184>`__,
+  `OCE-1029874 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1029874>`__,
   `OCE-0452126 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0452126>`__,
   `OCE-0082552 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0082552>`__,
   `OCE-9529431 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=9529431>`__,
