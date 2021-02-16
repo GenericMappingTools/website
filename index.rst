@@ -176,10 +176,6 @@
                   The third minor release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.3.0">PyGMT v0.3.0</a> is now available.
                </li>
                <li>
-                  2020-09-12:
-                  The second minor release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.2.0">PyGMT v0.2.0</a> is now available.
-               </li>
-               <li>
                   2020-09-02:
                   GMT 6.1.1 has been released.  See  <a href="https://forum.generic-mapping-tools.org/t/gmt-6-1-1-has-been-released/839">the announcement</a> for details.
                </li>
@@ -194,10 +190,6 @@
                   <a target="_blank" href="https://docs.google.com/document/d/15-ksiUotquaNYVnnpy8NKIWNU8pGPduf8__jZLSvGQE/edit?usp=sharing"> view ad details</a>
                   or
                   <a target="_blank" href="https://hcmweb.rcuh.com/psp/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=220288&PostingSeq=1">apply online now</a>!
-               </li>
-               <li>
-                  2020-05-03:
-                  The first official release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.1.0">PyGMT v0.1.0</a> is now available.
                </li>
                <li>
                   2020-03-30:
