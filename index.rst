@@ -173,7 +173,7 @@
                <ul>
                <li>
                   2021-03-15:
-                  We now have a Twitter handle <a href="https://twitter.com/gmt_dev">@gmt_dev</a>!
+                  GMT now has a Twitter handle <a href="https://twitter.com/gmt_dev">@gmt_dev</a>!
                </li>
                <li>
                   2021-02-15:
