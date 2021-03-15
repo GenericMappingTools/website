@@ -67,7 +67,7 @@ to the mirror that is closest to you to minimize transmission times.
    * - **NOAA** [US East Coast]
      - http://noaa.generic-mapping-tools.org
      - Lab for Satellite Altimetry, NOAA, USA
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fnoaa.generic-mapping-tools.org/gmt_data_server.txt
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Fwww.star.nesdis.noaa.gov/data/socd3/lsa/gmtdata/gmt_data_server.txt
    * - **Portugal**
      - http://portugal.generic-mapping-tools.org
      - U of Algarve, Portugal
