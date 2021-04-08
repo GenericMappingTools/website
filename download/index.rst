@@ -19,7 +19,7 @@ Support Data
 ------------
 
 * `GSHHG 2.3.7 <https://github.com/GenericMappingTools/gshhg-gmt/releases/download/2.3.7/gshhg-gmt-2.3.7.tar.gz>`__: The Global Self-consistent, Hierarchical, High-resolution Geography Database
-* `DCW 1.1.4 <https://github.com/GenericMappingTools/dcw-gmt/releases/download/1.1.4/dcw-gmt-1.1.4.tar.gz>`__: The Digital Chart of the World Data
+* `DCW 2.0.0 <https://github.com/GenericMappingTools/dcw-gmt/releases/download/2.0.0/dcw-gmt-2.0.0.tar.gz>`__: The Digital Chart of the World Data [requires GMT 6.1.1 or later]
 
 **Note:** You may also get GMT and its support data from any of :doc:`the GMT FTP mirrors </mirrors/index>`.
 Try the site that is closest to you to minimize transmission times.
