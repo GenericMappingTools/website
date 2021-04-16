@@ -250,6 +250,10 @@
             <div class="col-sm-4 front-block-text">
                <h2>Upcoming workshops</h2>
 
+               <ul>
+               <li><strong>2021</strong>: The Generic Mapping Tools for Geodesy.</li>
+               </ul>
+
                <p>
                <a href="/workshops#future-workshops">more »</a>
                </p>
