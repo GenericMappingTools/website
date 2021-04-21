@@ -173,8 +173,8 @@
                <ul>
                <li>
                   2021-04-20:
-                  Paul Wessel presented the 2020 <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a> Lecture on the Generic Mapping Tools and
-                  Community-Maintained Open Source Software! See the presentation video at the
+                  Paul Wessel presented the 2020 <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a> Lecture
+                  on the Generic Mapping Tools and Community-Maintained Open Source Software! See the presentation video at the
                   <a href="https://meetingorganizer.copernicus.org/EGU21/session/41216">vEGU21 site</a>.
                </li>
                <li>
