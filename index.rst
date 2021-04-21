@@ -172,6 +172,12 @@
 
                <ul>
                <li>
+                  2021-04-20:
+                  Paul Wessel presented the 2020 <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a> Lecture on the Generic Mapping Tools and
+                  Community-Maintained Open Source Software! See the presentation video at the
+                  <a href="https://meetingorganizer.copernicus.org/EGU21/session/41216">vEGU21 site</a>.
+               </li>
+               <li>
                   2021-03-15:
                   GMT now has a Twitter handle <a href="https://twitter.com/gmt_dev">@gmt_dev</a>!
                </li>
