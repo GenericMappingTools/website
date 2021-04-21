@@ -37,6 +37,10 @@
             <i class="fab fa-discourse"></i> GMT Community Forum</a> to get help
             and connect with other users and developers.
             </p>
+            <p>
+            <strong>Want to use GMT in MATLAB/Octave, Julia, or Python?</strong>
+            Check out the <a href="https://www.generic-mapping-tools.org/projects/#gmt-interfaces">GMT interfaces</a>!
+            </p>
 
             </div>
            <div class="col-sm-5 col-sm-pull-7">
