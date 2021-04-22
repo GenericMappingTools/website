@@ -193,37 +193,6 @@
                   2020-09-02:
                   GMT 6.1.1 has been released.  See  <a href="https://forum.generic-mapping-tools.org/t/gmt-6-1-1-has-been-released/839">the announcement</a> for details.
                </li>
-               <li>
-                  2020-07-04:
-                  GMT 6.1.0 has been released.  See  <a href="https://forum.generic-mapping-tools.org/t/gmt-6-1-0-has-been-released/619">the announcement</a> for details.
-               </li>
-               <li>
-                  2020-06-23:
-                  <b>GMT postdoctoral position</b> available at SOEST, U of Hawaii at Mānoa.
-                  Click to
-                  <a target="_blank" href="https://docs.google.com/document/d/15-ksiUotquaNYVnnpy8NKIWNU8pGPduf8__jZLSvGQE/edit?usp=sharing"> view ad details</a>
-                  or
-                  <a target="_blank" href="https://hcmweb.rcuh.com/psp/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=220288&PostingSeq=1">apply online now</a>!
-               </li>
-               <li>
-                  2020-03-30:
-                  NSF-EAR grant
-                  <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602">number 1948602</a>
-                  awarded to fund efforts to make GMT truly sustainable by its community.
-               </li>
-               <li>
-                  2019-11-04:
-                  Paul Wessel is the recipient of the 2020 European Geosciences Union
-                  <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a>
-                  for his work on GMT.
-                  Read more about it in the
-                  <a href="https://www.soest.hawaii.edu/soestwp/announce/news/paul-wessel-honored-for-distinguished-research/">SOEST announcement</a>
-                  and <a href="https://www.egu.eu/news/545/egu-announces-2020-awards-and-medals/">EGU 2020 awards recipients list</a>.
-               </li>
-               <li>
-                  2019-11-01:
-                  The <a href="https://doi.org/10.1029/2019GC008515">paper for GMT 6</a> is Open Access and available on <i>Geochemistry, Geophysics, Geosystems</i>.
-               </li>
                </ul>
 
                <p>
@@ -265,7 +234,7 @@
                <h2>Upcoming workshops</h2>
 
                <ul>
-               <li><strong>2021</strong>: The Generic Mapping Tools for Geodesy.</li>
+               <li>2021-07: The Generic Mapping Tools for Geodesy.</li>
                </ul>
 
                <p>
