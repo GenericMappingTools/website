@@ -16,6 +16,26 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
+2021-08-17 | Earth Science Women's Network/GMT Workshop: Developing Free and Open Source Software with PyGMT
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* **Title:** ESWN/GMT Professional Development Workshop: Developing Free and Open Source Software with PyGMT
+* **Instructors:** Meghan Jones, Wei Ji Leong, Paul Wessel
+* **When:** August 17-19 (Tuesday-Thursday), 2021, online
+* **Where:** Online only
+* **Repository:** TBD
+* **ESWN Announcement:** https://eswnonline.org/29375-2/
+* **Application Portal:** https://forms.gle/LWVhkKrxRS2YCbaV7
+
+We are excited to announce an upcoming workshop hosted by the Earth Science Women’s Network and the Generic Mapping
+Tools team on developing free, open source software! This workshop will include lessons about developing open source
+software and hands-on activities. During the hands-on activities, participants will contribute to open source software
+and work on issues in the PyGMT repository. More information is posted on the
+`ESWN Announcement <https://eswnonline.org/29375-2/>`_.
+
+We expressly invite people who face under-representation, systemic bias, or discrimination in the Earth sciences and/or
+technology industry where they live to apply. People of all career stages are welcome to apply.
+
 2021-07-20 | GMT for Geodesy UNAVCO
 +++++++++++++++++++++++++++++++++++
 
