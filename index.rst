@@ -234,6 +234,7 @@
                <h2>Upcoming workshops</h2>
 
                <ul>
+               <li>2021-08: Developing Free and Open Source Software with PyGMT.</li>
                <li>2021-07: The Generic Mapping Tools for Geodesy.</li>
                </ul>
 
