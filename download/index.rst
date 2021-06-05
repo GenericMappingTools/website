@@ -9,8 +9,8 @@ Releases
 GMT is available on Windows, macOS, Linux and FreeBSD. Source and binary packages are provided
 from `GitHub <https://github.com/GenericMappingTools/gmt/releases>`__:
 
-* `GMT 6.2.0rc2 (release candidate) <https://github.com/GenericMappingTools/gmt/releases/tag/6.2.0rc2>`__
-* `GMT 6.1.1 <https://github.com/GenericMappingTools/gmt/releases/tag/6.1.1>`__ (**recommended**)
+* `GMT 6.2.0 <https://github.com/GenericMappingTools/gmt/releases/tag/6.2.0>`__ (**recommended**)
+* `GMT 6.1.1 <https://github.com/GenericMappingTools/gmt/releases/tag/6.1.1>`__
 * `GMT 6.1.0 <https://github.com/GenericMappingTools/gmt/releases/tag/6.1.0>`__
 * `GMT 6.0.0 <https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0>`__
 * `GMT 5.4.5 <https://github.com/GenericMappingTools/gmt/releases/tag/5.4.5>`__
