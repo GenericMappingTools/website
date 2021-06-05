@@ -205,8 +205,8 @@
 
                <ul>
                <li>
-                  2021-05-24:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.2.0rc2">GMT 6.2.0 Release Candidate 2</a>
+                  2021-06-05:
+                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.2.0">GMT 6.2.0</a>
                </li>
                <li>
                   2020-09-02:
