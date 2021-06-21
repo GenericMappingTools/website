@@ -176,6 +176,10 @@
 
                <ul>
                <li>
+                  2021-06-20:
+                  The fourth minor release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.4.0">PyGMT v0.4.0</a> is now available.
+               </li>
+               <li>
                   2021-04-20:
                   Paul Wessel presented the 2020 <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a> Lecture
                   on the Generic Mapping Tools and Community-Maintained Open Source Software! See the presentation video at the
@@ -184,10 +188,6 @@
                <li>
                   2021-03-15:
                   GMT now has a Twitter handle <a href="https://twitter.com/gmt_dev">@gmt_dev</a>!
-               </li>
-               <li>
-                  2021-02-15:
-                  The third minor release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.3.0">PyGMT v0.3.0</a> is now available.
                </li>
                <li>
                   2020-09-02:
