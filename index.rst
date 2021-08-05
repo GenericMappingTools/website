@@ -219,9 +219,9 @@
                      <img alt="GMT GitHub release (latest by date)" vspace="10" src="https://img.shields.io/github/release/GenericMappingTools/gmt?label=GMT">
                </a>
                </div>
-               <div class="shield"
+               <div class="shield">
                <a href="https://github.com/GenericMappingTools/GMT.jl/releases" target="_blank">
-                     <img alt="GMT.jl GitHub release (latest by date)" vspace="10" src="https://img.shields.io/github/v/release/GenericMappingTools/GMT.jl?label=GMT.jl">
+                     <img alt="GMT.jl GitHub release (latest by date)" vspace="10" src="https://img.shields.io/github/release/GenericMappingTools/GMT.jl?label=GMT.jl">
                </a>
                </div>
                <div class="shield">
