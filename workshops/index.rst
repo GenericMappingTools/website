@@ -21,9 +21,9 @@ Upcoming Workshops
 
 * **Title:** ESWN/GMT Professional Development Workshop: Developing Free and Open Source Software with PyGMT
 * **Instructors:** Meghan Jones, Wei Ji Leong, Paul Wessel
-* **When:** August 17-19 (Tuesday-Thursday), 2021, online
+* **When:** August 17-19 (Tuesday-Thursday), 2021,  20:00 – 24:00 UTC
 * **Where:** Online only
-* **Repository:** TBD
+* **Repository:** https://github.com/GenericMappingTools/2021-eswn-pygmt-workshop
 * **ESWN Announcement:** https://eswnonline.org/29375-2/
 * **Application Portal:** https://forms.gle/LWVhkKrxRS2YCbaV7
 
@@ -36,22 +36,6 @@ and work on issues in the PyGMT repository. More information is posted on the
 We expressly invite people who face under-representation, systemic bias, or discrimination in the Earth sciences and/or
 technology industry where they live to apply. People of all career stages are welcome to apply.
 
-2021-07-20 | GMT for Geodesy UNAVCO
-+++++++++++++++++++++++++++++++++++
-
-* **Title:** The Generic Mapping Tools for Geodesy
-* **Instructors:** Paul Wessel, Joaquim Luis, Leo Uieda, Dongdong Tian, Eric Xu, Meghan Jones
-* **When:** July 20-21 (Tuesday-Wednesday), 2021, online
-* **Where:** Via zoom only
-* **Repository:** TBD
-* **Application Portal:** https://www.unavco.org/news/2021-short-course-gmt-for-geodesy/
-
-This course will cover the use of Generic Mapping Tools (GMT) in geodesy using
-UNIX shell scripting. Lectures and exercises will be given to teach the basic
-conventions of using GMT, such as plotting grids, images, and vector data (points,
-lines, polygons), and making animations. Labs will include both processing and
-mapping of various data sets relevant to geodesy.
-
 .. raw:: html
 
    <hr style="margin: 80px 0px;">
@@ -61,6 +45,22 @@ mapping of various data sets relevant to geodesy.
 
 Past Workshops
 --------------
+
+2021-07-20 | GMT for Geodesy UNAVCO
++++++++++++++++++++++++++++++++++++
+
+* **Title:** The Generic Mapping Tools for Geodesy
+* **Instructors:** Paul Wessel, Joaquim Luis, Leo Uieda, Dongdong Tian, Eric Xu, Meghan Jones
+* **When:** July 20-21 (Tuesday-Wednesday), 2021, online
+* **Where:** Via zoom only
+* **Repository:** https://github.com/GenericMappingTools/2021-unavco-course
+* **Application Portal:** https://www.unavco.org/news/2021-short-course-gmt-for-geodesy/
+
+This course will cover the use of Generic Mapping Tools (GMT) in geodesy using
+UNIX shell scripting. Lectures and exercises will be given to teach the basic
+conventions of using GMT, such as plotting grids, images, and vector data (points,
+lines, polygons), and making animations. Labs will include both processing and
+mapping of various data sets relevant to geodesy.
 
 2020-07-20 | GMT for Geodesy UNAVCO
 +++++++++++++++++++++++++++++++++++
