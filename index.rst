@@ -201,36 +201,6 @@
 
             </div>
             <div class="col-sm-4 front-block-text">
-               <h2>Latest releases</h2>
-
-               <ul>
-               <li>
-                  2021-06-05:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.2.0">GMT 6.2.0</a>
-               </li>
-               <li>
-                  2020-09-02:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.1.1">GMT 6.1.1</a>
-               </li>
-               <li>
-                  2020-07-04:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.1.0">GMT 6.1.0</a>
-               </li>
-               <li>
-                  2019-11-01:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.0.0">GMT 6.0.0</a>
-               </li>
-               <li>
-                  2019-02-19:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/5.4.5">GMT 5.4.5</a>
-               </li>
-               </ul>
-
-               <p>
-               <a href="/download">more »</a>
-               </p>
-            </div>
-            <div class="col-sm-4 front-block-text">
                <h2>Upcoming workshops</h2>
 
                <ul>
@@ -239,6 +209,27 @@
 
                <p>
                <a href="/workshops#future-workshops">more »</a>
+               </p>
+            </div>
+            <div class="col-sm-4 front-block-text">
+               <h2>Latest releases</h2>
+               <div class="shield">
+               <a href="https://github.com/GenericMappingTools/gmt/releases" target="_blank">
+                     <img alt="GMT GitHub release (latest by date)" vspace="10" src="https://img.shields.io/github/release/GenericMappingTools/gmt?label=GMT">
+               </a>
+               </div>
+               <div class="shield">
+               <a href="https://github.com/GenericMappingTools/GMT.jl/releases" target="_blank">
+                     <img alt="GMT.jl GitHub release (latest by date)" vspace="10" src="https://img.shields.io/github/release/GenericMappingTools/GMT.jl?label=GMT.jl">
+               </a>
+               </div>
+               <div class="shield">
+               <a href="https://github.com/GenericMappingTools/pygmt/releases" target="_blank">
+                     <img alt="PyGMT GitHub release (latest by date)" vspace="10" src="https://img.shields.io/github/v/release/GenericMappingTools/pygmt?label=PyGMT">
+               </a>
+               </div>
+               <p>
+               <a href="/download">more »</a>
                </p>
             </div>
         </div>
