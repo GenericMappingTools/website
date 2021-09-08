@@ -177,11 +177,11 @@
                <ul>
                <li>
                   2021-08-07:
-                  <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.4.1">PyGMT v0.4.1</a> is now available.
+                  <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.4.1">PyGMT v0.4.1</a> is now available. See <a href="https://forum.generic-mapping-tools.org/t/pygmt-v0-4-1-released/1972">the announcement</a> for details.
                </li>
                 <li>
                   2021-06-05:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.2.0">GMT 6.2.0</a> has been released.  See  <a href="https://forum.generic-mapping-tools.org/t/gmt-6-2-0-released/1757">the announcement</a> for details.
+                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.2.0">GMT 6.2.0</a> has been released. See <a href="https://forum.generic-mapping-tools.org/t/gmt-6-2-0-released/1757">the announcement</a> for details.
                </li>
                <li>
                   2021-04-20:
