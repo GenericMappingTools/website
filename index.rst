@@ -176,8 +176,12 @@
 
                <ul>
                <li>
-                  2021-06-20:
-                  The fourth minor release of <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.4.0">PyGMT v0.4.0</a> is now available.
+                  2021-08-07:
+                  <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.4.1">PyGMT v0.4.1</a> is now available. See <a href="https://forum.generic-mapping-tools.org/t/pygmt-v0-4-1-released/1972">the announcement</a> for details.
+               </li>
+                <li>
+                  2021-06-05:
+                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.2.0">GMT 6.2.0</a> has been released. See <a href="https://forum.generic-mapping-tools.org/t/gmt-6-2-0-released/1757">the announcement</a> for details.
                </li>
                <li>
                   2021-04-20:
@@ -189,12 +193,7 @@
                   2021-03-15:
                   GMT now has a Twitter handle <a href="https://twitter.com/gmt_dev">@gmt_dev</a>!
                </li>
-               <li>
-                  2020-09-02:
-                  GMT 6.1.1 has been released.  See  <a href="https://forum.generic-mapping-tools.org/t/gmt-6-1-1-has-been-released/839">the announcement</a> for details.
-               </li>
                </ul>
-
                <p>
                <a href="/news">more »</a>
                </p>
@@ -202,10 +201,6 @@
             </div>
             <div class="col-sm-4 front-block-text">
                <h2>Upcoming workshops</h2>
-
-               <ul>
-               <li>2021-08: Developing Free and Open Source Software with PyGMT.</li>
-               </ul>
 
                <p>
                <a href="/workshops#future-workshops">more »</a>
