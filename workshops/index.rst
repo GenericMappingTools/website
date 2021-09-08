@@ -16,6 +16,16 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
+.. raw:: html
+
+   <hr style="margin: 80px 0px;">
+
+
+.. _past_workshops:
+
+Past Workshops
+--------------
+
 2021-08-17 | Earth Science Women's Network/GMT Workshop: Developing Free and Open Source Software with PyGMT
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -35,16 +45,6 @@ and work on issues in the PyGMT repository. More information is posted on the
 
 We expressly invite people who face under-representation, systemic bias, or discrimination in the Earth sciences and/or
 technology industry where they live to apply. People of all career stages are welcome to apply.
-
-.. raw:: html
-
-   <hr style="margin: 80px 0px;">
-
-
-.. _past_workshops:
-
-Past Workshops
---------------
 
 2021-07-20 | GMT for Geodesy UNAVCO
 +++++++++++++++++++++++++++++++++++
