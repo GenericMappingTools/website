@@ -93,6 +93,11 @@ html_context = {
             "YouTube",
             "https://www.youtube.com/channel/UCo1drOh0OZPcB7S8TmIyf8Q",
         ),
+        (
+            '<i class="fab fa-instagram fa-lg"></i>',
+            "Instagram",
+            "https://www.instagram.com/genericmappingtools/",
+        ),
     ],
     "url": "https://www.generic-mapping-tools.org",
     "last_updated": str(datetime.date.today()),
