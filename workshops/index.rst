@@ -16,6 +16,29 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
+2022-04 | Crafting beautiful maps with PyGMT at EGU General Assembly 2022
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* **Title:** Crafting beautiful maps with PyGMT
+* **Instructors:** Wei Ji Leong, Leonardo Uieda, Meghan Jones, Andre Luiz Belem
+* **When:** Early April 2022
+* **Where:** Hybrid (Online and at Vienna, Austria)
+* **Repository:** TBA
+* **EGU Session info:** https://meetingorganizer.copernicus.org/EGU22/session/43186
+* **Application Portal:** TBA
+
+This short course is geared towards geoscientists interested in creating beautiful maps using Python.
+Only basic Python knowledge is needed, and a background in cartography is not required to use PyGMT effectively!
+The 3.5 hour long short course will be based on content adapted from https://github.com/GenericMappingTools/2021-unavco-course
+and https://github.com/GenericMappingTools/foss4g2019oceania. Each of the 30–45 minute sessions will involve a
+quick (~10 minute) walkthrough by the speaker, followed by a more hands-on session in breakout rooms where tutorial
+participants work on the topic (using interactive Jupyter notebooks) in a guided environment with one of four instructors
+on hand to answer questions.
+
+We expressly welcome students and geoscientists working on any geo related fields
+(e.g. Earth Observation, Geophysical, Marine, Magnetic, Gravity, Planetary, etc) to join.
+Come and find out what PyGMT can do to level up your geoprocessing workflow!
+
 .. raw:: html
 
    <hr style="margin: 80px 0px;">
