@@ -206,6 +206,10 @@
             <div class="col-sm-4 front-block-text">
                <h2>Upcoming workshops</h2>
 
+               <ul>
+               <li>2022-04: Crafting beautiful maps with PyGMT at EGU General Assembly 2022.</li>
+               </ul>
+
                <p>
                <a href="/workshops#future-workshops">more »</a>
                </p>
