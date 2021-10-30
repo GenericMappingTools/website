@@ -174,14 +174,14 @@
             <div class="col-sm-4 front-block-text">
                <h2>News</h2>
 
-               <ul>
+               <ul>            
+               <li>
+                  2021-10-30:
+                  <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.5.0">PyGMT v0.5.0</a> is now available. See <a href="https://forum.generic-mapping-tools.org/t/pygmt-v0-5-0-released/2233">the announcement</a> for details.
+               </li>
                <li>
                   2021-09-15:
                   GMT now has an Instagram handle <a href="https://www.instagram.com/genericmappingtools/">@genericmappingtools</a>!
-               </li>
-               <li>
-                  2021-08-07:
-                  <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.4.1">PyGMT v0.4.1</a> is now available. See <a href="https://forum.generic-mapping-tools.org/t/pygmt-v0-4-1-released/1972">the announcement</a> for details.
                </li>
                 <li>
                   2021-06-05:
