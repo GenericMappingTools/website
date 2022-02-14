@@ -67,7 +67,7 @@ to the mirror that is closest to you to minimize transmission times.
    * - **OpenTopography/SDSC** [US West Coast]
      - http://sdsc-opentopography.generic-mapping-tools.org
      - OpenTopography at San Diego Supercomputing Center
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Fsdsc-opentopography.generic-mapping-tools.org/gmt_data_server.txt
+     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fsdsc-opentopography.generic-mapping-tools.org/gmt_data_server.txt
    * - **NOAA** [US East Coast]
      - http://noaa.generic-mapping-tools.org
      - Lab for Satellite Altimetry, NOAA, USA
