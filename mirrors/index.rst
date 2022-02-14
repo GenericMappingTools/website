@@ -65,7 +65,7 @@ to the mirror that is closest to you to minimize transmission times.
      - U of Sci. & Tech. of China, China
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fchina.generic-mapping-tools.org/gmt_data_server.txt
    * - **OpenTopography/SDSC** [US West Coast]
-     - https://sdsc-opentopography.generic-mapping-tools.org
+     - http://sdsc-opentopography.generic-mapping-tools.org
      - OpenTopography at San Diego Supercomputing Center
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Fsdsc-opentopography.generic-mapping-tools.org/gmt_data_server.txt
    * - **NOAA** [US East Coast]
