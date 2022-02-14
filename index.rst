@@ -176,12 +176,8 @@
 
                <ul>
                <li>
-                  2021-11-19:
-                  <a href="https://github.com/GenericMappingTools/gmt/releases/tag/6.3.0">GMT 6.3.0</a> has been released. See <a href="https://forum.generic-mapping-tools.org/t/gmt-6-3-0-released/2332">the announcement</a> for details.
-               </li>
-               <li>
-                  2021-10-29:
-                  <a href="https://github.com/GenericMappingTools/pygmt/releases/tag/v0.5.0">PyGMT v0.5.0</a> is now available. See <a href="https://forum.generic-mapping-tools.org/t/pygmt-v0-5-0-released/2233">the announcement</a> for details.
+                  2021-01-18:
+                  New datasets are available through the GMT remote file feature! See the <a href="https://www.generic-mapping-tools.org/remote-datasets/">remote dataset documentation</a> for details.
                </li>
                <li>
                   2021-09-15:
