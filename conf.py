@@ -91,7 +91,7 @@ html_context = {
         (
             '<i class="fab fa-youtube fa-lg"></i>',
             "YouTube",
-            "https://www.youtube.com/channel/UCo1drOh0OZPcB7S8TmIyf8Q",
+            "https://www.youtube.com/c/TheGenericMappingTools",
         ),
         (
             '<i class="fab fa-instagram fa-lg"></i>',
