@@ -203,7 +203,7 @@
                <h2>Upcoming workshops</h2>
 
                <ul>
-               <li>2022-04: Crafting beautiful maps with PyGMT at EGU General Assembly 2022.</li>
+               <li>2022-05-24: Crafting beautiful maps with PyGMT at EGU General Assembly 2022.</li>
                </ul>
 
                <p>
