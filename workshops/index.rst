@@ -16,24 +16,25 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
-2022-04 | Crafting beautiful maps with PyGMT at EGU General Assembly 2022
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-05-24 | Crafting beautiful maps with PyGMT at EGU General Assembly 2022
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * **Title:** Crafting beautiful maps with PyGMT
 * **Instructors:** Wei Ji Leong, Leonardo Uieda, Meghan Jones, Andre Luiz Belem
-* **When:** Early April 2022
-* **Where:** Hybrid (Online and at Vienna, Austria)
-* **Repository:** TBA
+* **When:** 24 May 2022, 13:10-14:40 (UTC) / 15:10-16:40 (CEST)
+* **Where:** Online
+* **Repository:** https://github.com/GenericMappingTools/egu22pygmt
 * **EGU Session info:** https://meetingorganizer.copernicus.org/EGU22/session/43186
-* **Application Portal:** TBA
+* **Application Portal:** https://egu22.eu/register_and_venue/registration.html
 
 This short course is geared towards geoscientists interested in creating beautiful maps using Python.
 Only basic Python knowledge is needed, and a background in cartography is not required to use PyGMT effectively!
-The 3.5 hour long short course will be based on content adapted from https://github.com/GenericMappingTools/2021-unavco-course
-and https://github.com/GenericMappingTools/foss4g2019oceania. Each of the 30–45 minute sessions will involve a
-quick (~10 minute) walkthrough by the speaker, followed by a more hands-on session in breakout rooms where tutorial
-participants work on the topic (using interactive Jupyter notebooks) in a guided environment with one of four instructors
-on hand to answer questions.
+The 1.5 hour long short course will be based on content adapted from https://github.com/GenericMappingTools/2021-unavco-course
+and https://github.com/GenericMappingTools/foss4g2019oceania. The session will consist of a 10 minute
+introduction followed by four 20 minute sessions, each of which will include demonstrations using
+interactive Jupyter notebooks. Participants will be able to follow along with the demonstration using
+online computing environments, and there will be a separate opportunity to engage with the other
+participants and short course instructors.
 
 We expressly welcome students and geoscientists working on any geo related fields
 (e.g. Earth Observation, Geophysical, Marine, Magnetic, Gravity, Planetary, etc) to join.
