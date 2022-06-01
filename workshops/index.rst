@@ -16,13 +16,25 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
+.. raw:: html
+
+   <hr style="margin: 80px 0px;">
+
+
+.. _past_workshops:
+
+Past Workshops
+--------------
+
 2022-05-24 | Crafting beautiful maps with PyGMT at EGU General Assembly 2022
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * **Title:** Crafting beautiful maps with PyGMT
-* **Instructors:** Wei Ji Leong, Leonardo Uieda, Meghan Jones, Andre Luiz Belem
+* **Instructors:** Wei Ji Leong, Leonardo Uieda, Max Jones, André Belém
 * **When:** 24 May 2022, 13:10-14:40 (UTC) / 15:10-16:40 (CEST)
 * **Where:** Online
+* **Website:** https://www.generic-mapping-tools.org/egu22pygmt
+* **Youtube:** https://www.youtube.com/playlist?list=PL3GHXjKa-p6VBA_MlUP7T_ByCFYQZ5uDG
 * **Repository:** https://github.com/GenericMappingTools/egu22pygmt
 * **EGU Session info:** https://meetingorganizer.copernicus.org/EGU22/session/43186
 * **Application Portal:** https://egu22.eu/register_and_venue/registration.html
@@ -39,16 +51,6 @@ participants and short course instructors.
 We expressly welcome students and geoscientists working on any geo related fields
 (e.g. Earth Observation, Geophysical, Marine, Magnetic, Gravity, Planetary, etc) to join.
 Come and find out what PyGMT can do to level up your geoprocessing workflow!
-
-.. raw:: html
-
-   <hr style="margin: 80px 0px;">
-
-
-.. _past_workshops:
-
-Past Workshops
---------------
 
 2021-08-17 | Earth Science Women's Network/GMT Workshop: Developing Free and Open Source Software with PyGMT
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
