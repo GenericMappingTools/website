@@ -16,6 +16,22 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
+2022-07-05 | GMT for Geodesy UNAVCO
++++++++++++++++++++++++++++++++++++
+
+* **Title:** The Generic Mapping Tools for Geodesy
+* **Instructors:** Paul Wessel, Joaquim Luis, Federico Esteban, Dongdong Tian, Eric Xu, Max Jones
+* **When:** July 05-07 (Tuesday-Thursday), 2023, online
+* **Where:** Via zoom only
+* **Repository:** https://github.com/GenericMappingTools/gmt-for-geodesy
+* **Application Portal:** https://www.unavco.org/event/2022-short-course-the-generic-mapping-tools-gmt-for-geodesy/
+
+This course will cover the use of Generic Mapping Tools (GMT) in geodesy using
+UNIX shell scripting. Lectures and exercises will be given to teach the basic
+conventions of using GMT, such as plotting grids, images, and vector data (points,
+lines, polygons), and making animations. Labs will include both processing and
+mapping of various data sets relevant to geodesy.
+
 .. raw:: html
 
    <hr style="margin: 80px 0px;">

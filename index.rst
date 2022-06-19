@@ -203,6 +203,7 @@
                <h2>Upcoming workshops</h2>
 
                <ul>
+               <li><strong>2022-07</strong>: The Generic Mapping Tools for Geodesy.</li>
                </ul>
 
                <p>
