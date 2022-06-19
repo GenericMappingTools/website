@@ -21,7 +21,7 @@ Upcoming Workshops
 
 * **Title:** The Generic Mapping Tools for Geodesy
 * **Instructors:** Paul Wessel, Joaquim Luis, Federico Esteban, Dongdong Tian, Eric Xu, Max Jones
-* **When:** July 05-07 (Tuesday-Thursday), 2023, online
+* **When:** July 05-07 (Tuesday-Thursday), 2022, online
 * **Where:** Via zoom only
 * **Repository:** https://github.com/GenericMappingTools/gmt-for-geodesy
 * **Application Portal:** https://www.unavco.org/event/2022-short-course-the-generic-mapping-tools-gmt-for-geodesy/
