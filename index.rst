@@ -176,6 +176,10 @@
 
                <ul>
                <li>
+                  2022-06-16:
+                  Our <a href="https://doi.org/10.1029/2019GC008515">2019 paper on GMT</a> was an AGU/Wiley top download during 2019 and 2020!
+               </li>
+               <li>
                   2021-01-18:
                   New datasets are available through the GMT remote file feature! See the <a href="https://www.generic-mapping-tools.org/remote-datasets/">remote dataset documentation</a> for details.
                </li>
@@ -203,6 +207,10 @@
                <h2>Upcoming workshops</h2>
 
                <ul>
+               <li>
+                   2022 July 5-7 UNAVCO <a href="https://www.unavco.org/event/2022-short-course-the-generic-mapping-tools-gmt-for-geodesy/">GMT for Geodesy</a>.
+               </li>
+               </ul>
                </ul>
 
                <p>
