@@ -211,7 +211,6 @@
                    2022 July 5-7 UNAVCO <a href="https://www.unavco.org/event/2022-short-course-the-generic-mapping-tools-gmt-for-geodesy/">GMT for Geodesy</a>.
                </li>
                </ul>
-               </ul>
 
                <p>
                <a href="/workshops#future-workshops">more »</a>

@@ -21,7 +21,6 @@ html_static_path = ["_static"]
 html_extra_path = [".nojekyll", "CNAME", "team.html"]
 html_use_smartypants = True
 pygments_style = "default"
-html_add_permalinks = ""
 
 # Theme config
 html_theme = "bootstrap"
