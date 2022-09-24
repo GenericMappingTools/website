@@ -3,6 +3,7 @@
 News
 ====
 
+- 2022-09-06: Paul Wessel is the recipient of the 2022 American Geophysical Union’s (AGU) Earth and Space Science Informatics `Greg Leptoukh Lecture  <https://www.soest.hawaii.edu/soestwp/announce/awards/paul-wessel-selected-for-agu-earth-space-science-informatics-greg-leptoukh-lecture/>`__.
 - 2020-03-20: NSF-EAR grant `number 1948602 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602>`__
   awarded to fund efforts to make GMT truly sustainable by its community!
 - 2019-11-04: Paul Wessel is the recipient of the 2020 European Geosciences Union `Ian McHarg Medal <https://www.egu.eu/awards-medals/ian-mcharg/>`__
