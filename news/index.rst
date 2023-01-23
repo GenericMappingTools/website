@@ -3,7 +3,13 @@
 News
 ====
 
-- 2022-09-06: Paul Wessel is the recipient of the 2022 American Geophysical Union’s (AGU) Earth and Space Science Informatics `Greg Leptoukh Lecture  <https://www.soest.hawaii.edu/soestwp/announce/awards/paul-wessel-selected-for-agu-earth-space-science-informatics-greg-leptoukh-lecture/>`__.
+- 2021-09-15: GMT now has an Instagram handle - `@genericmappingtools <https://www.instagram.com/genericmappingtools/>`__!
+- 2022-09-06: Paul Wessel is the recipient of the 2022 American Geophysical Union’s (AGU)
+  Earth and Space Science Informatics `Greg Leptoukh Lecture <https://www.soest.hawaii.edu/soestwp/announce/awards/paul-wessel-selected-for-agu-earth-space-science-informatics-greg-leptoukh-lecture/>`__.
+- 2021-04-20: Paul Wessel presented the 2020 `Ian McHarg Medal Lecture <https://www.egu.eu/awards-medals/ian-mcharg/>`__ on the
+  Generic Mapping Tools and Community-Maintained Open Source Software! See the presentation video at
+  the `vEGU21 site <https://meetingorganizer.copernicus.org/EGU21/session/41216>`__.
+- 2021-03-15: GMT now has a Twitter handle - `@gmt_dev <https://twitter.com/gmt_dev>`__!
 - 2020-03-20: NSF-EAR grant `number 1948602 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602>`__
   awarded to fund efforts to make GMT truly sustainable by its community!
 - 2019-11-04: Paul Wessel is the recipient of the 2020 European Geosciences Union `Ian McHarg Medal <https://www.egu.eu/awards-medals/ian-mcharg/>`__
