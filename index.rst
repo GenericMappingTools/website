@@ -177,7 +177,7 @@
                <ul>
                <li>
                   2023-01-22:
-                  The Greg Leptoukh Lecture and Ian McHarg Medal Lecture presented by Paul Wessel, recognizing his contributions to Earth and space sciences, are now available on the <a href="https://www.youtube.com/playlist?list=PL3GHXjKa-p6Xiy4SRkyBh9BvgVlzu26Y-">GMT YouTube channel</a>!
+                  The <a href="https://www.agu.org/Honor-and-Recognize/Honors/Section-Awards/Leptoukh-Lecture">Greg Leptoukh</a> and <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a> Lectures presented by Paul Wessel, recognizing his contributions to Earth and space sciences, are now available on the <a href="https://www.youtube.com/playlist?list=PL3GHXjKa-p6Xiy4SRkyBh9BvgVlzu26Y-">GMT YouTube channel</a>!
                </li>
                <li>
                   2022-06-16:
