@@ -176,26 +176,16 @@
 
                <ul>
                <li>
+                  2023-01-22:
+                  The <a href="https://www.agu.org/Honor-and-Recognize/Honors/Section-Awards/Leptoukh-Lecture">Greg Leptoukh</a> and <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a> Lectures presented by Paul Wessel, recognizing his significant contributions to Earth and space sciences, are now available on the <a href="https://www.youtube.com/playlist?list=PL3GHXjKa-p6Xiy4SRkyBh9BvgVlzu26Y-">GMT YouTube channel</a>!
+               </li>
+               <li>
                   2022-06-16:
                   Our <a href="https://doi.org/10.1029/2019GC008515">2019 paper on GMT</a> was an AGU/Wiley top download during 2019 and 2020!
                </li>
                <li>
-                  2021-01-18:
+                  2022-01-18:
                   New datasets are available through the GMT remote file feature! See the <a href="https://www.generic-mapping-tools.org/remote-datasets/">remote dataset documentation</a> for details.
-               </li>
-               <li>
-                  2021-09-15:
-                  GMT now has an Instagram handle <a href="https://www.instagram.com/genericmappingtools/">@genericmappingtools</a>!
-               </li>
-               <li>
-                  2021-04-20:
-                  Paul Wessel presented the 2020 <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a> Lecture
-                  on the Generic Mapping Tools and Community-Maintained Open Source Software! See the presentation video at the
-                  <a href="https://meetingorganizer.copernicus.org/EGU21/session/41216">vEGU21 site</a>.
-               </li>
-               <li>
-                  2021-03-15:
-                  GMT now has a Twitter handle <a href="https://twitter.com/gmt_dev">@gmt_dev</a>!
                </li>
                </ul>
                <p>
