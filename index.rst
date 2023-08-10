@@ -176,6 +176,10 @@
 
                <ul>
                <li>
+                  2023-08-17:
+                  The GMT developer team finally was able to have a GMT Summit, this time in Oslo over July 17-21, 2023. We are now working on getting the next update GMT 6.5 ready for release this fall.
+               </li>
+               <li>
                   2023-01-22:
                   The <a href="https://www.agu.org/Honor-and-Recognize/Honors/Section-Awards/Leptoukh-Lecture">Greg Leptoukh</a> and <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a> Lectures presented by Paul Wessel, recognizing his significant contributions to Earth and space sciences, are now available on the <a href="https://www.youtube.com/playlist?list=PL3GHXjKa-p6Xiy4SRkyBh9BvgVlzu26Y-">GMT YouTube channel</a>!
                </li>
