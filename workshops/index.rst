@@ -34,7 +34,7 @@ Past Workshops
 * **When:** June 26-29 (Monday-Thursday), 2023, online
 * **Where:** Via zoom only
 * **Repository:** https://github.com/GenericMappingTools/gmt-for-geodesy
-* **Application Portal:** https://www.unavco.org/event/2023-short-course-the-generic-mapping-tools-gmt-for-geodesy/
+* **Application Portal:** https://www.earthscope.org/event/2023-the-generic-mapping-tools-gmt-for-geodesy-short-course/
 
 This course will cover the use of Generic Mapping Tools (GMT) in geodesy using
 UNIX shell scripting. Lectures (on YouTube) and exercises will be given to teach the basic
