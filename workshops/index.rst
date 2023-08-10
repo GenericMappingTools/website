@@ -26,7 +26,7 @@ Upcoming Workshops
 Past Workshops
 --------------
 
-2023-07-xx | GMT for Geodesy UNAVCO
+2023-06-26| GMT for Geodesy UNAVCO
 +++++++++++++++++++++++++++++++++++
 
 * **Title:** The Generic Mapping Tools for Geodesy
