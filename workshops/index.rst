@@ -30,7 +30,7 @@ Past Workshops
 +++++++++++++++++++++++++++++++++++
 
 * **Title:** The Generic Mapping Tools for Geodesy
-* **Instructors:** Joaquim Luis, Federico Esteban, Dongdong Tian, Eric Xu, Max Jones, Kristof Koch
+* **Instructors:** Joaquim Luis, Federico Esteban, Eric Xu, Max Jones, Kristof Koch
 * **When:** June 26-29 (Monday-Thursday), 2023, online
 * **Where:** Via zoom only
 * **Repository:** https://github.com/GenericMappingTools/gmt-for-geodesy
