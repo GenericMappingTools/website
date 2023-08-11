@@ -26,8 +26,8 @@ Upcoming Workshops
 Past Workshops
 --------------
 
-2023-06-26| GMT for Geodesy UNAVCO
-+++++++++++++++++++++++++++++++++++
+2023-06-26 | GMT for Geodesy EarthScope
++++++++++++++++++++++++++++++++++++++++
 
 * **Title:** The Generic Mapping Tools for Geodesy
 * **Instructors:** Joaquim Luis, Federico Esteban, Eric Xu, Max Jones, Kristof Koch
