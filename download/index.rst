@@ -34,7 +34,7 @@ Support Data
 ------------
 
 * `GSHHG 2.3.7 <https://github.com/GenericMappingTools/gshhg-gmt/releases/download/2.3.7/gshhg-gmt-2.3.7.tar.gz>`__: The Global Self-consistent, Hierarchical, High-resolution Geography Database
-* `DCW 2.1.1 <https://github.com/GenericMappingTools/dcw-gmt/releases/download/2.1.1/dcw-gmt-2.1.1.tar.gz>`__: The Digital Chart of the World Data [requires GMT 6.1.1 or later]
+* `DCW 2.1.2 <https://github.com/GenericMappingTools/dcw-gmt/releases/download/2.1.2/dcw-gmt-2.1.2.tar.gz>`__: The Digital Chart of the World Data [requires GMT 6.1.1 or later]
 
 **Note:** You may also get GMT and its support data from any of :doc:`the GMT FTP mirrors </mirrors/index>`.
 Try the site that is closest to you to minimize transmission times.
