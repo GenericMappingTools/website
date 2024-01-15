@@ -83,11 +83,6 @@ html_context = {
             "https://github.com/GenericMappingTools",
         ),
         (
-            '<i class="fab fa-twitter fa-lg"></i>',
-            "Twitter",
-            "https://twitter.com/gmt_dev",
-        ),
-        (
             '<i class="fab fa-youtube fa-lg"></i>',
             "YouTube",
             "https://www.youtube.com/c/TheGenericMappingTools",
