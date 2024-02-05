@@ -177,7 +177,7 @@
                <ul>
                <li>
                   2023-08-17:
-                  The GMT developer team finally was able to have a GMT Summit, this time in Oslo over July 17-21, 2023. We are now working on getting the next update GMT 6.5 ready for release this fall.
+                  The GMT developer team finally was able to have a GMT Summit, this time in Oslo over July 17-21, 2023.
                </li>
                <li>
                   2023-01-22:
