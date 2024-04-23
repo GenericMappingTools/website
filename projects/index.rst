@@ -58,7 +58,7 @@ syntax into long options names.
 
    <ul class="fa-ul">
       <li><i class="fa-li fa fa-book fa-fw"></i>
-         <a href="https://www.generic-mapping-tools.org/GMT.jl/">Documentation</a>
+         <a href="https://www.generic-mapping-tools.org/GMTjl_doc/">Documentation</a>
       </li>
       <li><i class="fa-li fab fa-github fa-fw"></i>
          <a href="https://github.com/GenericMappingTools/GMT.jl">GenericMappingTools/GMT.jl</a>
