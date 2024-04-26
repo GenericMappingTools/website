@@ -74,6 +74,7 @@ More detail on the history of GMT:
 * Walter Smith was also interviewed by *Don't Panic* on episode
   `"Take the toaster apart" <https://www.dontpanicgeocast.com/?p=742>`__ where he talks
   about the early history of GMT and other topics.
+* Read Paul Wessel's article `"The Origins of the Generic Mapping Tools: From Table Tennis to Geoscience" <https://doi.org/10.1029/2023CN000231>`__ from 2024.
 * Watch this recorded talk by Paul Wessel on the 20th anniversary of the first release (`original version <https://doi.org/10.5446/19869>`__):
 
 .. raw:: html
