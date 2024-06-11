@@ -11,50 +11,65 @@ The articles on GMT are:
 
 * **GMT 6**:
   Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2019).
-  The Generic Mapping Tools version 6. *Geochemistry, Geophysics, Geosystems*, 20, 5556–5564.
+  The Generic Mapping Tools Version 6.
+  *Geochemistry, Geophysics, Geosystems*, 20(11), 5556–5564.
   https://doi.org/10.1029/2019GC008515
 * **GMT/MATLAB**:
   Wessel, P., & Luis, J. F. (2017).
   The GMT/MATLAB Toolbox.
-  *Geochemistry, Geophysics, Geosystems*, 18, 811–823,
+  *Geochemistry, Geophysics, Geosystems*, 18(2), 811–823.
   https://doi.org/10.1002/2016GC006723
 * **GMT 5**:
-  Wessel, P., W. H. F. Smith, R. Scharroo, J. Luis, and F. Wobbe,
-  Generic Mapping Tools: Improved Version Released, *EOS Trans. AGU*, 94(45),
-  p. 409–410, 2013. `doi:10.1002/2013EO450001 <http://dx.doi.org/10.1002/2013EO450001>`_.
+  Wessel, P., Smith, W. H. F., Scharroo, R., Luis, J., & Wobbe, F. (2013).
+  Generic Mapping Tools: Improved Version Released.
+  *EOS, Transactions American Geophysical Union*, 94(45), 409–410.
+  https://doi.org/10.1002/2013EO450001
 * **GMT 3.1**:
-  Wessel, P., and W. H. F. Smith, New, improved version of Generic
-  Mapping Tools released, *EOS Trans. AGU*, 79(47),
-  p. 579, 1998. `doi:10.1029/98EO00426 <http://dx.doi.org/10.1029/98EO00426>`_.
+  Wessel, P., & Smith, W. H. F. (1998).
+  New, improved version of generic mapping tools released.
+  *EOS, Transactions American Geophysical Union*, 79(47), 579–579.
+  https://doi.org/10.1029/98EO00426
 * **GMT 3.0**:
-  Wessel, P., and W. H. F. Smith, New version of the Generic Mapping
-  Tools released, *EOS Trans. AGU*, 76(33), 329, 1995. `doi:10.1029/95EO00198 <http://dx.doi.org/10.1029/95EO00198>`_.
+  Wessel, P., & Smith, W. H. F. (1995).
+  New version of the generic mapping tools.
+  *EOS, Transactions American Geophysical Union*, 76(33), 329–329.
+  https://doi.org/10.1029/95EO00198
 * **GMT 2**:
-  Wessel, P., and W. H. F. Smith, Free software helps map and display
-  data, *EOS Trans. AGU*, 72(41), 445–446, 1991. `doi:10.1029/90EO00319 <http://dx.doi.org/10.1029/90EO00319>`_.
+  Wessel, P., & Smith, W. H. F. (1991).
+  Free software helps map and display data.
+  *EOS, Transactions American Geophysical Union*, 72(41), 441–446.
+  https://doi.org/10.1029/90EO00319
 
 Some GMT modules are based on algorithms we have developed and published separately,
 such as:
 
-* Kim, S.-S., and P. Wessel, Directional median filtering for
-  regional-residual separation of bathymetry, *Geochem. Geophys.
-  Geosyst.*, 9, Q03005, 2008. `doi:10.1029/2007GC001850 <http://dx.doi.org/10.1029/2007GC001850>`_.
+* Kim, S.-S., & Wessel, P. (2008).
+  Directional median filtering for regional‐residual separation of bathymetry.
+  *Geochemistry, Geophysics, Geosystems*, 9(3), 2007GC001850.
+  https://doi.org/10.1029/2007GC001850
   [``dimfilter``]
-* Luis, J. F. and J. M. Miranda, Reevaluation of magnetic chrons in the
-  North Atlantic between 35°N and 47°N: Implications for the formation of the
-  Azores Triple Junction and associated plateau,
-  *J. Geophys. Res.*, 113, B10105, 2008. `doi:10.1029/2007JB005573 <http://dx.doi.org/10.1029/2007JB005573>`_.
+* Luis, J. F., & Miranda, J. M. (2008).
+  Reevaluation of magnetic chrons in the North Atlantic between 35°N and 47°N: Implications for the formation of the Azores Triple Junction and associated plateau.
+  *Journal of Geophysical Research: Solid Earth*, 113(B10), 2007JB005573.
+  https://doi.org/10.1029/2007JB005573
   [``grdredpol``, **potential** supplement]
-* Smith, W. H. F., and P. Wessel, Gridding with continuous curvature
-  splines in tension, *Geophysics*, 55(3), 293–305, 1990. `doi:10.1190/1.1442837 <http://dx.doi.org/10.1190/1.1442837>`_.
+* Smith, W. H. F., & Wessel, P. (1990).
+  Gridding with continuous curvature splines in tension.
+  *Geophysics*, 55(3), 293–305.
+  https://doi.org/10.1190/1.1442837
   [``surface``]
-* Wessel, P., Tools for analyzing intersecting tracks: The x2sys
-  package, *Computers & Geosciences*, 36, 348–354, 2010. `doi:10.1016/j.cageo.2009.05.009 <http://dx.doi.org/10.1016/j.cageo.2009.05.009>`_.
+* Wessel, P. (2010).
+  Tools for analyzing intersecting tracks: The x2sys package.
+  *Computers & Geosciences*, 36(3), 348–354.
+  https://doi.org/10.1016/j.cageo.2009.05.009
   [**x2sys** supplement]
-* Wessel, P., A General-purpose Green's function-based interpolator,
-  *Computers & Geosciences*, 35, 1247–1254, 2009. `doi:10.1016/j.cageo.2008.08.012 <http://dx.doi.org/10.1016/j.cageo.2008.08.012>`_.
+* Wessel, P. (2009).
+  A general-purpose Green’s function-based interpolator.
+  *Computers & Geosciences*, 35(6), 1247–1254.
+  https://doi.org/10.1016/j.cageo.2008.08.012
   [``greenspline``]
-* Wessel, P. and J. M. Becker, Interpolation using a generalized
-  Green's function for a spherical surface spline in tension, *Geophys.
-  J. Int.*, 174, 21–28, 2008. `doi:10.1111/j.1365-246X.2008.03829.x <http://dx.doi.org/10.1111/j.1365-246X.2008.03829.x>`_.
+* Wessel, P., & Becker, J. M. (2008).
+  Interpolation using a generalized Green’s function for a spherical surface spline in tension.
+  *Geophysical Journal International*, 174(1), 21–28.
+  https://doi.org/10.1111/j.1365-246X.2008.03829.x
   [``greenspline``]
