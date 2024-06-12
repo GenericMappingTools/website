@@ -13,12 +13,17 @@ project = "The Generic Mapping Tools"
 copyright = "2019 - {:d}, The GMT Developers".format(year)
 version = ""
 
+# Sphinx extensions
+extensions = [
+    "sphinx.ext.githubpages"
+]
+
 html_title = project
 html_short_title = ""
 html_logo = "_static/gmt-logo.png"
 html_favicon = "_static/favicon.png"
 html_static_path = ["_static"]
-html_extra_path = [".nojekyll", "CNAME", "team.html"]
+html_extra_path = ["CNAME", "team.html"]
 html_use_smartypants = True
 pygments_style = "default"
 
