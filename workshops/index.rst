@@ -19,12 +19,12 @@ Upcoming Workshops
 2024-12-08 | Mastering Geospatial Visualizations with GMT/PyGMT at AGU Fall Meeting 2024
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* **Title:** Mastering Geospatial Visualizations with GMT/PyGMT
+* **Title:** Mastering Geospatial Visualizations with GMT/PyGMT (PREWS9)
 * **Instructors:** Wei Ji Leong, Yvonne Fröhlich, Jing-Hui Tong, Federico Esteban, Max Jones, Andre Luiz Belem
 * **When:** Sunday, 8 December 2024, 8:30-17:00 (EST)
 * **Where:** Walter E. Washington Convention Center, Washington D.C., United States
-* **Repository:** TBA
-* **AGU Session info:** TBA
+* **Repository:** https://github.com/GenericMappingTools/agu24workshop
+* **AGU Session info:** https://www.agu.org/annual-meeting/schedule#vmprecon
 * **Application Portal:** https://www.agu.org/annual-meeting/attend#register
 
 This workshop aims to provide a detailed technical demonstration of GMT/PyGMT's
