@@ -201,6 +201,7 @@
                <h2>Upcoming workshops</h2>
 
                <ul>
+               <li>2024-12-08: Mastering Geospatial Visualizations with GMT/PyGMT at AGU Fall Meeting 2024.</li>
                </ul>
 
                <p>

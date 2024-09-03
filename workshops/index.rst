@@ -16,6 +16,36 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
+2024-12-08 | Mastering Geospatial Visualizations with GMT/PyGMT at AGU Fall Meeting 2024
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* **Title:** Mastering Geospatial Visualizations with GMT/PyGMT (PREWS9)
+* **Instructors:** Wei Ji Leong, Yvonne Fröhlich, Jing-Hui Tong, Federico Esteban, Max Jones, Andre Luiz Belem
+* **When:** Sunday, 8 December 2024, 8:30-17:00 (EST)
+* **Where:** Walter E. Washington Convention Center, Washington D.C., United States
+* **Repository:** https://github.com/GenericMappingTools/agu24workshop
+* **AGU Session info:** https://www.agu.org/annual-meeting/schedule#vmprecon
+* **Application Portal:** https://www.agu.org/annual-meeting/attend#register
+
+This workshop aims to provide a detailed technical demonstration of GMT/PyGMT's
+capabilities in creating maps and visualizations of geospatial, geophysical, and
+planetary data across a wide range of applications. PyGMT, a Python library built on top
+of the Generic Mapping Tools (GMT), offers an intuitive and accessible interface for
+generating high-quality figures suitable for publication. Suitable for both beginner and
+advanced Python users, this workshop will cover advanced techniques for manipulating
+geospatial and geophysical data, widely utilized in the Earth, Ocean and Planetary
+Science communities, providing participants with the necessary skills to extract
+meaningful insights and effectively communicate their findings through clear and
+informative maps and visualizations. By exploring GMT/PyGMT's functionalities,
+participants will have the opportunity to learn how to create customized maps and data
+visualizations tailored to the specific needs of their research areas.
+
+We invite students and researchers from the Earth, Ocean, and Planetary sciences
+community to join. The focus of this workshop is to develop skills on using free and
+open source software, coding, data manipulation and visualization. Learn to produce
+publication-ready figures, especially geographic maps, using PyGMT including the
+integration with the PyData ecosystem.
+
 .. raw:: html
 
    <hr style="margin: 80px 0px;">
