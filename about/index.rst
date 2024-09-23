@@ -11,13 +11,12 @@ projections and transformations and includes supporting data such as coastlines,
 and political boundaries and optionally country polygons.
 
 
-Council
--------
+The Steering Committee
+----------------------
 
-As of August 2016, GMT development and maintenance is being guided by a GMT Steering
-Committee, led by Chair David Sandwell (Scripps) and members Dave Caress (MBARI),
-Steve Diggs (Scripps), Dan Bassett (GNS Science, New Zealand), and Khalid Soofi (ConocoPhillips).
-
+As of August 2024, the GMT development and maintenance is being guided by a GMT Steering
+Committee, with members David Caress, Dongdong Tian, Federico Esteban, Joaqium Luis,
+Remko Scharroo, Walter Smith, and Xiaohua (Eric) Xu.
 
 Support
 -------
