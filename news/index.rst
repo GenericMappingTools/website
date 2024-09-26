@@ -2,7 +2,7 @@
 
 News
 ====
-
+- 2024-06-16: The `paper about animations with GMT <https://doi.org/10.1029/2024GC011545>`__ is Open Access and available on *Geochemistry, Geophysics, Geosystems*.
 - 2021-09-15: GMT now has an Instagram handle - `@genericmappingtools <https://www.instagram.com/genericmappingtools/>`__!
 - 2022-09-06: Paul Wessel is the recipient of the 2022 American Geophysical Union’s (AGU)
   Earth and Space Science Informatics `Greg Leptoukh Lecture <https://www.soest.hawaii.edu/soestwp/announce/awards/paul-wessel-selected-for-agu-earth-space-science-informatics-greg-leptoukh-lecture/>`__.

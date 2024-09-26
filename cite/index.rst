@@ -14,6 +14,11 @@ The articles on GMT are:
   The Generic Mapping Tools Version 6.
   *Geochemistry, Geophysics, Geosystems*, 20(11), 5556–5564.
   https://doi.org/10.1029/2019GC008515
+* **GMT Animation**:
+  Wessel, P., Esteban, F., & Delaviel-Anger, G. (2024).
+  The Generic Mapping Tools and Animations for the Masses.
+  *Geochemistry, Geophysics, Geosystems*, 25(6).
+  https://doi.org/10.1029/2024GC011545
 * **GMT/MATLAB**:
   Wessel, P., & Luis, J. F. (2017).
   The GMT/MATLAB Toolbox.
