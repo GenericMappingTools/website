@@ -16,8 +16,18 @@ Attending a workshop is the best way to get started **using and developing** GMT
 Upcoming Workshops
 ------------------
 
-2024-12-08 | Mastering Geospatial Visualizations with GMT/PyGMT at AGU Fall Meeting 2024
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+.. raw:: html
+
+   <hr style="margin: 80px 0px;">
+
+
+.. _past_workshops:
+
+Past Workshops
+--------------
+
+2024-12-08 | Mastering Geospatial Visualizations with GMT/PyGMT at AGU Annual Meeting 2024
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * **Title:** Mastering Geospatial Visualizations with GMT/PyGMT (PREWS9)
 * **Instructors:** Wei Ji Leong, Yvonne Fröhlich, Jing-Hui Tong, Federico Esteban, Max Jones, Andre Luiz Belem
@@ -46,16 +56,6 @@ community to join. The focus of this workshop is to develop skills on using free
 open source software, coding, data manipulation and visualization. Learn to produce
 publication-ready figures, especially geographic maps, using PyGMT including the
 integration with the PyData ecosystem.
-
-.. raw:: html
-
-   <hr style="margin: 80px 0px;">
-
-
-.. _past_workshops:
-
-Past Workshops
---------------
 
 2023-06-26 | GMT for Geodesy EarthScope
 +++++++++++++++++++++++++++++++++++++++
