@@ -205,9 +205,6 @@
             <div class="col-sm-4 front-block-text">
                <h2>Upcoming workshops</h2>
 
-               <ul>
-
-               </ul>
 
                <p>
                <a href="/workshops#future-workshops">more »</a>
