@@ -176,9 +176,14 @@
 
                <ul>
                <li>
+                  2024-12-09:
+                  The GMT team organized the Union Session "The impact of GMT in the Earth, Ocean and Space sciences: What's next?" (U12B and U13B)
+                  at the AGU Annual Meeting in Washington, DC, 2024 with talks and posters on GMT, the wrappers, and related topics.
+               </li>
+               <li>
                   2024-12-08:
                   The GMT and PyGMT teams organised the pre-conference workshop "Mastering Geospatial Visualizations with GMT/PyGMT" (PREWS9)
-                  at AGU Annual Meeting in Washington, DC, 2024.
+                  at the AGU Annual Meeting in Washington, DC, 2024.
                </li>
                <li>
                   2023-08-17:
