@@ -22,7 +22,7 @@ The articles on GMT are:
 * **Origin of GMT**:
   Wessel, P. (2024). 
   The origins of the generic mapping tools: From table tennis to geoscience. 
-  *Perspectives of Earth and Space Scientists*, 5, e2023CN000231. 
+  *Perspectives of Earth and Space Scientists*, 5(1), e2023CN000231. 
   https://doi.org/10.1029/2023CN000231
 * **GMT/MATLAB**:
   Wessel, P., & Luis, J. F. (2017).
