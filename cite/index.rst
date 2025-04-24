@@ -19,6 +19,11 @@ The articles on GMT are:
   The Generic Mapping Tools and Animations for the Masses.
   *Geochemistry, Geophysics, Geosystems*, 25(6).
   https://doi.org/10.1029/2024GC011545
+* **Origin of GMT**:
+  Wessel, P. (2024). 
+  The origins of the generic mapping tools: From table tennis to geoscience. 
+  *Perspectives of Earth and Space Scientists*, 5(1), e2023CN000231. 
+  https://doi.org/10.1029/2023CN000231
 * **GMT/MATLAB**:
   Wessel, P., & Luis, J. F. (2017).
   The GMT/MATLAB Toolbox.
