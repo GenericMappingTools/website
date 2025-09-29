@@ -23,7 +23,6 @@ EarthByte Group, Sydney U, Australia                            https://www.eart
 Lab for Satellite Altimetry, NOAA, USA                          ftp://ftp.star.nesdis.noaa.gov/pub/sod/lsa/gmt
 IRIS, Washington, USA                                           ftp://ftp.iris.washington.edu/pub/gmt
 IAG-USP, U. of Sao Paulo, Brazil                                https://generic-mapping-tools.iag.usp.br/gmt
-TENET, Tertiary Education & Research Networks, South Africa     ftp://gmt.mirror.ac.za
 Univ. of Sci. & Tech. of China, Hefei, China                    http://mirrors.ustc.edu.cn/gmt
 Tokai U, Shizuoka, Japan                                        http://www.scc.u-tokai.ac.jp/gmt
 =============================================================== =============================================================
@@ -80,10 +79,6 @@ to the mirror that is closest to you to minimize transmission times.
      - http://singapore.generic-mapping-tools.org
      - National U of Singapore, Singapore
      - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fsingapore.generic-mapping-tools.org/gmt_data_server.txt
-   * - **South Africa**
-     - http://south-africa.generic-mapping-tools.org
-     - TENET, Tertiary Education & Research Networks, South Africa
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fsouth-africa.generic-mapping-tools.org/gmt_data_server.txt
 
 Becoming a GMT mirror
 ---------------------
