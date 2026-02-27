@@ -50,35 +50,35 @@ to the mirror that is closest to you to minimize transmission times.
    * - **Oceania** [Master]
      - https://oceania.generic-mapping-tools.org
      - SOEST, U of Hawaii, USA
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Foceania.generic-mapping-tools.org/gmt_data_server.txt
+     - .. image:: https://img.shields.io/website?url=https%3A%2F%2Foceania.generic-mapping-tools.org/gmt_data_server.txt&up_message=OK&down_message=offline&style=plastic&label=
    * - **Brasil**
      - http://brasil.generic-mapping-tools.org
      - IAG-USP, U of Sao Paulo, Brazil
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fbrasil.generic-mapping-tools.org/gmt_data_server.txt
+     - .. image:: https://img.shields.io/website?url=https%3A%2F%2Fgeneric-mapping-tools.iag.usp.br%2Fgmtdata%2Fgmt_data_server.txt&up_message=OK&down_message=offline&style=plastic&label=
    * - **Australia**
      - http://australia.generic-mapping-tools.org
      - EarthByte Group, Sydney U, Australia
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Faustralia.generic-mapping-tools.org/gmt_data_server.txt
+     - .. image:: https://img.shields.io/website?url=http%3A%2F%2Faustralia.generic-mapping-tools.org/gmt_data_server.txt&up_message=OK&down_message=offline&style=plastic&label=
    * - **China**
      - http://china.generic-mapping-tools.org
      - U of Sci. & Tech. of China, China
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fchina.generic-mapping-tools.org/gmt_data_server.txt
+     - .. image:: https://img.shields.io/website?url=http%3A%2F%2Fchina.generic-mapping-tools.org/gmt_data_server.txt&up_message=OK&down_message=offline&style=plastic&label=
    * - **sdsc-opentopography** [US West Coast]
      - http://sdsc-opentopography.generic-mapping-tools.org
      - OpenTopography at San Diego Supercomputing Center
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fsdsc-opentopography.generic-mapping-tools.org/gmt_data_server.txt
+     - .. image:: https://img.shields.io/website?url=http%3A%2F%2Fsdsc-opentopography.generic-mapping-tools.org/gmt_data_server.txt&up_message=OK&down_message=offline&style=plastic&label=
    * - **NOAA** [US East Coast]
      - http://noaa.generic-mapping-tools.org
      - Lab for Satellite Altimetry, NOAA, USA
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=https%3A%2F%2Fwww.star.nesdis.noaa.gov/data/socd3/lsa/gmtdata/gmt_data_server.txt
+     - .. image:: https://img.shields.io/website?url=https%3A%2F%2Fwww.star.nesdis.noaa.gov/data/socd3/lsa/gmtdata/gmt_data_server.txt&up_message=OK&down_message=offline&style=plastic&label=
    * - **Portugal**
      - http://portugal.generic-mapping-tools.org
      - U of Algarve, Portugal
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fportugal.generic-mapping-tools.org/gmt_data_server.txt
+     - .. image:: https://img.shields.io/website?url=http%3A%2F%2Fportugal.generic-mapping-tools.org/gmt_data_server.txt&up_message=OK&down_message=offline&style=plastic&label=
    * - **Singapore**
      - http://singapore.generic-mapping-tools.org
      - National U of Singapore, Singapore
-     - .. image:: https://img.shields.io/website?down_message=offline&label=%20&style=plastic&up_message=OK&url=http%3A%2F%2Fsingapore.generic-mapping-tools.org/gmt_data_server.txt
+     - .. image:: https://img.shields.io/website?url=http%3A%2F%2Fsingapore.generic-mapping-tools.org/gmt_data_server.txt&up_message=OK&down_message=offline&style=plastic&label=
 
 Becoming a GMT mirror
 ---------------------
