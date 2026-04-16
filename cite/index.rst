@@ -9,13 +9,48 @@ illustrations obtained using GMT. **When in doubt, please cite the latest paper.
 Futhuremore, you are welcome to cite the specific version you have used in your work.
 
 GMT versions:
-* **latest / all GMT versions**: https://doi.org/10.5281/zenodo.3407865
 
+* **latest / all GMT versions**: https://doi.org/10.5281/zenodo.3407865
 * **GMT 6.6.0**:
   Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., Tian, D., Jones, M., Esteban, F., & Fröhlich, Y. (2025).
   The Generic Mapping Tools version 6.6.0.
   *Zenodo*
   https://doi.org/10.5281/zenodo.16448627
+* **GMT 6.5.0**:
+  Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., Tian, D., Jones, M., & Esteban, F. (2024).
+  The Generic Mapping Tools version 6.5.0.
+  *Zenodo*
+  https://doi.org/10.5281/zenodo.10119499
+* **GMT 6.4.0**:
+  Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., Tian, D., Jones, M., & Esteban, F. (2022).
+  The Generic Mapping Tools version 6.4.0.
+  *Zenodo*
+  https://doi.org/10.5281/zenodo.6623271
+* **GMT 6.3.0**:
+  Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., Tian, D., Jones, M., & Esteban, F. (2021).
+  The Generic Mapping Tools version 6.3.0.
+  *Zenodo*
+  https://doi.org/10.5281/zenodo.5708769
+* **GMT 6.2.0**:
+  Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2021).
+  The Generic Mapping Tools version 6.2.0.
+  *Zenodo*
+  https://doi.org/10.5281/zenodo.4900001
+* **GMT 6.1.1**:
+  Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2020).
+  The Generic Mapping Tools version 6.1.1.
+  *Zenodo*
+  https://doi.org/10.5281/zenodo.4010996
+* **GMT 6.1**:
+  Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2020).
+  The Generic Mapping Tools version 6.1.
+  *Zenodo*
+  https://doi.org/10.5281/zenodo.3924517
+* **GMT 6**:
+  Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2019).
+  The Generic Mapping Tools version 6.
+  *Zenodo*
+  https://doi.org/10.5281/zenodo.3407866
 
 The articles on GMT are:
 
