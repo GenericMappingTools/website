@@ -6,6 +6,15 @@ Citing GMT
 If you feel it is appropriate, you may consider paying us back by citing our articles on
 GMT and technical papers on algorithms when you publish papers containing results or
 illustrations obtained using GMT. **When in doubt, please cite the latest paper.**
+Futhuremore, you are welcome to cite the specific version you have used in your work.
+
+GMT versions:
+
+* **GMT 6.6.0**:
+  Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., Tian, D., Jones, M., Esteban, F., & Fröhlich, Y. (2025).
+  The Generic Mapping Tools version 6.6.0.
+  *Zenodo*
+  https://doi.org/10.5281/zenodo.16448627
 
 The articles on GMT are:
 
@@ -20,9 +29,9 @@ The articles on GMT are:
   *Geochemistry, Geophysics, Geosystems*, 25(6).
   https://doi.org/10.1029/2024GC011545
 * **Origin of GMT**:
-  Wessel, P. (2024). 
-  The origins of the generic mapping tools: From table tennis to geoscience. 
-  *Perspectives of Earth and Space Scientists*, 5(1), e2023CN000231. 
+  Wessel, P. (2024).
+  The origins of the generic mapping tools: From table tennis to geoscience.
+  *Perspectives of Earth and Space Scientists*, 5(1), e2023CN000231.
   https://doi.org/10.1029/2023CN000231
 * **GMT/MATLAB**:
   Wessel, P., & Luis, J. F. (2017).
