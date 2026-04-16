@@ -9,7 +9,7 @@ illustrations obtained using GMT. **When in doubt, please cite the latest paper.
 Futhuremore, you are welcome to cite the specific version you have used in your work.
 
 GMT versions:
-* **latest / all GMT version**: https://doi.org/10.5281/zenodo.3407865
+* **latest / all GMT versions**: https://doi.org/10.5281/zenodo.3407865
 
 * **GMT 6.6.0**:
   Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., Tian, D., Jones, M., Esteban, F., & Fröhlich, Y. (2025).
