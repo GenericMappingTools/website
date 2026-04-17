@@ -14,42 +14,42 @@ GMT versions:
 * **GMT 6.6.0**: [![DOI for GMT v6.6.0](https://zenodo.org/badge/DOI/10.5281/zenodo.16448627.svg)](https://doi.org/10.5281/zenodo.16448627)
   Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., Tian, D., Jones, M., Esteban, F., & Fröhlich, Y. (2025).
   The Generic Mapping Tools version 6.6.0.
-  *Zenodo*
+  *Zenodo*.
   https://doi.org/10.5281/zenodo.16448627
 * **GMT 6.5.0**: [![DOI for GMT 6.5.0](https://zenodo.org/badge/DOI/10.5281/zenodo.10119499.svg)](https://doi.org/10.5281/zenodo.10119499)
   Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., Tian, D., Jones, M., & Esteban, F. (2024).
   The Generic Mapping Tools version 6.5.0.
-  *Zenodo*
+  *Zenodo*.
   https://doi.org/10.5281/zenodo.10119499
 * **GMT 6.4.0**: [![DOI for GMT 6.4.0](https://zenodo.org/badge/DOI/10.5281/zenodo.6623271.svg)](https://doi.org/10.5281/zenodo.6623271)
   Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., Tian, D., Jones, M., & Esteban, F. (2022).
   The Generic Mapping Tools version 6.4.0.
-  *Zenodo*
+  *Zenodo*.
   https://doi.org/10.5281/zenodo.6623271
 * **GMT 6.3.0**: [![DOI for GMT 6.3.0](https://zenodo.org/badge/DOI/10.5281/zenodo.5708769.svg)](https://doi.org/10.5281/zenodo.5708769)
   Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., Tian, D., Jones, M., & Esteban, F. (2021).
   The Generic Mapping Tools version 6.3.0.
-  *Zenodo*
+  *Zenodo*.
   https://doi.org/10.5281/zenodo.5708769
 * **GMT 6.2.0**: [![DOI for GMT 6.2.0](https://zenodo.org/badge/DOI/10.5281/zenodo.4900001.svg)](https://doi.org/10.5281/zenodo.4900001)
   Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2021).
   The Generic Mapping Tools version 6.2.0.
-  *Zenodo*
+  *Zenodo*.
   https://doi.org/10.5281/zenodo.4900001
 * **GMT 6.1.1**: [![DOI for GMT 6.1.1](https://zenodo.org/badge/DOI/10.5281/zenodo.4010996.svg)](https://doi.org/10.5281/zenodo.4010996)
-  Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2020). 
+  Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2020).
   The Generic Mapping Tools version 6.1.1.
-  *Zenodo*
+  *Zenodo*.
   https://doi.org/10.5281/zenodo.4010996
 * **GMT 6.1**: [![DOI for GMT 6.1](https://zenodo.org/badge/DOI/10.5281/zenodo.3924517.svg)](https://doi.org/10.5281/zenodo.3924517)
   Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2020).
   The Generic Mapping Tools version 6.1.
-  *Zenodo*
+  *Zenodo*.
   https://doi.org/10.5281/zenodo.3924517
 * **GMT 6**: [![DOI for GMT 6](https://zenodo.org/badge/DOI/10.5281/zenodo.3407866.svg)](https://doi.org/10.5281/zenodo.3407866)
   Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2019).
   The Generic Mapping Tools version 6.
-  *Zenodo*
+  *Zenodo*.
   https://doi.org/10.5281/zenodo.3407866
 
 The articles on GMT are:
