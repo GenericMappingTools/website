@@ -6,7 +6,7 @@ Citing GMT
 If you feel it is appropriate, you may consider paying us back by citing our articles on
 GMT and technical papers on algorithms when you publish papers containing results or
 illustrations obtained using GMT. **When in doubt, please cite the latest paper.**
-Futhuremore, you are welcome to cite the specific version you have used in your work.
+Furthermore, you are welcome to cite the specific version you have used in your work.
 
 GMT versions:
 
