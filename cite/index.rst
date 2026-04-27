@@ -11,38 +11,47 @@ Furthermore, you are welcome to cite the specific version you have used in your 
 GMT versions:
 
 * **latest / all GMT versions**:
+
   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3407865.svg
     :target: https://doi.org/10.5281/zenodo.3407865
 
 * **GMT 6.6.0**:
+
   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.16448627.svg
     :target: https://doi.org/10.5281/zenodo.16448627
 
 * **GMT 6.5.0**:
+
   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.10119499.svg
     :target: https://doi.org/10.5281/zenodo.10119499
 
 * **GMT 6.4.0**:
+
   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.6623271.svg
     :target: https://doi.org/10.5281/zenodo.6623271
 
 * **GMT 6.3.0**:
+
   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5708769.svg
     :target: https://doi.org/10.5281/zenodo.5708769
 
 * **GMT 6.2.0**:
+
   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.4900001.svg
     :target: https://doi.org/10.5281/zenodo.4900001
 
 * **GMT 6.1.1**:
+
   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.4010996.svg
     :target: https://doi.org/10.5281/zenodo.4010996
 
 * **GMT 6.1**:
+
   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3924517.svg
     :target: https://doi.org/10.5281/zenodo.3924517
 
 * **GMT 6**:
+
   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3407866.svg
     :target: https://doi.org/10.5281/zenodo.3407866
 
