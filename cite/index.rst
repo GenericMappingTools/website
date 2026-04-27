@@ -8,9 +8,9 @@ GMT and technical papers on algorithms when you publish papers containing result
 illustrations obtained using GMT. **When in doubt, please cite the latest paper.**
 Furthermore, you are welcome to cite the specific version you have used in your work.
 
-GMT versions:
+GMT releases:
 
-* **latest / all GMT versions**:
+* **latest GMT release / all GMT releases**:
 
   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3407865.svg
     :target: https://doi.org/10.5281/zenodo.3407865
