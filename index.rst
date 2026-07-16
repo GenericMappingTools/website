@@ -178,7 +178,7 @@
                <li>
                   2026-07-15:
                   The first PyGMT paper has been published in *Geochemistry, Geophysics, Geosystems* and is Open Access:
-                  `PyGMT: Bridging Python and the Generic Mapping Tools for Geospatial Visualization and Analysis <https://doi.org/10.1029/2026GC013105>`__.
+                  <a href="https://doi.org/10.1029/2026GC013105" target="_blank">PyGMT: Bridging Python and the Generic Mapping Tools for Geospatial Visualization and Analysis</a>.
                </li>
                <li>
                   2024-12-09:
