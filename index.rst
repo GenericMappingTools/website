@@ -176,6 +176,11 @@
 
                <ul>
                <li>
+                  2026-07-15:
+                  The first PyGMT paper has been published in Geochemistry, Geophysics, Geosystems and is Open Access:
+                  <a href="https://doi.org/10.1029/2026GC013105" target="_blank">PyGMT: Bridging Python and the Generic Mapping Tools for Geospatial Visualization and Analysis</a>.
+               </li>
+               <li>
                   2024-12-09:
                   The GMT team organized the Union Session "The impact of GMT in the Earth, Ocean and Space sciences: What's next?" (U12B and U13B)
                   at the AGU Annual Meeting in Washington, DC, 2024 with talks and posters on GMT, the wrappers, and related topics.
@@ -184,22 +189,6 @@
                   2024-12-08:
                   The GMT and PyGMT teams organised the pre-conference workshop "Mastering Geospatial Visualizations with GMT/PyGMT" (PREWS9)
                   at the AGU Annual Meeting in Washington, DC, 2024.
-               </li>
-               <li>
-                  2023-08-17:
-                  The GMT developer team finally was able to have a GMT Summit, this time in Oslo over July 17-21, 2023.
-               </li>
-               <li>
-                  2023-01-22:
-                  The <a href="https://www.agu.org/Honor-and-Recognize/Honors/Section-Awards/Leptoukh-Lecture">Greg Leptoukh</a> and <a href="https://www.egu.eu/awards-medals/ian-mcharg/">Ian McHarg Medal</a> Lectures presented by Paul Wessel, recognizing his significant contributions to Earth and space sciences, are now available on the <a href="https://www.youtube.com/playlist?list=PL3GHXjKa-p6Xiy4SRkyBh9BvgVlzu26Y-">GMT YouTube channel</a>!
-               </li>
-               <li>
-                  2022-06-16:
-                  Our <a href="https://doi.org/10.1029/2019GC008515">2019 paper on GMT</a> was an AGU/Wiley top download during 2019 and 2020!
-               </li>
-               <li>
-                  2022-01-18:
-                  New datasets are available through the GMT remote file feature! See the <a href="https://www.generic-mapping-tools.org/remote-datasets/">remote dataset documentation</a> for details.
                </li>
                </ul>
                <p>

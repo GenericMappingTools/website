@@ -41,6 +41,11 @@ The GMT releases are:
 
 The articles on GMT are:
 
+* **PyGMT**:
+  Tian, D., Fröhlich, Y., Leong, W. J., Grund, M., Schlitzer, W., Jones, M., Uieda, L., Luis, J. M. F. (2026).
+  PyGMT: Bridging Python and the Generic Mapping Tools for Geospatial Visualization and Analysis.
+  *Geochemistry, Geophysics, Geosystems*, 27(7), e2026GC013105.
+  https://doi.org/10.1029/2026GC013105
 * **GMT 6**:
   Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F., & Tian, D. (2019).
   The Generic Mapping Tools Version 6.
