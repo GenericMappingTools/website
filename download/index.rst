@@ -14,7 +14,7 @@ from `GitHub <https://github.com/GenericMappingTools/gmt/releases>`__:
 
 * `GMT 6.7.0 <https://github.com/GenericMappingTools/gmt/releases/tag/6.7.0>`__ (**recommended**)
 * `GMT 6.6.0 <https://github.com/GenericMappingTools/gmt/releases/tag/6.6.0>`__ 
-* `GMT 6.5.0 <https://github.com/GenericMappingTools/gmt/releases/tag/6.5.0>`__ (**Last available for macOS**)
+* `GMT 6.5.0 <https://github.com/GenericMappingTools/gmt/releases/tag/6.5.0>`__
 * `GMT 6.4.0 <https://github.com/GenericMappingTools/gmt/releases/tag/6.4.0>`__
 * `GMT 6.3.0 <https://github.com/GenericMappingTools/gmt/releases/tag/6.3.0>`__
 * `GMT 6.2.0 <https://github.com/GenericMappingTools/gmt/releases/tag/6.2.0>`__
