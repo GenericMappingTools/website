@@ -15,7 +15,7 @@ The Steering Committee
 ----------------------
 
 As of August 2024, the GMT development and maintenance is being guided by a GMT Steering
-Committee, with members David Caress, Dongdong Tian, Federico Esteban, Joaqium Luis,
+Committee, with members David Caress, Dongdong Tian, Federico Esteban, Joaquim Luis,
 Remko Scharroo, Walter Smith, and Xiaohua (Eric) Xu.
 
 Support
@@ -24,8 +24,8 @@ Support
 GMT could not have been designed without the generous support of several people:
 
 * The founders (Wessel and Smith) gratefully acknowledge A. B. Watts and the late W. F.
-  Haxby for supporting their efforts on the original version 1.0 while they were their
-  graduate students at Lamont-Doherty Earth Observatory.
+  Haxby for supporting their efforts on the original version 1.0 while they were Watts'
+  and Haxby's graduate students at Lamont-Doherty Earth Observatory.
 * Doug Shearer and Roger Davis patiently answered many questions over e-mail.
 * The subroutine ``gauss`` was written and supplied by Bill Menke.
 
@@ -58,7 +58,7 @@ officially introduced to Lamont scientists in July 1988.  GMT 1 migrated by word
 mouth (and tape) to other institutions in the United States, UK, Japan, and France and
 attracted a small following.  Paul took a Post-doctoral position at SOEST in December
 1989 and continued the GMT development. Version 2.0 was released with an article in EOS,
-October 1991, and quickly spread worldwide. Version 3.0 in 1993 which was released with
+October 1991, and quickly spread worldwide. Version 3.0 was released in 1993, with
 another article in EOS on August 15, 1995.  A major upgrade to GMT 4.0 took place in Oct
 2004. Finally, in 2013 we released the new GMT 5 series, which are generally
 backwards compatible with GMT 4 syntax. Another major upgrade took place in 2019 with
