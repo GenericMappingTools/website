@@ -1,7 +1,8 @@
-.. title:: About
+---
+title: About
+---
 
-About
-=====
+# About
 
 GMT is an open-source collection of command-line tools for manipulating geographic and
 Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and
@@ -11,46 +12,43 @@ projections and transformations and includes supporting data such as coastlines,
 and political boundaries and optionally country polygons.
 
 
-The Steering Committee
-----------------------
+## The Steering Committee
 
 As of August 2024, the GMT development and maintenance is being guided by a GMT Steering
 Committee, with members David Caress, Dongdong Tian, Federico Esteban, Joaquim Luis,
 Remko Scharroo, Walter Smith, and Xiaohua (Eric) Xu.
 
-Support
--------
+## Support
 
 GMT could not have been designed without the generous support of several people:
 
-* The founders (Wessel and Smith) gratefully acknowledge A. B. Watts and the late W. F.
+- The founders (Wessel and Smith) gratefully acknowledge A. B. Watts and the late W. F.
   Haxby for supporting their efforts on the original version 1.0 while they were Watts'
   and Haxby's graduate students at Lamont-Doherty Earth Observatory.
-* Doug Shearer and Roger Davis patiently answered many questions over e-mail.
-* The subroutine ``gauss`` was written and supplied by Bill Menke.
+- Doug Shearer and Roger Davis patiently answered many questions over e-mail.
+- The subroutine `gauss` was written and supplied by Bill Menke.
 
 Further development was made possible by grants and fellowships:
 
-* National Science Foundation grants
-  `EAR-1948602 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602>`__,
-  `OCE-1841660 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1841660>`__,
-  `EAR-1829371 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829371>`__,
-  `OCE-1558403 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1558403>`__,
-  `EAR-1347184 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1347184>`__,
-  `OCE-1029874 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1029874>`__,
-  `OCE-0452126 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0452126>`__,
-  `OCE-0082552 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0082552>`__,
-  `OCE-9529431 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=9529431>`__,
+- National Science Foundation grants
+  [EAR-1948602](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602),
+  [OCE-1841660](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1841660),
+  [EAR-1829371](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829371),
+  [OCE-1558403](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1558403),
+  [EAR-1347184](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1347184),
+  [OCE-1029874](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1029874),
+  [OCE-0452126](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0452126),
+  [OCE-0082552](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0082552),
+  [OCE-9529431](https://www.nsf.gov/awardsearch/showAward?AWD_ID=9529431),
   and
-  `EAR-9302272 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=9302272>`__.
-* Versions 2.0–2.1 would not have been possible without the support from the HIGP/SOEST
+  [EAR-9302272](https://www.nsf.gov/awardsearch/showAward?AWD_ID=9302272).
+- Versions 2.0–2.1 would not have been possible without the support from the HIGP/SOEST
   Post-Doctoral Fellowship program to Paul Wessel.
-* Walter H. F. Smith gratefully acknowledges the generous support of the C. H. and I. M.
+- Walter H. F. Smith gratefully acknowledges the generous support of the C. H. and I. M.
   Green Foundation for Earth Sciences at the Institute of Geophysics and Planetary
   Physics, Scripps Institution of Oceanography, University of California at San Diego.
 
-History
--------
+## History
 
 The GMT system was initiated in late 1987 at Lamont-Doherty Earth Observatory, Columbia
 University by graduate students Paul Wessel and Walter H. F. Smith.  Version 1 was
@@ -67,17 +65,17 @@ worldwide in a broad range of disciplines.
 
 More detail on the history of GMT:
 
-* Listen to this interview of Paul Wessel and Leonardo Uieda on the *Don't Panic
+- Listen to this interview of Paul Wessel and Leonardo Uieda on the *Don't Panic
   Geocast* episode
-  `"You are headed to a warm and sunny place" <http://www.dontpanicgeocast.com/?p=638>`__.
-* Walter Smith was also interviewed by *Don't Panic* on episode
-  `"Take the toaster apart" <https://www.dontpanicgeocast.com/?p=742>`__ where he talks
+  ["You are headed to a warm and sunny place"](http://www.dontpanicgeocast.com/?p=638).
+- Walter Smith was also interviewed by *Don't Panic* on episode
+  ["Take the toaster apart"](https://www.dontpanicgeocast.com/?p=742) where he talks
   about the early history of GMT and other topics.
-* Read Paul Wessel's article `"The Origins of the Generic Mapping Tools: From Table Tennis to Geoscience" <https://doi.org/10.1029/2023CN000231>`__ from 2024.
-* Watch this recorded talk by Paul Wessel on the 20th anniversary of the first release (`original version <https://doi.org/10.5446/19869>`__):
+- Read Paul Wessel's article ["The Origins of the Generic Mapping Tools: From Table Tennis to Geoscience"](https://doi.org/10.1029/2023CN000231) from 2024.
+- Watch this recorded talk by Paul Wessel on the 20th anniversary of the first release ([original version](https://doi.org/10.5446/19869)):
 
-.. raw:: html
-
-   <div class="embed-responsive embed-responsive-16by9">
-      <iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/19869" frameborder="0" allowfullscreen></iframe>
-   </div>
+```{raw} html
+<div class="embed-responsive embed-responsive-16by9">
+   <iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/19869" frameborder="0" allowfullscreen></iframe>
+</div>
+```

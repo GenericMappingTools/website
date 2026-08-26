@@ -1,0 +1,100 @@
+---
+title: Mirrors
+---
+
+# Mirrors
+
+**We thank the hosting institutions for mirroring the GMT FTP and data server
+so that users can have a faster download wherever they are located.**
+
+## FTP Mirrors
+
+The GMT FTP site hosts tarballs of GMT releases and its support data.
+Here is a list of the known active mirrors of the GMT FTP site.
+Try the site that is closest to you to minimize transmission times.
+
+| Site | Address |
+|------|---------|
+| SOEST, U. of Hawaii, USA | ftp://ftp.soest.hawaii.edu/gmt |
+| EarthByte Group, Sydney U, Australia | https://www.earthbyte.org/webdav/gmt_mirror/gmt |
+| Lab for Satellite Altimetry, NOAA, USA | ftp://ftp.star.nesdis.noaa.gov/pub/sod/lsa/gmt |
+| IRIS, Washington, USA | ftp://ftp.iris.washington.edu/pub/gmt |
+| IAG-USP, U. of Sao Paulo, Brazil | https://generic-mapping-tools.iag.usp.br/gmt |
+| Univ. of Sci. & Tech. of China, Hefei, China | http://mirrors.ustc.edu.cn/gmt |
+| Tokai U, Shizuoka, Japan | http://www.scc.u-tokai.ac.jp/gmt |
+
+
+## Data Server Mirrors
+
+The GMT data server stores frequently used data sets (e.g., Earth Relief Data).
+Here is a list of the known active mirrors of the GMT remote data server.
+Change the GMT setting [GMT_DATA_SERVER](https://docs.generic-mapping-tools.org/latest/gmt.conf.html#term-GMT_DATA_SERVER)
+to the mirror that is closest to you to minimize transmission times.
+(Please [report to us](https://github.com/GenericMappingTools/gmtserver-admin/issues) if any mirrors are offline.)
+
+:::{list-table}
+:widths: 20 50 25 5
+:header-rows: 1
+
+* - Name
+  - Address
+  - Host
+  - Status
+* - **Oceania** [Master]
+  - https://oceania.generic-mapping-tools.org
+  - SOEST, U of Hawaii, USA
+  - ![](https://img.shields.io/website?up_message=ON&down_message=offline&label=&url=https://oceania.generic-mapping-tools.org/gmt_data_server.txt)
+* - **Brasil**
+  - http://brasil.generic-mapping-tools.org
+  - IAG-USP, U of Sao Paulo, Brazil
+  - ![](https://img.shields.io/website?up_message=ON&down_message=offline&label=&url=https://generic-mapping-tools.iag.usp.br/gmtdata/gmt_data_server.txt)
+* - **Australia**
+  - http://australia.generic-mapping-tools.org
+  - EarthByte Group, Sydney U, Australia
+  - ![](https://img.shields.io/website?up_message=ON&down_message=offline&label=&url=https://www.earthbyte.org/webdav/gmt_mirror/gmtdata/gmt_data_server.txt)
+* - **China**
+  - http://china.generic-mapping-tools.org
+  - U of Sci. & Tech. of China, China
+  - ![](https://img.shields.io/website?up_message=ON&down_message=offline&label=&url=https://mirrors.ustc.edu.cn/gmtdata/gmt_data_server.txt)
+* - **sdsc-opentopography** [US West Coast]
+  - http://sdsc-opentopography.generic-mapping-tools.org
+  - OpenTopography at San Diego Supercomputing Center
+  - ![](https://img.shields.io/website?up_message=ON&down_message=offline&label=&url=https://opentopography.s3.sdsc.edu/gmtdata/gmt_data_server.txt)
+* - **NOAA** [US East Coast]
+  - http://noaa.generic-mapping-tools.org
+  - Lab for Satellite Altimetry, NOAA, USA
+  - ![](https://img.shields.io/website?up_message=ON&down_message=offline&label=&url=https://www.star.nesdis.noaa.gov/data/socd3/lsa/gmtdata/gmt_data_server.txt)
+* - **Portugal**
+  - http://portugal.generic-mapping-tools.org
+  - U of Algarve, Portugal
+  - ![](https://img.shields.io/website?up_message=ON&down_message=offline&label=&url=http://fct-gmt.ualg.pt/gmt/data/gmt_data_server.txt)
+* - **Singapore**
+  - http://singapore.generic-mapping-tools.org
+  - National U of Singapore, Singapore
+  - ![](https://img.shields.io/website?up_message=ON&down_message=offline&label=&url=http://download.nus.edu.sg/mirror/gmt/gmt_data_server.txt)
+:::
+
+## Becoming a GMT mirror
+
+You can help out the GMT community by running a mirror of
+the GMT FTP site (~25 GB) and/or the GMT data server (~120 GB).
+
+To mirror the GMT FTP site, you can use [lftp](https://lftp.yar.ru/):
+
+```
+lftp -e "mirror --delete --parallel=8 gmt gmt; bye" ftp.soest.hawaii.edu
+```
+
+To mirror the GMT data server, you can use the **rsync** command:
+
+```
+rsync -av --delete rsync://oceania.generic-mapping-tools.org/gmtdata /your/local/gmtdata
+```
+
+You must run the above commands periodically (e.g., daily) to keep files in the
+mirrors up to date. This can be done via [cron jobs](https://en.wikipedia.org/wiki/Cron).
+
+We are glad to offer help if you encounter problems when setting up the mirror.
+Once you have gotten the mirror running, please [let us know](https://forum.generic-mapping-tools.org/)
+so that we can add your mirror to the list. **Note**: We reserve the right to decide which mirrors
+will receive a forward from the generic-mapping-tools domain.
