@@ -11,30 +11,18 @@ Furthermore, you are welcome to cite the specific version you have used in your 
 
 The GMT releases are:
 
-:::{list-table}
-:header-rows: 0
-
-* - **latest / all**
-  - [![](https://zenodo.org/badge/DOI/10.5281/zenodo.3407865.svg)](https://doi.org/10.5281/zenodo.3407865)
-* - **6.7.0**
-  - [![](https://zenodo.org/badge/DOI/10.5281/zenodo.19398868.svg)](https://doi.org/10.5281/zenodo.19398868)
-* - **6.6.0**
-  - [![](https://zenodo.org/badge/DOI/10.5281/zenodo.16448627.svg)](https://doi.org/10.5281/zenodo.16448627)
-* - **6.5.0**
-  - [![](https://zenodo.org/badge/DOI/10.5281/zenodo.10119499.svg)](https://doi.org/10.5281/zenodo.10119499)
-* - **6.4.0**
-  - [![](https://zenodo.org/badge/DOI/10.5281/zenodo.6623271.svg)](https://doi.org/10.5281/zenodo.6623271)
-* - **6.3.0**
-  - [![](https://zenodo.org/badge/DOI/10.5281/zenodo.5708769.svg)](https://doi.org/10.5281/zenodo.5708769)
-* - **6.2.0**
-  - [![](https://zenodo.org/badge/DOI/10.5281/zenodo.4900001.svg)](https://doi.org/10.5281/zenodo.4900001)
-* - **6.1.1**
-  - [![](https://zenodo.org/badge/DOI/10.5281/zenodo.4010996.svg)](https://doi.org/10.5281/zenodo.4010996)
-* - **6.1.0**
-  - [![](https://zenodo.org/badge/DOI/10.5281/zenodo.3924517.svg)](https://doi.org/10.5281/zenodo.3924517)
-* - **6.0.0**
-  - [![](https://zenodo.org/badge/DOI/10.5281/zenodo.3407866.svg)](https://doi.org/10.5281/zenodo.3407866)
-:::
+| | |
+|---|---|
+| **latest / all** | [![](https://zenodo.org/badge/DOI/10.5281/zenodo.3407865.svg)](https://doi.org/10.5281/zenodo.3407865) |
+| **6.7.0** | [![](https://zenodo.org/badge/DOI/10.5281/zenodo.19398868.svg)](https://doi.org/10.5281/zenodo.19398868) |
+| **6.6.0** | [![](https://zenodo.org/badge/DOI/10.5281/zenodo.16448627.svg)](https://doi.org/10.5281/zenodo.16448627) |
+| **6.5.0** | [![](https://zenodo.org/badge/DOI/10.5281/zenodo.10119499.svg)](https://doi.org/10.5281/zenodo.10119499) |
+| **6.4.0** | [![](https://zenodo.org/badge/DOI/10.5281/zenodo.6623271.svg)](https://doi.org/10.5281/zenodo.6623271) |
+| **6.3.0** | [![](https://zenodo.org/badge/DOI/10.5281/zenodo.5708769.svg)](https://doi.org/10.5281/zenodo.5708769) |
+| **6.2.0** | [![](https://zenodo.org/badge/DOI/10.5281/zenodo.4900001.svg)](https://doi.org/10.5281/zenodo.4900001) |
+| **6.1.1** | [![](https://zenodo.org/badge/DOI/10.5281/zenodo.4010996.svg)](https://doi.org/10.5281/zenodo.4010996) |
+| **6.1.0** | [![](https://zenodo.org/badge/DOI/10.5281/zenodo.3924517.svg)](https://doi.org/10.5281/zenodo.3924517) |
+| **6.0.0** | [![](https://zenodo.org/badge/DOI/10.5281/zenodo.3407866.svg)](https://doi.org/10.5281/zenodo.3407866) |
 
 The articles on GMT are:
 
