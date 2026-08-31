@@ -1,5 +1,7 @@
 import datetime
+
 import sphinx_bootstrap_theme
+from docutils import nodes
 
 # Sphinx project configuration
 templates_path = ["_templates"]
@@ -110,7 +112,29 @@ html_context = {
 }
 
 
+def use_front_matter_title(app, doctree):
+    """Use the front matter ``title`` as the title of pages without a heading.
+
+    Sphinx takes the page title from the first section heading and falls back
+    to "<no title>" when a page has none, like the landing page. MyST only
+    uses the front matter ``title`` if ``myst_title_to_header`` is enabled,
+    which would insert a visible heading, so set the title ourselves.
+    """
+    if doctree.next_node(nodes.section) is not None:
+        return  # Sphinx uses the first heading as the title
+    docinfo = doctree.next_node(nodes.docinfo)
+    if docinfo is None:
+        return
+    for field in docinfo.findall(nodes.field):
+        field_name, field_body = field.children
+        if field_name.astext() == "title":
+            doctree["title"] = field_body.astext()
+            return
+
+
 # Load the custom CSS files (needs sphinx >= 1.6 for this to work)
 def setup(app):
     app.add_css_file("style.css")
     app.add_css_file("fontawesome/css/all.css")
+    # Priority < 500 so that it runs before Sphinx collects the page titles
+    app.connect("doctree-read", use_front_matter_title, priority=400)
