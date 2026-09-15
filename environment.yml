@@ -1,9 +1,9 @@
 name: gmt-website
 channels:
     - conda-forge
-    - defaults
+    - nodefaults
 dependencies:
-    - python=3.10
+    - python=3.14
     - pip
     - sphinx
     - sphinx_bootstrap_theme
