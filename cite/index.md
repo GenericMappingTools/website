@@ -25,7 +25,7 @@ The GMT releases are:
 The articles on GMT are:
 
 - **PyGMT**:
-  Tian, D., Fröhlich, Y., Leong, W. J., Grund, M., Schlitzer, W., Jones, M., Uieda, L., Luis, J. M. F. (2026).
+  Tian, D., Fröhlich, Y., Leong, W. J., Grund, M., Schlitzer, W., Jones, M., Uieda, L., & Luis, J. M. F. (2026).
   PyGMT: Bridging Python and the Generic Mapping Tools for Geospatial Visualization and Analysis.
   *Geochemistry, Geophysics, Geosystems*, 27(7), e2026GC013105.
   https://doi.org/10.1029/2026GC013105
@@ -37,7 +37,7 @@ The articles on GMT are:
 - **GMT Animation**:
   Wessel, P., Esteban, F., & Delaviel-Anger, G. (2024).
   The Generic Mapping Tools and Animations for the Masses.
-  *Geochemistry, Geophysics, Geosystems*, 25(6).
+  *Geochemistry, Geophysics, Geosystems*, 25(6), e2024GC011545.
   https://doi.org/10.1029/2024GC011545
 - **Origin of GMT**:
   Wessel, P. (2024).
