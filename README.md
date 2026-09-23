@@ -1,6 +1,6 @@
 # Source for the GMT website
 
-[![build-html](https://github.com/GenericMappingTools/website/workflows/build-html/badge.svg?event=push)](https://github.com/GenericMappingTools/website/actions?query=workflow%3Abuild-html)
+[![build-html](https://github.com/GenericMappingTools/website/actions/workflows/build.yml/badge.svg)](https://github.com/GenericMappingTools/website/actions/workflows/build.yml)
 
 This repository contains the sphinx source files for building the GMT website.
 
